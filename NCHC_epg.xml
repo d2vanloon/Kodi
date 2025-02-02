@@ -1,1 +1,10 @@
-
+<?xml version='1.0' encoding='utf-8'?>
+<tv>
+  <programme start="20250201180000 -0600" stop="20250201210000 -0600" channel="St._Cloud_State">
+    <title>St. Cloud State vs. North Dakota</title>
+    <desc>Live broadcast of St. Cloud State vs North Dakota</desc>
+    <key>19865</key>
+    <link>https://nchchockey.com/tv/schedule/event/1220</link>
+    <category>Sports</category>
+    </programme>
+  </tv>
