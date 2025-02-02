@@ -28,4 +28,25 @@
     <link>https://nchchockey.com/tv/schedule/event/1136</link>
     <category>Sports</category>
     </programme>
+  <programme start="20250131180500 -0600" stop="20250131210500 -0600" channel="Miami">
+    <title>Miami vs. Arizona State</title>
+    <desc>Live broadcast of Miami vs Arizona State</desc>
+    <key>19753</key>
+    <link>https://nchchockey.com/tv/schedule/event/1196</link>
+    <category>Sports</category>
+    </programme>
+  <programme start="20250131193000 -0600" stop="20250131223000 -0600" channel="St._Cloud_State">
+    <title>St. Cloud State vs. North Dakota</title>
+    <desc>Live broadcast of St. Cloud State vs North Dakota</desc>
+    <key>19864</key>
+    <link>https://nchchockey.com/tv/schedule/event/1219</link>
+    <category>Sports</category>
+    </programme>
+  <programme start="20250131200000 -0600" stop="20250131230000 -0600" channel="Denver">
+    <title>Denver vs. Omaha</title>
+    <desc>Live broadcast of Denver vs Omaha</desc>
+    <key>19529</key>
+    <link>https://nchchockey.com/tv/schedule/event/1185</link>
+    <category>Sports</category>
+    </programme>
   </tv>
