@@ -1,31 +1,3 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
-  <programme start="20250201180000 -0600" stop="20250201210000 -0600" channel="St._Cloud_State">
-    <title>St. Cloud State vs. North Dakota</title>
-    <desc>Live broadcast of St. Cloud State vs North Dakota</desc>
-    <key>19865</key>
-    <link>https://nchchockey.com/tv/schedule/event/1220</link>
-    <category>Sports</category>
-    </programme>
-  <programme start="20250201180500 -0600" stop="20250201210500 -0600" channel="Miami">
-    <title>Miami vs. Arizona State</title>
-    <desc>Live broadcast of Miami vs Arizona State</desc>
-    <key>19754</key>
-    <link>https://nchchockey.com/tv/schedule/event/1197</link>
-    <category>Sports</category>
-    </programme>
-  <programme start="20250201190000 -0600" stop="20250201220000 -0600" channel="Denver">
-    <title>Denver vs. Omaha</title>
-    <desc>Live broadcast of Denver vs Omaha</desc>
-    <key>19530</key>
-    <link>https://nchchockey.com/tv/schedule/event/1186</link>
-    <category>Sports</category>
-    </programme>
-  <programme start="20250201190000 -0600" stop="20250201220000 -0600" channel="Colorado_College">
-    <title>Colorado College vs. Western Michigan </title>
-    <desc>Live broadcast of Colorado College vs Western Michigan </desc>
-    <key>19707</key>
-    <link>https://nchchockey.com/tv/schedule/event/1136</link>
-    <category>Sports</category>
-    </programme>
-  </tv>
+</tv>
