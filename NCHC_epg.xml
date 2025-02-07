@@ -49,4 +49,25 @@
     <link>https://nchchockey.com/tv/schedule/event/1185</link>
     <category>Sports</category>
     </programme>
+  <programme start="20250207180000 -0600" stop="20250207210000 -0600" channel="Western_Michigan_">
+    <title>Western Michigan  vs. St. Cloud State</title>
+    <desc>Live broadcast of Western Michigan  vs St. Cloud State</desc>
+    <key>19930</key>
+    <link>http://nchchockey.com/showcase/?Live=1171</link>
+    <category>Sports</category>
+    </programme>
+  <programme start="20250207190700 -0600" stop="20250207220700 -0600" channel="North_Dakota">
+    <title>North Dakota vs. Colorado College</title>
+    <desc>Live broadcast of North Dakota vs Colorado College</desc>
+    <key>19690</key>
+    <link>http://nchchockey.com/showcase/?Live=1145</link>
+    <category>Sports</category>
+    </programme>
+  <programme start="20250207190700 -0600" stop="20250207220700 -0600" channel="Omaha">
+    <title>Omaha vs. Minnesota Duluth</title>
+    <desc>Live broadcast of Omaha vs Minnesota Duluth</desc>
+    <key>19824</key>
+    <link>https://nchchockey.com/tv/schedule/event/1160</link>
+    <category>Sports</category>
+    </programme>
   </tv>
