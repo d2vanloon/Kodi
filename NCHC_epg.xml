@@ -1,5 +1,41 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
+    <channel id="Western_Michigan_">
+    <display-name>Western Michigan Hockey</display-name>
+    <icon src="https://nchchockey.com/images/2024/11/16/WMU_spirit_mark_full_color.png" />
+    </channel>
+  <channel id="North_Dakota">
+    <display-name>North Dakota Hockey</display-name>
+    <icon src="https://nchchockey.com/images/logos/NorthDakota-FightingHawks.png" />
+    </channel>
+  <channel id="Omaha">
+    <display-name>Omaha Hockey</display-name>
+    <icon src="https://nchchockey.com/images/logos/omaha_logo_200x200.png" />
+    </channel>
+  <channel id="Minnesota_Duluth">
+    <display-name>Minnesota Duluth Hockey</display-name>
+    <icon src="https://nchchockey.com/images/logos/University-of-Minnesota-Duluth.png" />
+    </channel>  
+  <channel id="Colorado_College">
+    <display-name>Colorado College Hockey</display-name>
+    <icon src="https://nchchockey.com/images/logos/ColoradoCollege.png" />
+    </channel>
+  <channel id="Arizona_State">
+    <display-name>Arizona State Hockey</display-name>
+    <icon src="https://nchchockey.com/images/logos/Arizona-State.png" />
+    </channel> 
+  <channel id="Denver">
+    <display-name>Denver Hockey</display-name>
+    <icon src="https://nchchockey.com/images/2022/12/30/du_athletics_logo_logomark_1_clr_rgb_w_white_fill_1_.png" />
+    </channel>
+  <channel id="St._Cloud_State">
+    <display-name>St Cloud State Hockey</display-name>
+    <icon src="https://nchchockey.com/images/logos/Saint-Cloud-State.png" />
+    </channel> 
+  <channel id="Miami">
+    <display-name>Miami Hockey</display-name>
+    <icon src="https://nchchockey.com/images/logos/Miami-OH.png" />
+    </channel>
   <programme start="20250201180000 -0600" stop="20250201210000 -0600" channel="St._Cloud_State">
     <title>St. Cloud State vs. North Dakota</title>
     <desc>Live broadcast of St. Cloud State vs North Dakota</desc>
