@@ -15,7 +15,7 @@
   <channel id="Minnesota_Duluth">
     <display-name>Minnesota Duluth Hockey</display-name>
     <icon src="https://nchchockey.com/images/logos/University-of-Minnesota-Duluth.png" />
-    </channel>  
+    </channel>
   <channel id="Colorado_College">
     <display-name>Colorado College Hockey</display-name>
     <icon src="https://nchchockey.com/images/logos/ColoradoCollege.png" />
@@ -23,7 +23,7 @@
   <channel id="Arizona_State">
     <display-name>Arizona State Hockey</display-name>
     <icon src="https://nchchockey.com/images/logos/Arizona-State.png" />
-    </channel> 
+    </channel>
   <channel id="Denver">
     <display-name>Denver Hockey</display-name>
     <icon src="https://nchchockey.com/images/2022/12/30/du_athletics_logo_logomark_1_clr_rgb_w_white_fill_1_.png" />
@@ -31,7 +31,7 @@
   <channel id="St._Cloud_State">
     <display-name>St Cloud State Hockey</display-name>
     <icon src="https://nchchockey.com/images/logos/Saint-Cloud-State.png" />
-    </channel> 
+    </channel>
   <channel id="Miami">
     <display-name>Miami Hockey</display-name>
     <icon src="https://nchchockey.com/images/logos/Miami-OH.png" />
