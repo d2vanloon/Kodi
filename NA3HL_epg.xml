@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv>
+  <channel id="Mountain_Kings">
+    <display-name>New Hampshire Mountain Kings</display-name>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/NewHampshireMountainKings.png"/>
+  </channel>
+  <channel id="Windigo">
+    <display-name>Wisconsin Windigo</display-name>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/620.png"/>
+  </channel>
+  <channel id="Aviators">
+    <display-name>Elmira Aviators</display-name>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/2375a.png"/>
+  </channel>
+  <channel id="Rebels">
+    <display-name>Philadelphia Rebels</display-name>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/616.png"/>
+  </channel>
+  <channel id="Bulls">
+    <display-name>North Iowa Bulls</display-name>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/612.png"/>
+  </channel>
+  <channel id="Black_Bears">
+    <display-name>Maryland Black Bears</display-name>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/607.png"/>
+  </channel>
+  <channel id="Steel">
+    <display-name>Chippewa Steel</display-name>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/13.png"/>
+  </channel>
+  <channel id="Mallards">
+    <display-name>Minnesota Mallards</display-name>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/2375.png"/>
+  </channel>
+  <channel id="Bruins">
+    <display-name>Austin Bruins</display-name>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/595.png"/>
+  </channel>
+  <channel id="Mudbugs">
+    <display-name>Shreveport Mudbugs</display-name>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/617.png"/>
+  </channel>
+  <channel id="Wranglers">
+    <display-name>Amarillo Wranglers</display-name>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/593.png"/>
+  </channel>
+  <channel id="Jackalopes">
+    <display-name>Odessa Jackalopes</display-name>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/614.png"/>
+  </channel>
+  <channel id="Wings">
+    <display-name>Aberdeen Wings</display-name>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/592.png"/>
+  </channel>
+  <channel id="Rhinos">
+    <display-name>El Paso Rhinos</display-name>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/600.png"/>
+  </channel>
+  <channel id="Ice_Dogs">
+    <display-name>Fairbanks Ice Dogs</display-name>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/601.png"/>
+  </channel>
+  <channel id="Sea_Captains">
+    <display-name>Norwich Sea Captains</display-name>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/644.png"/>
+  </channel>
+  <channel id="Buzz">
+    <display-name>Binghamton Buzz</display-name>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/2378.png"/>
+  </channel>
+  <channel id="RoadRunners">
+    <display-name>Texas RoadRunners</display-name>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/65.png"/>
+  </channel>
+  <channel id="Ice_Bats">
+    <display-name>Austin Ice Bats</display-name>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/623.png"/>
+  </channel>
+  <channel id="Jr._Oilers">
+    <display-name>Tulsa Jr. Oilers</display-name>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/2381.png"/>
+  </channel>
+  <channel id="Grizzlies">
+    <display-name>Rochester Grizzlies</display-name>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/30.png"/>
+  </channel>
+  <channel id="Cyclones">
+    <display-name>Wausau Cyclones</display-name>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/652.png"/>
+  </channel>
+  <channel id="Blizzard">
+    <display-name>Alexandria Blizzard</display-name>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/621.png"/>
+  </channel>
+  <channel id="Wild">
+    <display-name>Gillette Wild</display-name>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/630.png"/>
+  </channel>
+  <channel id="Bighorns">
+    <display-name>Helena Bighorns</display-name>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/50_272.png"/>
+  </channel>
+  <channel id="Brahmas">
+    <display-name>Texas Brahmas</display-name>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/650.png"/>
+  </channel>  
+  <channel id="WarHawks">
+    <display-name>Willmar WarHawks</display-name>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/653.png"/>
+  </channel>
+  <channel id="Quake">
+    <display-name>Yellowstone Quake</display-name>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/654.png"/>
+  </channel>
+  <channel id="Sabres">
+    <display-name>Badlands Sabres</display-name>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/624.png"/>
+  </channel>
+  <channel id="Hawks">
+    <display-name>Sheridan Hawks</display-name>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/31.png"/>
+  </channel>
+  </tv>
