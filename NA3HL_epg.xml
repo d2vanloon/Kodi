@@ -2,122 +2,346 @@
 <tv>
   <channel id="Mountain_Kings">
     <display-name>New Hampshire Mountain Kings</display-name>
-    <icon src="https://images-us-east.htptv.net/nahl/logos/NewHampshireMountainKings.png"/>
-  </channel>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/NewHampshireMountainKings.png" />
+    </channel>
   <channel id="Windigo">
     <display-name>Wisconsin Windigo</display-name>
-    <icon src="https://images-us-east.htptv.net/nahl/logos/620.png"/>
-  </channel>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/620.png" />
+    </channel>
   <channel id="Aviators">
     <display-name>Elmira Aviators</display-name>
-    <icon src="https://images-us-east.htptv.net/nahl/logos/2375a.png"/>
-  </channel>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/2375a.png" />
+    </channel>
   <channel id="Rebels">
     <display-name>Philadelphia Rebels</display-name>
-    <icon src="https://images-us-east.htptv.net/nahl/logos/616.png"/>
-  </channel>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/616.png" />
+    </channel>
   <channel id="Bulls">
     <display-name>North Iowa Bulls</display-name>
-    <icon src="https://images-us-east.htptv.net/nahl/logos/612.png"/>
-  </channel>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/612.png" />
+    </channel>
   <channel id="Black_Bears">
     <display-name>Maryland Black Bears</display-name>
-    <icon src="https://images-us-east.htptv.net/nahl/logos/607.png"/>
-  </channel>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/607.png" />
+    </channel>
   <channel id="Steel">
     <display-name>Chippewa Steel</display-name>
-    <icon src="https://images-us-east.htptv.net/nahl/logos/13.png"/>
-  </channel>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/13.png" />
+    </channel>
   <channel id="Mallards">
     <display-name>Minnesota Mallards</display-name>
-    <icon src="https://images-us-east.htptv.net/nahl/logos/2375.png"/>
-  </channel>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/2375.png" />
+    </channel>
   <channel id="Bruins">
     <display-name>Austin Bruins</display-name>
-    <icon src="https://images-us-east.htptv.net/nahl/logos/595.png"/>
-  </channel>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/595.png" />
+    </channel>
   <channel id="Mudbugs">
     <display-name>Shreveport Mudbugs</display-name>
-    <icon src="https://images-us-east.htptv.net/nahl/logos/617.png"/>
-  </channel>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/617.png" />
+    </channel>
   <channel id="Wranglers">
     <display-name>Amarillo Wranglers</display-name>
-    <icon src="https://images-us-east.htptv.net/nahl/logos/593.png"/>
-  </channel>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/593.png" />
+    </channel>
   <channel id="Jackalopes">
     <display-name>Odessa Jackalopes</display-name>
-    <icon src="https://images-us-east.htptv.net/nahl/logos/614.png"/>
-  </channel>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/614.png" />
+    </channel>
   <channel id="Wings">
     <display-name>Aberdeen Wings</display-name>
-    <icon src="https://images-us-east.htptv.net/nahl/logos/592.png"/>
-  </channel>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/592.png" />
+    </channel>
   <channel id="Rhinos">
     <display-name>El Paso Rhinos</display-name>
-    <icon src="https://images-us-east.htptv.net/nahl/logos/600.png"/>
-  </channel>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/600.png" />
+    </channel>
   <channel id="Ice_Dogs">
     <display-name>Fairbanks Ice Dogs</display-name>
-    <icon src="https://images-us-east.htptv.net/nahl/logos/601.png"/>
-  </channel>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/601.png" />
+    </channel>
   <channel id="Sea_Captains">
     <display-name>Norwich Sea Captains</display-name>
-    <icon src="https://images-us-east.htptv.net/nahl/logos/644.png"/>
-  </channel>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/644.png" />
+    </channel>
   <channel id="Buzz">
     <display-name>Binghamton Buzz</display-name>
-    <icon src="https://images-us-east.htptv.net/nahl/logos/2378.png"/>
-  </channel>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/2378.png" />
+    </channel>
   <channel id="RoadRunners">
     <display-name>Texas RoadRunners</display-name>
-    <icon src="https://images-us-east.htptv.net/nahl/logos/65.png"/>
-  </channel>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/65.png" />
+    </channel>
   <channel id="Ice_Bats">
     <display-name>Austin Ice Bats</display-name>
-    <icon src="https://images-us-east.htptv.net/nahl/logos/623.png"/>
-  </channel>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/623.png" />
+    </channel>
   <channel id="Jr._Oilers">
     <display-name>Tulsa Jr. Oilers</display-name>
-    <icon src="https://images-us-east.htptv.net/nahl/logos/2381.png"/>
-  </channel>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/2381.png" />
+    </channel>
   <channel id="Grizzlies">
     <display-name>Rochester Grizzlies</display-name>
-    <icon src="https://images-us-east.htptv.net/nahl/logos/30.png"/>
-  </channel>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/30.png" />
+    </channel>
   <channel id="Cyclones">
     <display-name>Wausau Cyclones</display-name>
-    <icon src="https://images-us-east.htptv.net/nahl/logos/652.png"/>
-  </channel>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/652.png" />
+    </channel>
   <channel id="Blizzard">
     <display-name>Alexandria Blizzard</display-name>
-    <icon src="https://images-us-east.htptv.net/nahl/logos/621.png"/>
-  </channel>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/621.png" />
+    </channel>
   <channel id="Wild">
     <display-name>Gillette Wild</display-name>
-    <icon src="https://images-us-east.htptv.net/nahl/logos/630.png"/>
-  </channel>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/630.png" />
+    </channel>
   <channel id="Bighorns">
     <display-name>Helena Bighorns</display-name>
-    <icon src="https://images-us-east.htptv.net/nahl/logos/50_272.png"/>
-  </channel>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/50_272.png" />
+    </channel>
   <channel id="Brahmas">
     <display-name>Texas Brahmas</display-name>
-    <icon src="https://images-us-east.htptv.net/nahl/logos/650.png"/>
-  </channel>  
+    <icon src="https://images-us-east.htptv.net/nahl/logos/650.png" />
+    </channel>
   <channel id="WarHawks">
     <display-name>Willmar WarHawks</display-name>
-    <icon src="https://images-us-east.htptv.net/nahl/logos/653.png"/>
-  </channel>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/653.png" />
+    </channel>
   <channel id="Quake">
     <display-name>Yellowstone Quake</display-name>
-    <icon src="https://images-us-east.htptv.net/nahl/logos/654.png"/>
-  </channel>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/654.png" />
+    </channel>
   <channel id="Sabres">
     <display-name>Badlands Sabres</display-name>
-    <icon src="https://images-us-east.htptv.net/nahl/logos/624.png"/>
-  </channel>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/624.png" />
+    </channel>
   <channel id="Hawks">
     <display-name>Sheridan Hawks</display-name>
-    <icon src="https://images-us-east.htptv.net/nahl/logos/31.png"/>
-  </channel>
+    <icon src="https://images-us-east.htptv.net/nahl/logos/31.png" />
+    </channel>
+  <programme start="20250208193500 -0600" stop="20250208200500 -0600" channel="Quake">
+    <title>Pregame: Yellowstone Quake vs. Butte Irish</title>
+    <desc>Live broadcast of Pregame: Yellowstone Quake vs. Butte Irish</desc>
+    <key>21087</key>
+    <link>https://www.nahltv.com/watch/21087</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20250208200500 -0600" stop="20250208230500 -0600" channel="Quake">
+    <title>Yellowstone Quake vs. Butte Irish</title>
+    <desc>Live broadcast of Yellowstone Quake vs. Butte Irish</desc>
+    <key>21087</key>
+    <link>https://www.nahltv.com/watch/21087</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20250208193500 -0600" stop="20250208200500 -0600" channel="Sabres">
+    <title>Pregame: Badlands Sabres vs. Bozeman Icedogs</title>
+    <desc>Live broadcast of Pregame: Badlands Sabres vs. Bozeman Icedogs</desc>
+    <key>21088</key>
+    <link>https://www.nahltv.com/watch/21088</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20250208200500 -0600" stop="20250208230500 -0600" channel="Sabres">
+    <title>Badlands Sabres vs. Bozeman Icedogs</title>
+    <desc>Live broadcast of Badlands Sabres vs. Bozeman Icedogs</desc>
+    <key>21088</key>
+    <link>https://www.nahltv.com/watch/21088</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20250208193500 -0600" stop="20250208200500 -0600" channel="Bighorns">
+    <title>Pregame: Helena Bighorns vs. Gillette Wild</title>
+    <desc>Live broadcast of Pregame: Helena Bighorns vs. Gillette Wild</desc>
+    <key>21092</key>
+    <link>https://www.nahltv.com/watch/21092</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20250208200500 -0600" stop="20250208230500 -0600" channel="Bighorns">
+    <title>Helena Bighorns vs. Gillette Wild</title>
+    <desc>Live broadcast of Helena Bighorns vs. Gillette Wild</desc>
+    <key>21092</key>
+    <link>https://www.nahltv.com/watch/21092</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20250208200000 -0600" stop="20250208203000 -0600" channel="Hawks">
+    <title>Pregame: Sheridan Hawks vs. Great Falls Americans</title>
+    <desc>Live broadcast of Pregame: Sheridan Hawks vs. Great Falls Americans</desc>
+    <key>21093</key>
+    <link>https://www.nahltv.com/watch/21093</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20250208203000 -0600" stop="20250208233000 -0600" channel="Hawks">
+    <title>Sheridan Hawks vs. Great Falls Americans</title>
+    <desc>Live broadcast of Sheridan Hawks vs. Great Falls Americans</desc>
+    <key>21093</key>
+    <link>https://www.nahltv.com/watch/21093</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20250209111500 -0600" stop="20250209114500 -0600" channel="Ice_Bats">
+    <title>Pregame: Austin Ice Bats vs. El Paso Rhinos</title>
+    <desc>Live broadcast of Pregame: Austin Ice Bats vs. El Paso Rhinos</desc>
+    <key>21096</key>
+    <link>https://www.nahltv.com/watch/21096</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20250209114500 -0600" stop="20250209144500 -0600" channel="Ice_Bats">
+    <title>Austin Ice Bats vs. El Paso Rhinos</title>
+    <desc>Live broadcast of Austin Ice Bats vs. El Paso Rhinos</desc>
+    <key>21096</key>
+    <link>https://www.nahltv.com/watch/21096</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20250209111500 -0600" stop="20250209114500 -0600" channel="RoadRunners">
+    <title>Pregame: Texas RoadRunners vs. Atlanta Capitals</title>
+    <desc>Live broadcast of Pregame: Texas RoadRunners vs. Atlanta Capitals</desc>
+    <key>21097</key>
+    <link>https://www.nahltv.com/watch/21097</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20250209114500 -0600" stop="20250209144500 -0600" channel="RoadRunners">
+    <title>Texas RoadRunners vs. Atlanta Capitals</title>
+    <desc>Live broadcast of Texas RoadRunners vs. Atlanta Capitals</desc>
+    <key>21097</key>
+    <link>https://www.nahltv.com/watch/21097</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20250209130000 -0600" stop="20250209133000 -0600" channel="Jr._Oilers">
+    <title>Pregame: Tulsa Jr. Oilers vs. Louisiana Drillers</title>
+    <desc>Live broadcast of Pregame: Tulsa Jr. Oilers vs. Louisiana Drillers</desc>
+    <key>21098</key>
+    <link>https://www.nahltv.com/watch/21098</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20250209133000 -0600" stop="20250209163000 -0600" channel="Jr._Oilers">
+    <title>Tulsa Jr. Oilers vs. Louisiana Drillers</title>
+    <desc>Live broadcast of Tulsa Jr. Oilers vs. Louisiana Drillers</desc>
+    <key>21098</key>
+    <link>https://www.nahltv.com/watch/21098</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20250209153000 -0600" stop="20250209160000 -0600" channel="Quake">
+    <title>Pregame: Yellowstone Quake vs. Butte Irish</title>
+    <desc>Live broadcast of Pregame: Yellowstone Quake vs. Butte Irish</desc>
+    <key>21073</key>
+    <link>https://www.nahltv.com/watch/21073</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20250209160000 -0600" stop="20250209190000 -0600" channel="Quake">
+    <title>Yellowstone Quake vs. Butte Irish</title>
+    <desc>Live broadcast of Yellowstone Quake vs. Butte Irish</desc>
+    <key>21073</key>
+    <link>https://www.nahltv.com/watch/21073</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20250209193500 -0600" stop="20250209200500 -0600" channel="Bighorns">
+    <title>Pregame: Helena Bighorns vs. Gillette Wild</title>
+    <desc>Live broadcast of Pregame: Helena Bighorns vs. Gillette Wild</desc>
+    <key>21078</key>
+    <link>https://www.nahltv.com/watch/21078</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20250209200500 -0600" stop="20250209230500 -0600" channel="Bighorns">
+    <title>Helena Bighorns vs. Gillette Wild</title>
+    <desc>Live broadcast of Helena Bighorns vs. Gillette Wild</desc>
+    <key>21078</key>
+    <link>https://www.nahltv.com/watch/21078</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20250213113000 -0600" stop="20250213120000 -0600" channel="Ice_Wolves">
+    <title>Pregame: New Mexico Ice Wolves vs. Atlanta Capitals</title>
+    <desc>Live broadcast of Pregame: New Mexico Ice Wolves vs. Atlanta Capitals</desc>
+    <key>21099</key>
+    <link>https://www.nahltv.com/watch/21099</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20250213120000 -0600" stop="20250213150000 -0600" channel="Ice_Wolves">
+    <title>New Mexico Ice Wolves vs. Atlanta Capitals</title>
+    <desc>Live broadcast of New Mexico Ice Wolves vs. Atlanta Capitals</desc>
+    <key>21099</key>
+    <link>https://www.nahltv.com/watch/21099</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20250213153000 -0600" stop="20250213160000 -0600" channel="RoadRunners">
+    <title>Pregame: Texas RoadRunners vs. Texas Brahmas</title>
+    <desc>Live broadcast of Pregame: Texas RoadRunners vs. Texas Brahmas</desc>
+    <key>21100</key>
+    <link>https://www.nahltv.com/watch/21100</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20250213160000 -0600" stop="20250213190000 -0600" channel="RoadRunners">
+    <title>Texas RoadRunners vs. Texas Brahmas</title>
+    <desc>Live broadcast of Texas RoadRunners vs. Texas Brahmas</desc>
+    <key>21100</key>
+    <link>https://www.nahltv.com/watch/21100</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20250214110000 -0600" stop="20250214113000 -0600" channel="Generals">
+    <title>Pregame: Northeast Generals vs. New Jersey Titans</title>
+    <desc>Live broadcast of Pregame: Northeast Generals vs. New Jersey Titans</desc>
+    <key>21103</key>
+    <link>https://www.nahltv.com/watch/21103</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20250214113000 -0600" stop="20250214143000 -0600" channel="Generals">
+    <title>Northeast Generals vs. New Jersey Titans</title>
+    <desc>Live broadcast of Northeast Generals vs. New Jersey Titans</desc>
+    <key>21103</key>
+    <link>https://www.nahltv.com/watch/21103</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20250214123000 -0600" stop="20250214130000 -0600" channel="Buzz">
+    <title>Pregame: Binghamton Buzz vs. Long Beach Sharks</title>
+    <desc>Live broadcast of Pregame: Binghamton Buzz vs. Long Beach Sharks</desc>
+    <key>21101</key>
+    <link>https://www.nahltv.com/watch/21101</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20250214130000 -0600" stop="20250214160000 -0600" channel="Buzz">
+    <title>Binghamton Buzz vs. Long Beach Sharks</title>
+    <desc>Live broadcast of Binghamton Buzz vs. Long Beach Sharks</desc>
+    <key>21101</key>
+    <link>https://www.nahltv.com/watch/21101</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20250214123000 -0600" stop="20250214130000 -0600" channel="Nordiques">
+    <title>Pregame: Maine Nordiques vs. New Hampshire Jr. Mountain Kings</title>
+    <desc>Live broadcast of Pregame: Maine Nordiques vs. New Hampshire Jr. Mountain Kings</desc>
+    <key>21116</key>
+    <link>https://www.nahltv.com/watch/21116</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20250214130000 -0600" stop="20250214160000 -0600" channel="Nordiques">
+    <title>Maine Nordiques vs. New Hampshire Jr. Mountain Kings</title>
+    <desc>Live broadcast of Maine Nordiques vs. New Hampshire Jr. Mountain Kings</desc>
+    <key>21116</key>
+    <link>https://www.nahltv.com/watch/21116</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20250214181500 -0600" stop="20250214184500 -0600" channel="RoadRunners">
+    <title>Pregame: Texas RoadRunners vs. Texas Brahmas</title>
+    <desc>Live broadcast of Pregame: Texas RoadRunners vs. Texas Brahmas</desc>
+    <key>21110</key>
+    <link>https://www.nahltv.com/watch/21110</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20250214184500 -0600" stop="20250214214500 -0600" channel="RoadRunners">
+    <title>Texas RoadRunners vs. Texas Brahmas</title>
+    <desc>Live broadcast of Texas RoadRunners vs. Texas Brahmas</desc>
+    <key>21110</key>
+    <link>https://www.nahltv.com/watch/21110</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20250214183000 -0600" stop="20250214190000 -0600" channel="Mustangs">
+    <title>Pregame: Peoria Mustangs vs. Rochester Grizzlies</title>
+    <desc>Live broadcast of Pregame: Peoria Mustangs vs. Rochester Grizzlies</desc>
+    <key>21108</key>
+    <link>https://www.nahltv.com/watch/21108</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20250214190000 -0600" stop="20250214220000 -0600" channel="Mustangs">
+    <title>Peoria Mustangs vs. Rochester Grizzlies</title>
+    <desc>Live broadcast of Peoria Mustangs vs. Rochester Grizzlies</desc>
+    <key>21108</key>
+    <link>https://www.nahltv.com/watch/21108</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
