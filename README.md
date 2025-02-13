@@ -1,1 +1,1 @@
-Trying out using this to store Kodi files
+Kodi EPG.xml file storage
