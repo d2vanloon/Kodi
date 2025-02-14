@@ -162,4 +162,46 @@
     <link>https://nchchockey.com/tv/schedule/event/1161</link>
     <category>NCHC</category>
     </programme>
+  <programme start="20250214173000 -0600" stop="20250214180000 -0600" channel="Western_Michigan_">
+    <title>Pregame: Western Michigan  vs. Omaha</title>
+    <desc>Live broadcast of Pregame: Western Michigan  vs. Omaha</desc>
+    <key>pregame(19900)</key>
+    <link>https://nchchockey.com/tv/schedule/event/1173</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20250214180000 -0600" stop="20250214210000 -0600" channel="Western_Michigan_">
+    <title>Western Michigan  vs. Omaha</title>
+    <desc>Live broadcast of Western Michigan  vs. Omaha</desc>
+    <key>19900</key>
+    <link>https://nchchockey.com/tv/schedule/event/1173</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20250214183700 -0600" stop="20250214190700 -0600" channel="Minnesota_Duluth">
+    <title>Pregame: Minnesota Duluth vs. Arizona State</title>
+    <desc>Live broadcast of Pregame: Minnesota Duluth vs. Arizona State</desc>
+    <key>pregame(19598)</key>
+    <link>http://nchchockey.com/showcase/?Live=1210</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20250214190700 -0600" stop="20250214220700 -0600" channel="Minnesota_Duluth">
+    <title>Minnesota Duluth vs. Arizona State</title>
+    <desc>Live broadcast of Minnesota Duluth vs. Arizona State</desc>
+    <key>19598</key>
+    <link>http://nchchockey.com/showcase/?Live=1210</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20250214193000 -0600" stop="20250214200000 -0600" channel="Colorado_College">
+    <title>Pregame: Colorado College vs. Miami</title>
+    <desc>Live broadcast of Pregame: Colorado College vs. Miami</desc>
+    <key>pregame(19763)</key>
+    <link>http://nchchockey.com/showcase/?Live=1137</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20250214200000 -0600" stop="20250214230000 -0600" channel="Colorado_College">
+    <title>Colorado College vs. Miami</title>
+    <desc>Live broadcast of Colorado College vs. Miami</desc>
+    <key>19763</key>
+    <link>http://nchchockey.com/showcase/?Live=1137</link>
+    <category>NCHC</category>
+    </programme>
   </tv>
