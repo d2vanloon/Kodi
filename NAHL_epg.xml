@@ -358,4 +358,60 @@
     <link>https://www.nahltv.com/watch/20166</link>
     <category>NAHL</category>
     </programme>
+  <programme start="20250214190000 -0600" stop="20250214193000 -0600" channel="Brahmas">
+    <title>Pregame: Lone Star Brahmas vs. Shreveport Mudbugs</title>
+    <desc>Live broadcast of Pregame: Lone Star Brahmas vs. Shreveport Mudbugs</desc>
+    <key>20167</key>
+    <link>https://www.nahltv.com/watch/20167</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20250214193000 -0600" stop="20250214223000 -0600" channel="Brahmas">
+    <title>Lone Star Brahmas vs. Shreveport Mudbugs</title>
+    <desc>Live broadcast of Lone Star Brahmas vs. Shreveport Mudbugs</desc>
+    <key>20167</key>
+    <link>https://www.nahltv.com/watch/20167</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20250214190500 -0600" stop="20250214193500 -0600" channel="Minotauros">
+    <title>Pregame: Minot Minotauros vs. Bismarck Bobcats</title>
+    <desc>Live broadcast of Pregame: Minot Minotauros vs. Bismarck Bobcats</desc>
+    <key>20168</key>
+    <link>https://www.nahltv.com/watch/20168</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20250214193500 -0600" stop="20250214223500 -0600" channel="Minotauros">
+    <title>Minot Minotauros vs. Bismarck Bobcats</title>
+    <desc>Live broadcast of Minot Minotauros vs. Bismarck Bobcats</desc>
+    <key>20168</key>
+    <link>https://www.nahltv.com/watch/20168</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20250214193000 -0600" stop="20250214200000 -0600" channel="Rhinos">
+    <title>Pregame: El Paso Rhinos vs. Odessa Jackalopes</title>
+    <desc>Live broadcast of Pregame: El Paso Rhinos vs. Odessa Jackalopes</desc>
+    <key>20161</key>
+    <link>https://www.nahltv.com/watch/20161</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20250214200000 -0600" stop="20250214230000 -0600" channel="Rhinos">
+    <title>El Paso Rhinos vs. Odessa Jackalopes</title>
+    <desc>Live broadcast of El Paso Rhinos vs. Odessa Jackalopes</desc>
+    <key>20161</key>
+    <link>https://www.nahltv.com/watch/20161</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20250214193500 -0600" stop="20250214200500 -0600" channel="Grit">
+    <title>Pregame: Colorado Grit vs. New Mexico Ice Wolves</title>
+    <desc>Live broadcast of Pregame: Colorado Grit vs. New Mexico Ice Wolves</desc>
+    <key>20162</key>
+    <link>https://www.nahltv.com/watch/20162</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20250214200500 -0600" stop="20250214230500 -0600" channel="Grit">
+    <title>Colorado Grit vs. New Mexico Ice Wolves</title>
+    <desc>Live broadcast of Colorado Grit vs. New Mexico Ice Wolves</desc>
+    <key>20162</key>
+    <link>https://www.nahltv.com/watch/20162</link>
+    <category>NAHL</category>
+    </programme>
   </tv>
