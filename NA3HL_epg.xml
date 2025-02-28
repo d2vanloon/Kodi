@@ -904,4 +904,74 @@
     <link>https://www.nahltv.com/watch/21168</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20250301113000 -0600" stop="20250301120000 -0600" channel="Nordiques">
+    <title>Pregame: Maine Nordiques vs. Northeast Generals</title>
+    <desc>Live broadcast of Pregame: Maine Nordiques vs. Northeast Generals</desc>
+    <key>21172</key>
+    <link>https://www.nahltv.com/watch/21172</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20250301120000 -0600" stop="20250301150000 -0600" channel="Nordiques">
+    <title>Maine Nordiques vs. Northeast Generals</title>
+    <desc>Live broadcast of Maine Nordiques vs. Northeast Generals</desc>
+    <key>21172</key>
+    <link>https://www.nahltv.com/watch/21172</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20250301133000 -0600" stop="20250301140000 -0600" channel="Toros">
+    <title>Pregame: Mason City Toros vs. Alexandria Blizzard</title>
+    <desc>Live broadcast of Pregame: Mason City Toros vs. Alexandria Blizzard</desc>
+    <key>21176</key>
+    <link>https://www.nahltv.com/watch/21176</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20250301140000 -0600" stop="20250301170000 -0600" channel="Toros">
+    <title>Mason City Toros vs. Alexandria Blizzard</title>
+    <desc>Live broadcast of Mason City Toros vs. Alexandria Blizzard</desc>
+    <key>21176</key>
+    <link>https://www.nahltv.com/watch/21176</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20250301143000 -0600" stop="20250301150000 -0600" channel="Ice_Wolves">
+    <title>Pregame: New Mexico Ice Wolves vs. El Paso Rhinos</title>
+    <desc>Live broadcast of Pregame: New Mexico Ice Wolves vs. El Paso Rhinos</desc>
+    <key>21178</key>
+    <link>https://www.nahltv.com/watch/21178</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20250301150000 -0600" stop="20250301180000 -0600" channel="Ice_Wolves">
+    <title>New Mexico Ice Wolves vs. El Paso Rhinos</title>
+    <desc>Live broadcast of New Mexico Ice Wolves vs. El Paso Rhinos</desc>
+    <key>21178</key>
+    <link>https://www.nahltv.com/watch/21178</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20250301150000 -0600" stop="20250301153000 -0600" channel="Jr._Blues">
+    <title>Pregame: St. Louis Jr. Blues vs. Wisconsin Woodsmen</title>
+    <desc>Live broadcast of Pregame: St. Louis Jr. Blues vs. Wisconsin Woodsmen</desc>
+    <key>21170</key>
+    <link>https://www.nahltv.com/watch/21170</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20250301153000 -0600" stop="20250301183000 -0600" channel="Jr._Blues">
+    <title>St. Louis Jr. Blues vs. Wisconsin Woodsmen</title>
+    <desc>Live broadcast of St. Louis Jr. Blues vs. Wisconsin Woodsmen</desc>
+    <key>21170</key>
+    <link>https://www.nahltv.com/watch/21170</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20250301150000 -0600" stop="20250301153000 -0600" channel="Sharks">
+    <title>Pregame: Long Beach Sharks vs. Binghamton Buzz</title>
+    <desc>Live broadcast of Pregame: Long Beach Sharks vs. Binghamton Buzz</desc>
+    <key>21175</key>
+    <link>https://www.nahltv.com/watch/21175</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20250301153000 -0600" stop="20250301183000 -0600" channel="Sharks">
+    <title>Long Beach Sharks vs. Binghamton Buzz</title>
+    <desc>Live broadcast of Long Beach Sharks vs. Binghamton Buzz</desc>
+    <key>21175</key>
+    <link>https://www.nahltv.com/watch/21175</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
