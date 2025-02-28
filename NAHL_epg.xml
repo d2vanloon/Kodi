@@ -862,4 +862,32 @@
     <link>https://www.nahltv.com/watch/20235</link>
     <category>NAHL</category>
     </programme>
+  <programme start="20250228220000 -0600" stop="20250228223000 -0600" channel="Wolverines">
+    <title>Pregame: Anchorage Wolverines vs. Fairbanks Ice Dogs</title>
+    <desc>Live broadcast of Pregame: Anchorage Wolverines vs. Fairbanks Ice Dogs</desc>
+    <key>20226</key>
+    <link>https://www.nahltv.com/watch/20226</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20250228223000 -0600" stop="20250301013000 -0600" channel="Wolverines">
+    <title>Anchorage Wolverines vs. Fairbanks Ice Dogs</title>
+    <desc>Live broadcast of Anchorage Wolverines vs. Fairbanks Ice Dogs</desc>
+    <key>20226</key>
+    <link>https://www.nahltv.com/watch/20226</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20250301133000 -0600" stop="20250301140000 -0600" channel="Hat_Tricks">
+    <title>Pregame: Danbury Hat Tricks vs. Rochester Jr Americans</title>
+    <desc>Live broadcast of Pregame: Danbury Hat Tricks vs. Rochester Jr Americans</desc>
+    <key>20244</key>
+    <link>https://www.nahltv.com/watch/20244</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20250301140000 -0600" stop="20250301170000 -0600" channel="Hat_Tricks">
+    <title>Danbury Hat Tricks vs. Rochester Jr Americans</title>
+    <desc>Live broadcast of Danbury Hat Tricks vs. Rochester Jr Americans</desc>
+    <key>20244</key>
+    <link>https://www.nahltv.com/watch/20244</link>
+    <category>NAHL</category>
+    </programme>
   </tv>
