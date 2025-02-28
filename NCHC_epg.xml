@@ -260,4 +260,46 @@
     <link>https://nchchockey.com/tv/schedule/event/1138</link>
     <category>NCHC</category>
     </programme>
+  <programme start="20250228173000 -0600" stop="20250228180000 -0600" channel="Western_Michigan_">
+    <title>Pregame: Western Michigan  vs. North Dakota</title>
+    <desc>Live broadcast of Pregame: Western Michigan  vs. North Dakota</desc>
+    <key>pregame(19872)</key>
+    <link>http://nchchockey.com/showcase/?Live=1175</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20250228180000 -0600" stop="20250228210000 -0600" channel="Western_Michigan_">
+    <title>Western Michigan  vs. North Dakota</title>
+    <desc>Live broadcast of Western Michigan  vs. North Dakota</desc>
+    <key>19872</key>
+    <link>http://nchchockey.com/showcase/?Live=1175</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20250228183700 -0600" stop="20250228190700 -0600" channel="Omaha">
+    <title>Pregame: Omaha vs. Arizona State</title>
+    <desc>Live broadcast of Pregame: Omaha vs. Arizona State</desc>
+    <key>pregame(19570)</key>
+    <link>http://nchchockey.com/showcase/?Live=1162</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20250228190700 -0600" stop="20250228220700 -0600" channel="Omaha">
+    <title>Omaha vs. Arizona State</title>
+    <desc>Live broadcast of Omaha vs. Arizona State</desc>
+    <key>19570</key>
+    <link>http://nchchockey.com/showcase/?Live=1162</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20250228193000 -0600" stop="20250228200000 -0600" channel="Denver">
+    <title>Pregame: Denver vs. St. Cloud State</title>
+    <desc>Live broadcast of Pregame: Denver vs. St. Cloud State</desc>
+    <key>pregame(19674)</key>
+    <link>http://nchchockey.com/showcase/?Live=1189</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20250228200000 -0600" stop="20250228230000 -0600" channel="Denver">
+    <title>Denver vs. St. Cloud State</title>
+    <desc>Live broadcast of Denver vs. St. Cloud State</desc>
+    <key>19674</key>
+    <link>http://nchchockey.com/showcase/?Live=1189</link>
+    <category>NCHC</category>
+    </programme>
   </tv>
