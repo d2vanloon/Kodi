@@ -358,4 +358,46 @@
     <link>https://nchchockey.com/tv/schedule/event/1163</link>
     <category>NCHC</category>
     </programme>
+  <programme start="20250307173500 -0600" stop="20250307180500 -0600" channel="Miami">
+    <title>Pregame: Miami vs. Western Michigan </title>
+    <desc>Live broadcast of Pregame: Miami vs. Western Michigan </desc>
+    <key>pregame(19769)</key>
+    <link>http://nchchockey.com/showcase/?Live=1200</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20250307180500 -0600" stop="20250307210500 -0600" channel="Miami">
+    <title>Miami vs. Western Michigan </title>
+    <desc>Live broadcast of Miami vs. Western Michigan </desc>
+    <key>19769</key>
+    <link>http://nchchockey.com/showcase/?Live=1200</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20250307190000 -0600" stop="20250307193000 -0600" channel="St._Cloud_State">
+    <title>Pregame: St. Cloud State vs. Minnesota Duluth</title>
+    <desc>Live broadcast of Pregame: St. Cloud State vs. Minnesota Duluth</desc>
+    <key>pregame(19810)</key>
+    <link>http://nchchockey.com/showcase/?Live=1223</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20250307193000 -0600" stop="20250307223000 -0600" channel="St._Cloud_State">
+    <title>St. Cloud State vs. Minnesota Duluth</title>
+    <desc>Live broadcast of St. Cloud State vs. Minnesota Duluth</desc>
+    <key>19810</key>
+    <link>http://nchchockey.com/showcase/?Live=1223</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20250307193000 -0600" stop="20250307200000 -0600" channel="Denver">
+    <title>Pregame: Denver vs. Colorado College</title>
+    <desc>Live broadcast of Pregame: Denver vs. Colorado College</desc>
+    <key>pregame(19527)</key>
+    <link>https://nchchockey.com/tv/schedule/event/1191</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20250307200000 -0600" stop="20250307230000 -0600" channel="Denver">
+    <title>Denver vs. Colorado College</title>
+    <desc>Live broadcast of Denver vs. Colorado College</desc>
+    <key>19527</key>
+    <link>https://nchchockey.com/tv/schedule/event/1191</link>
+    <category>NCHC</category>
+    </programme>
   </tv>
