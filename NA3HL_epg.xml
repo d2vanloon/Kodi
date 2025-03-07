@@ -1352,4 +1352,88 @@
     <link>https://www.nahltv.com/watch/21203</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20250307184500 -0600" stop="20250307191500 -0600" channel="Woodsmen">
+    <title>Pregame: Wisconsin Woodsmen vs. West Bend Power</title>
+    <desc>Live broadcast of Pregame: Wisconsin Woodsmen vs. West Bend Power</desc>
+    <key>21205</key>
+    <link>https://www.nahltv.com/watch/21205</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20250307191500 -0600" stop="20250307221500 -0600" channel="Woodsmen">
+    <title>Wisconsin Woodsmen vs. West Bend Power</title>
+    <desc>Live broadcast of Wisconsin Woodsmen vs. West Bend Power</desc>
+    <key>21205</key>
+    <link>https://www.nahltv.com/watch/21205</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20250307193000 -0600" stop="20250307200000 -0600" channel="Rhinos">
+    <title>Pregame: El Paso Rhinos vs. Tulsa Jr. Oilers</title>
+    <desc>Live broadcast of Pregame: El Paso Rhinos vs. Tulsa Jr. Oilers</desc>
+    <key>21195</key>
+    <link>https://www.nahltv.com/watch/21195</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20250307200000 -0600" stop="20250307230000 -0600" channel="Rhinos">
+    <title>El Paso Rhinos vs. Tulsa Jr. Oilers</title>
+    <desc>Live broadcast of El Paso Rhinos vs. Tulsa Jr. Oilers</desc>
+    <key>21195</key>
+    <link>https://www.nahltv.com/watch/21195</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20250307193500 -0600" stop="20250307200500 -0600" channel="Quake">
+    <title>Pregame: Yellowstone Quake vs. Gillette Wild</title>
+    <desc>Live broadcast of Pregame: Yellowstone Quake vs. Gillette Wild</desc>
+    <key>21200</key>
+    <link>https://www.nahltv.com/watch/21200</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20250307200500 -0600" stop="20250307230500 -0600" channel="Quake">
+    <title>Yellowstone Quake vs. Gillette Wild</title>
+    <desc>Live broadcast of Yellowstone Quake vs. Gillette Wild</desc>
+    <key>21200</key>
+    <link>https://www.nahltv.com/watch/21200</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20250307193500 -0600" stop="20250307200500 -0600" channel="Sabres">
+    <title>Pregame: Badlands Sabres vs. Sheridan Hawks</title>
+    <desc>Live broadcast of Pregame: Badlands Sabres vs. Sheridan Hawks</desc>
+    <key>21201</key>
+    <link>https://www.nahltv.com/watch/21201</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20250307200500 -0600" stop="20250307230500 -0600" channel="Sabres">
+    <title>Badlands Sabres vs. Sheridan Hawks</title>
+    <desc>Live broadcast of Badlands Sabres vs. Sheridan Hawks</desc>
+    <key>21201</key>
+    <link>https://www.nahltv.com/watch/21201</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20250307193500 -0600" stop="20250307200500 -0600" channel="Bighorns">
+    <title>Pregame: Helena Bighorns vs. Bozeman Icedogs</title>
+    <desc>Live broadcast of Pregame: Helena Bighorns vs. Bozeman Icedogs</desc>
+    <key>21204</key>
+    <link>https://www.nahltv.com/watch/21204</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20250307200500 -0600" stop="20250307230500 -0600" channel="Bighorns">
+    <title>Helena Bighorns vs. Bozeman Icedogs</title>
+    <desc>Live broadcast of Helena Bighorns vs. Bozeman Icedogs</desc>
+    <key>21204</key>
+    <link>https://www.nahltv.com/watch/21204</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20250307200000 -0600" stop="20250307203000 -0600" channel="Irish">
+    <title>Pregame: Butte Irish vs. Great Falls Americans</title>
+    <desc>Live broadcast of Pregame: Butte Irish vs. Great Falls Americans</desc>
+    <key>21192</key>
+    <link>https://www.nahltv.com/watch/21192</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20250307203000 -0600" stop="20250307233000 -0600" channel="Irish">
+    <title>Butte Irish vs. Great Falls Americans</title>
+    <desc>Live broadcast of Butte Irish vs. Great Falls Americans</desc>
+    <key>21192</key>
+    <link>https://www.nahltv.com/watch/21192</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
