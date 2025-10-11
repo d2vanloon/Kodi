@@ -568,4 +568,88 @@
     <link>https://nchchockey.com/tv/schedule/event/1263</link>
     <category>NCHC</category>
     </programme>
+  <programme start="20251011153000 -0600" stop="20251011160000 -0600" channel="Notre_Dame_vs._Quinnipiac">
+    <title>Pregame: Notre Dame vs. Quinnipiac vs. </title>
+    <desc>Pre-game coverage for Notre Dame vs. Quinnipiac vs. </desc>
+    <key>pregame(20404)</key>
+    <link>http://nchchockey.com/showcase/?Live=1470</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20251011160000 -0600" stop="20251011190000 -0600" channel="Notre_Dame_vs._Quinnipiac">
+    <title>Notre Dame vs. Quinnipiac vs. </title>
+    <desc>Live broadcast of Notre Dame vs. Quinnipiac vs. </desc>
+    <key>20404</key>
+    <link>http://nchchockey.com/showcase/?Live=1470</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20251011163000 -0600" stop="20251011170000 -0600" channel="St._Cloud_State">
+    <title>Pregame: St. Cloud State vs. Bemidji State</title>
+    <desc>Pre-game coverage for St. Cloud State vs. Bemidji State</desc>
+    <key>pregame(20263)</key>
+    <link>http://nchchockey.com/tv/schedule</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20251011170000 -0600" stop="20251011200000 -0600" channel="St._Cloud_State">
+    <title>St. Cloud State vs. Bemidji State</title>
+    <desc>Live broadcast of St. Cloud State vs. Bemidji State</desc>
+    <key>20263</key>
+    <link>http://nchchockey.com/tv/schedule</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20251011163700 -0600" stop="20251011170700 -0600" channel="Minnesota_Duluth">
+    <title>Pregame: Minnesota Duluth vs. Augustana</title>
+    <desc>Pre-game coverage for Minnesota Duluth vs. Augustana</desc>
+    <key>pregame(20140)</key>
+    <link>http://nchchockey.com/tv/schedule</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20251011170700 -0600" stop="20251011200700 -0600" channel="Minnesota_Duluth">
+    <title>Minnesota Duluth vs. Augustana</title>
+    <desc>Live broadcast of Minnesota Duluth vs. Augustana</desc>
+    <key>20140</key>
+    <link>http://nchchockey.com/tv/schedule</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20251011173000 -0600" stop="20251011180000 -0600" channel="Omaha">
+    <title>Pregame: Omaha vs. Minnesota State</title>
+    <desc>Pre-game coverage for Omaha vs. Minnesota State</desc>
+    <key>pregame(20220)</key>
+    <link>http://nchchockey.com/tv/schedule</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20251011180000 -0600" stop="20251011210000 -0600" channel="Omaha">
+    <title>Omaha vs. Minnesota State</title>
+    <desc>Live broadcast of Omaha vs. Minnesota State</desc>
+    <key>20220</key>
+    <link>http://nchchockey.com/tv/schedule</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20251011183000 -0600" stop="20251011190000 -0600" channel="Denver">
+    <title>Pregame: Denver vs. Bentley</title>
+    <desc>Pre-game coverage for Denver vs. Bentley</desc>
+    <key>pregame(20093)</key>
+    <link>http://nchchockey.com/tv/schedule</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20251011190000 -0600" stop="20251011220000 -0600" channel="Denver">
+    <title>Denver vs. Bentley</title>
+    <desc>Live broadcast of Denver vs. Bentley</desc>
+    <key>20093</key>
+    <link>http://nchchockey.com/tv/schedule</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20251011193000 -0600" stop="20251011200000 -0600" channel="Arizona_State">
+    <title>Pregame: Arizona State vs. Alaska Fairbanks</title>
+    <desc>Pre-game coverage for Arizona State vs. Alaska Fairbanks</desc>
+    <key>pregame(20382)</key>
+    <link>http://nchchockey.com/showcase/?Live=1293</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20251011200000 -0600" stop="20251011230000 -0600" channel="Arizona_State">
+    <title>Arizona State vs. Alaska Fairbanks</title>
+    <desc>Live broadcast of Arizona State vs. Alaska Fairbanks</desc>
+    <key>20382</key>
+    <link>http://nchchockey.com/showcase/?Live=1293</link>
+    <category>NCHC</category>
+    </programme>
   </tv>
