@@ -2402,4 +2402,18 @@
     <link>https://www.nahltv.com/watch/29408</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20251017184500 -0600" stop="20251017191500 -0600" channel="Woodsmen">
+    <title>Pregame: Wisconsin Woodsmen vs. St. Louis Jr. Blues</title>
+    <desc>Pre-game coverage for Wisconsin Woodsmen vs. St. Louis Jr. Blues</desc>
+    <key>pregame(29409)</key>
+    <link>https://www.nahltv.com/watch/29409</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251017191500 -0600" stop="20251017221500 -0600" channel="Woodsmen">
+    <title>Wisconsin Woodsmen vs. St. Louis Jr. Blues</title>
+    <desc>Live broadcast of Wisconsin Woodsmen vs. St. Louis Jr. Blues</desc>
+    <key>29409</key>
+    <link>https://www.nahltv.com/watch/29409</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
