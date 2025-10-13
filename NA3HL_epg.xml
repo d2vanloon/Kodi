@@ -2416,4 +2416,46 @@
     <link>https://www.nahltv.com/watch/29409</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20251017190000 -0600" stop="20251017193000 -0600" channel="Lumberjacks">
+    <title>Pregame: Granite City Lumberjacks vs. Alexandria Blizzard</title>
+    <desc>Pre-game coverage for Granite City Lumberjacks vs. Alexandria Blizzard</desc>
+    <key>pregame(29410)</key>
+    <link>https://www.nahltv.com/watch/29410</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251017193000 -0600" stop="20251017223000 -0600" channel="Lumberjacks">
+    <title>Granite City Lumberjacks vs. Alexandria Blizzard</title>
+    <desc>Live broadcast of Granite City Lumberjacks vs. Alexandria Blizzard</desc>
+    <key>29410</key>
+    <link>https://www.nahltv.com/watch/29410</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251017190000 -0600" stop="20251017193000 -0600" channel="Grizzlies">
+    <title>Pregame: Rochester Grizzlies vs. West Bend Power</title>
+    <desc>Pre-game coverage for Rochester Grizzlies vs. West Bend Power</desc>
+    <key>pregame(29411)</key>
+    <link>https://www.nahltv.com/watch/29411</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251017193000 -0600" stop="20251017223000 -0600" channel="Grizzlies">
+    <title>Rochester Grizzlies vs. West Bend Power</title>
+    <desc>Live broadcast of Rochester Grizzlies vs. West Bend Power</desc>
+    <key>29411</key>
+    <link>https://www.nahltv.com/watch/29411</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251017193000 -0600" stop="20251017200000 -0600" channel="Rhinos">
+    <title>Pregame: El Paso Rhinos vs. Austin Ice Bats</title>
+    <desc>Pre-game coverage for El Paso Rhinos vs. Austin Ice Bats</desc>
+    <key>pregame(29412)</key>
+    <link>https://www.nahltv.com/watch/29412</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251017200000 -0600" stop="20251017230000 -0600" channel="Rhinos">
+    <title>El Paso Rhinos vs. Austin Ice Bats</title>
+    <desc>Live broadcast of El Paso Rhinos vs. Austin Ice Bats</desc>
+    <key>29412</key>
+    <link>https://www.nahltv.com/watch/29412</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
