@@ -2458,4 +2458,60 @@
     <link>https://www.nahltv.com/watch/29412</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20251017150000 -0600" stop="20251017153000 -0600" channel="RoadRunners">
+    <title>Pregame: Texas RoadRunners vs. Atlanta Capitals</title>
+    <desc>Pre-game coverage for Texas RoadRunners vs. Atlanta Capitals</desc>
+    <key>pregame(29402)</key>
+    <link>https://www.nahltv.com/watch/29402</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251017153000 -0600" stop="20251017183000 -0600" channel="RoadRunners">
+    <title>Texas RoadRunners vs. Atlanta Capitals</title>
+    <desc>Live broadcast of Texas RoadRunners vs. Atlanta Capitals</desc>
+    <key>29402</key>
+    <link>https://www.nahltv.com/watch/29402</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251017193500 -0600" stop="20251017200500 -0600" channel="Irish">
+    <title>Pregame: Butte Irish vs. Yellowstone Quake</title>
+    <desc>Pre-game coverage for Butte Irish vs. Yellowstone Quake</desc>
+    <key>pregame(29413)</key>
+    <link>https://www.nahltv.com/watch/29413</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251017200500 -0600" stop="20251017230500 -0600" channel="Irish">
+    <title>Butte Irish vs. Yellowstone Quake</title>
+    <desc>Live broadcast of Butte Irish vs. Yellowstone Quake</desc>
+    <key>29413</key>
+    <link>https://www.nahltv.com/watch/29413</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251017193500 -0600" stop="20251017200500 -0600" channel="Wild">
+    <title>Pregame: Gillette Wild vs. Bozeman Icedogs</title>
+    <desc>Pre-game coverage for Gillette Wild vs. Bozeman Icedogs</desc>
+    <key>pregame(29414)</key>
+    <link>https://www.nahltv.com/watch/29414</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251017200500 -0600" stop="20251017230500 -0600" channel="Wild">
+    <title>Gillette Wild vs. Bozeman Icedogs</title>
+    <desc>Live broadcast of Gillette Wild vs. Bozeman Icedogs</desc>
+    <key>29414</key>
+    <link>https://www.nahltv.com/watch/29414</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251017193500 -0600" stop="20251017200500 -0600" channel="Sabres">
+    <title>Pregame: Badlands Sabres vs. Great Falls Americans</title>
+    <desc>Pre-game coverage for Badlands Sabres vs. Great Falls Americans</desc>
+    <key>pregame(29415)</key>
+    <link>https://www.nahltv.com/watch/29415</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251017200500 -0600" stop="20251017230500 -0600" channel="Sabres">
+    <title>Badlands Sabres vs. Great Falls Americans</title>
+    <desc>Live broadcast of Badlands Sabres vs. Great Falls Americans</desc>
+    <key>29415</key>
+    <link>https://www.nahltv.com/watch/29415</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
