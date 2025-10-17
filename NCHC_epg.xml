@@ -652,4 +652,32 @@
     <link>http://nchchockey.com/showcase/?Live=1293</link>
     <category>NCHC</category>
     </programme>
+  <programme start="20251017173000 -0600" stop="20251017180000 -0600" channel="St._Cloud_State">
+    <title>Pregame: St. Cloud State vs. Vermont</title>
+    <desc>Pre-game coverage for St. Cloud State vs. Vermont</desc>
+    <key>pregame(20292)</key>
+    <link>http://nchchockey.com/watch?live=1438</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20251017180000 -0600" stop="20251017210000 -0600" channel="St._Cloud_State">
+    <title>St. Cloud State vs. Vermont</title>
+    <desc>Live broadcast of St. Cloud State vs. Vermont</desc>
+    <key>20292</key>
+    <link>http://nchchockey.com/watch?live=1438</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20251017173700 -0600" stop="20251017180700 -0600" channel="North_Dakota">
+    <title>Pregame: North Dakota vs. Minnesota</title>
+    <desc>Pre-game coverage for North Dakota vs. Minnesota</desc>
+    <key>pregame(20176)</key>
+    <link>http://nchchockey.com/watch?live=1383</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20251017180700 -0600" stop="20251017210700 -0600" channel="North_Dakota">
+    <title>North Dakota vs. Minnesota</title>
+    <desc>Live broadcast of North Dakota vs. Minnesota</desc>
+    <key>20176</key>
+    <link>http://nchchockey.com/watch?live=1383</link>
+    <category>NCHC</category>
+    </programme>
   </tv>
