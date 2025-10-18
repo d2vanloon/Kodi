@@ -680,4 +680,46 @@
     <link>http://nchchockey.com/watch?live=1383</link>
     <category>NCHC</category>
     </programme>
+  <programme start="20251018163000 -0600" stop="20251018170000 -0600" channel="St._Cloud_State">
+    <title>Pregame: St. Cloud State vs. Vermont</title>
+    <desc>Pre-game coverage for St. Cloud State vs. Vermont</desc>
+    <key>pregame(20293)</key>
+    <link>http://nchchockey.com/showcase/?Live=1439</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20251018170000 -0600" stop="20251018200000 -0600" channel="St._Cloud_State">
+    <title>St. Cloud State vs. Vermont</title>
+    <desc>Live broadcast of St. Cloud State vs. Vermont</desc>
+    <key>20293</key>
+    <link>http://nchchockey.com/showcase/?Live=1439</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20251018163700 -0600" stop="20251018170700 -0600" channel="Minnesota_Duluth">
+    <title>Pregame: Minnesota Duluth vs. Bemidji State</title>
+    <desc>Pre-game coverage for Minnesota Duluth vs. Bemidji State</desc>
+    <key>pregame(20138)</key>
+    <link>http://nchchockey.com/showcase/?Live=1349</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20251018170700 -0600" stop="20251018200700 -0600" channel="Minnesota_Duluth">
+    <title>Minnesota Duluth vs. Bemidji State</title>
+    <desc>Live broadcast of Minnesota Duluth vs. Bemidji State</desc>
+    <key>20138</key>
+    <link>http://nchchockey.com/showcase/?Live=1349</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20251018163700 -0600" stop="20251018170700 -0600" channel="North_Dakota">
+    <title>Pregame: North Dakota vs. Minnesota</title>
+    <desc>Pre-game coverage for North Dakota vs. Minnesota</desc>
+    <key>pregame(20177)</key>
+    <link>http://nchchockey.com/showcase/?Live=1384</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20251018170700 -0600" stop="20251018200700 -0600" channel="North_Dakota">
+    <title>North Dakota vs. Minnesota</title>
+    <desc>Live broadcast of North Dakota vs. Minnesota</desc>
+    <key>20177</key>
+    <link>http://nchchockey.com/showcase/?Live=1384</link>
+    <category>NCHC</category>
+    </programme>
   </tv>
