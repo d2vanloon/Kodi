@@ -3074,4 +3074,32 @@
     <link>https://www.nahltv.com/watch/29457</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20251024183000 -0600" stop="20251024190000 -0600" channel="Grizzlies">
+    <title>Pregame: Rochester Grizzlies vs. West Bend Power</title>
+    <desc>Pre-game coverage for Rochester Grizzlies vs. West Bend Power</desc>
+    <key>pregame(29448)</key>
+    <link>https://www.nahltv.com/watch/29448</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251024190000 -0600" stop="20251024220000 -0600" channel="Grizzlies">
+    <title>Rochester Grizzlies vs. West Bend Power</title>
+    <desc>Live broadcast of Rochester Grizzlies vs. West Bend Power</desc>
+    <key>29448</key>
+    <link>https://www.nahltv.com/watch/29448</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251024200000 -0600" stop="20251024203000 -0600" channel="Icedogs">
+    <title>Pregame: Bozeman Icedogs vs. Yellowstone Quake</title>
+    <desc>Pre-game coverage for Bozeman Icedogs vs. Yellowstone Quake</desc>
+    <key>pregame(29458)</key>
+    <link>https://www.nahltv.com/watch/29458</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251024203000 -0600" stop="20251024233000 -0600" channel="Icedogs">
+    <title>Bozeman Icedogs vs. Yellowstone Quake</title>
+    <desc>Live broadcast of Bozeman Icedogs vs. Yellowstone Quake</desc>
+    <key>29458</key>
+    <link>https://www.nahltv.com/watch/29458</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
