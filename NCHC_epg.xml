@@ -722,4 +722,46 @@
     <link>http://nchchockey.com/showcase/?Live=1384</link>
     <category>NCHC</category>
     </programme>
+  <programme start="20251024163000 -0600" stop="20251024170000 -0600" channel="Western_Michigan_">
+    <title>Pregame: Western Michigan  vs. Michigan</title>
+    <desc>Pre-game coverage for Western Michigan  vs. Michigan</desc>
+    <key>pregame(20308)</key>
+    <link>http://nchchockey.com/watch?live=1421</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20251024170000 -0600" stop="20251024200000 -0600" channel="Western_Michigan_">
+    <title>Western Michigan  vs. Michigan</title>
+    <desc>Live broadcast of Western Michigan  vs. Michigan</desc>
+    <key>20308</key>
+    <link>http://nchchockey.com/watch?live=1421</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20251024173000 -0600" stop="20251024180000 -0600" channel="Omaha">
+    <title>Pregame: Omaha vs. UMass</title>
+    <desc>Pre-game coverage for Omaha vs. UMass</desc>
+    <key>pregame(20250)</key>
+    <link>http://nchchockey.com/watch?live=1404</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20251024180000 -0600" stop="20251024210000 -0600" channel="Omaha">
+    <title>Omaha vs. UMass</title>
+    <desc>Live broadcast of Omaha vs. UMass</desc>
+    <key>20250</key>
+    <link>http://nchchockey.com/watch?live=1404</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20251024173000 -0600" stop="20251024180000 -0600" channel="St._Cloud_State">
+    <title>Pregame: St. Cloud State vs. Alaska Anchorage</title>
+    <desc>Pre-game coverage for St. Cloud State vs. Alaska Anchorage</desc>
+    <key>pregame(20272)</key>
+    <link>http://nchchockey.com/watch?live=1440</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20251024180000 -0600" stop="20251024210000 -0600" channel="St._Cloud_State">
+    <title>St. Cloud State vs. Alaska Anchorage</title>
+    <desc>Live broadcast of St. Cloud State vs. Alaska Anchorage</desc>
+    <key>20272</key>
+    <link>http://nchchockey.com/watch?live=1440</link>
+    <category>NCHC</category>
+    </programme>
   </tv>
