@@ -3102,4 +3102,18 @@
     <link>https://www.nahltv.com/watch/29458</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20251025130000 -0600" stop="20251025133000 -0600" channel="Rougarou">
+    <title>Pregame: Bayou State Rougarou vs. Texas RoadRunners</title>
+    <desc>Pre-game coverage for Bayou State Rougarou vs. Texas RoadRunners</desc>
+    <key>pregame(29459)</key>
+    <link>https://www.nahltv.com/watch/29459</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251025133000 -0600" stop="20251025163000 -0600" channel="Rougarou">
+    <title>Bayou State Rougarou vs. Texas RoadRunners</title>
+    <desc>Live broadcast of Bayou State Rougarou vs. Texas RoadRunners</desc>
+    <key>29459</key>
+    <link>https://www.nahltv.com/watch/29459</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
