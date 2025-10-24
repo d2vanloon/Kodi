@@ -2934,4 +2934,18 @@
     <link>https://www.nahltv.com/watch/30286</link>
     <category>NAHL</category>
     </programme>
+  <programme start="20251025160000 -0600" stop="20251025163000 -0600" channel="Titans">
+    <title>Pregame: New Jersey Titans vs. Philadelphia Rebels</title>
+    <desc>Pre-game coverage for New Jersey Titans vs. Philadelphia Rebels</desc>
+    <key>pregame(30287)</key>
+    <link>https://www.nahltv.com/watch/30287</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20251025163000 -0600" stop="20251025193000 -0600" channel="Titans">
+    <title>New Jersey Titans vs. Philadelphia Rebels</title>
+    <desc>Live broadcast of New Jersey Titans vs. Philadelphia Rebels</desc>
+    <key>30287</key>
+    <link>https://www.nahltv.com/watch/30287</link>
+    <category>NAHL</category>
+    </programme>
   </tv>
