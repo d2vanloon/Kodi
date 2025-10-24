@@ -3116,4 +3116,46 @@
     <link>https://www.nahltv.com/watch/29459</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20251025133000 -0600" stop="20251025140000 -0600" channel="Buzz">
+    <title>Pregame: Buzz vs. Long Beach</title>
+    <desc>Pre-game coverage for Buzz vs. Long Beach</desc>
+    <key>pregame(29460)</key>
+    <link>https://www.nahltv.com/watch/29460</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251025140000 -0600" stop="20251025170000 -0600" channel="Buzz">
+    <title>Buzz vs. Long Beach</title>
+    <desc>Live broadcast of Buzz vs. Long Beach</desc>
+    <key>29460</key>
+    <link>https://www.nahltv.com/watch/29460</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251025143000 -0600" stop="20251025150000 -0600" channel="Rage">
+    <title>Pregame: Carolina Rage vs. Louisiana Drillers</title>
+    <desc>Pre-game coverage for Carolina Rage vs. Louisiana Drillers</desc>
+    <key>pregame(29461)</key>
+    <link>https://www.nahltv.com/watch/29461</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251025150000 -0600" stop="20251025180000 -0600" channel="Rage">
+    <title>Carolina Rage vs. Louisiana Drillers</title>
+    <desc>Live broadcast of Carolina Rage vs. Louisiana Drillers</desc>
+    <key>29461</key>
+    <link>https://www.nahltv.com/watch/29461</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251025173500 -0600" stop="20251025180500 -0600" channel="Wilderness">
+    <title>Pregame: Minnesota Wilderness vs. Peoria Mustangs</title>
+    <desc>Pre-game coverage for Minnesota Wilderness vs. Peoria Mustangs</desc>
+    <key>pregame(29462)</key>
+    <link>https://www.nahltv.com/watch/29462</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251025180500 -0600" stop="20251025210500 -0600" channel="Wilderness">
+    <title>Minnesota Wilderness vs. Peoria Mustangs</title>
+    <desc>Live broadcast of Minnesota Wilderness vs. Peoria Mustangs</desc>
+    <key>29462</key>
+    <link>https://www.nahltv.com/watch/29462</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
