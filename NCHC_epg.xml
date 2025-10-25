@@ -764,4 +764,32 @@
     <link>http://nchchockey.com/watch?live=1440</link>
     <category>NCHC</category>
     </programme>
+  <programme start="20251025163000 -0600" stop="20251025170000 -0600" channel="St._Cloud_State">
+    <title>Pregame: St. Cloud State vs. Alaska Anchorage</title>
+    <desc>Pre-game coverage for St. Cloud State vs. Alaska Anchorage</desc>
+    <key>pregame(20273)</key>
+    <link>http://nchchockey.com/watch?live=1441</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20251025170000 -0600" stop="20251025200000 -0600" channel="St._Cloud_State">
+    <title>St. Cloud State vs. Alaska Anchorage</title>
+    <desc>Live broadcast of St. Cloud State vs. Alaska Anchorage</desc>
+    <key>20273</key>
+    <link>http://nchchockey.com/watch?live=1441</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20251025173000 -0600" stop="20251025180000 -0600" channel="Omaha">
+    <title>Pregame: Omaha vs. UMass</title>
+    <desc>Pre-game coverage for Omaha vs. UMass</desc>
+    <key>pregame(20251)</key>
+    <link>http://nchchockey.com/watch?live=1405</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20251025180000 -0600" stop="20251025210000 -0600" channel="Omaha">
+    <title>Omaha vs. UMass</title>
+    <desc>Live broadcast of Omaha vs. UMass</desc>
+    <key>20251</key>
+    <link>http://nchchockey.com/watch?live=1405</link>
+    <category>NCHC</category>
+    </programme>
   </tv>
