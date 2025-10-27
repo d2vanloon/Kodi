@@ -3382,4 +3382,18 @@
     <link>https://www.nahltv.com/watch/30318</link>
     <category>NAHL</category>
     </programme>
+  <programme start="20251031220000 -0600" stop="20251031223000 -0600" channel="Ice_Dogs">
+    <title>Pregame: Fairbanks Ice Dogs vs. Chippewa Steel</title>
+    <desc>Pre-game coverage for Fairbanks Ice Dogs vs. Chippewa Steel</desc>
+    <key>pregame(30319)</key>
+    <link>https://www.nahltv.com/watch/30319</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20251031223000 -0600" stop="20251101013000 -0600" channel="Ice_Dogs">
+    <title>Fairbanks Ice Dogs vs. Chippewa Steel</title>
+    <desc>Live broadcast of Fairbanks Ice Dogs vs. Chippewa Steel</desc>
+    <key>30319</key>
+    <link>https://www.nahltv.com/watch/30319</link>
+    <category>NAHL</category>
+    </programme>
   </tv>
