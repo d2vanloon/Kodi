@@ -3592,4 +3592,46 @@
     <link>https://www.nahltv.com/watch/29492</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20251031113000 -0600" stop="20251031120000 -0600" channel="Nordiques">
+    <title>Pregame: Maine Nordiques vs. Norwich Sea Captains</title>
+    <desc>Pre-game coverage for Maine Nordiques vs. Norwich Sea Captains</desc>
+    <key>pregame(29485)</key>
+    <link>https://www.nahltv.com/watch/29485</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251031120000 -0600" stop="20251031150000 -0600" channel="Nordiques">
+    <title>Maine Nordiques vs. Norwich Sea Captains</title>
+    <desc>Live broadcast of Maine Nordiques vs. Norwich Sea Captains</desc>
+    <key>29485</key>
+    <link>https://www.nahltv.com/watch/29485</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251031184000 -0600" stop="20251031191000 -0600" channel="Blizzard">
+    <title>Pregame: Alexandria Blizzard vs. Granite City Lumberjacks</title>
+    <desc>Pre-game coverage for Alexandria Blizzard vs. Granite City Lumberjacks</desc>
+    <key>pregame(29491)</key>
+    <link>https://www.nahltv.com/watch/29491</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251031191000 -0600" stop="20251031221000 -0600" channel="Blizzard">
+    <title>Alexandria Blizzard vs. Granite City Lumberjacks</title>
+    <desc>Live broadcast of Alexandria Blizzard vs. Granite City Lumberjacks</desc>
+    <key>29491</key>
+    <link>https://www.nahltv.com/watch/29491</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251031193500 -0600" stop="20251031200500 -0600" channel="Wild">
+    <title>Pregame: Gillette Wild vs. Great Falls Americans</title>
+    <desc>Pre-game coverage for Gillette Wild vs. Great Falls Americans</desc>
+    <key>pregame(29494)</key>
+    <link>https://www.nahltv.com/watch/29494</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251031200500 -0600" stop="20251031230500 -0600" channel="Wild">
+    <title>Gillette Wild vs. Great Falls Americans</title>
+    <desc>Live broadcast of Gillette Wild vs. Great Falls Americans</desc>
+    <key>29494</key>
+    <link>https://www.nahltv.com/watch/29494</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
