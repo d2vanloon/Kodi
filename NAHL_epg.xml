@@ -3424,4 +3424,18 @@
     <link>https://www.nahltv.com/watch/30320</link>
     <category>NAHL</category>
     </programme>
+  <programme start="20251031183000 -0600" stop="20251031190000 -0600" channel="Shamrocks">
+    <title>Pregame: Watertown Shamrocks vs. Austin Bruins</title>
+    <desc>Pre-game coverage for Watertown Shamrocks vs. Austin Bruins</desc>
+    <key>pregame(30307)</key>
+    <link>https://www.nahltv.com/watch/30307</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20251031190000 -0600" stop="20251031220000 -0600" channel="Shamrocks">
+    <title>Watertown Shamrocks vs. Austin Bruins</title>
+    <desc>Live broadcast of Watertown Shamrocks vs. Austin Bruins</desc>
+    <key>30307</key>
+    <link>https://www.nahltv.com/watch/30307</link>
+    <category>NAHL</category>
+    </programme>
   </tv>
