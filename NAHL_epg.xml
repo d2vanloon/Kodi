@@ -3438,4 +3438,18 @@
     <link>https://www.nahltv.com/watch/30307</link>
     <category>NAHL</category>
     </programme>
+  <programme start="20251101133000 -0600" stop="20251101140000 -0600" channel="Hat_Tricks">
+    <title>Pregame: Danbury Hat Tricks vs. Maryland Black Bears</title>
+    <desc>Pre-game coverage for Danbury Hat Tricks vs. Maryland Black Bears</desc>
+    <key>pregame(30321)</key>
+    <link>https://www.nahltv.com/watch/30321</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20251101140000 -0600" stop="20251101170000 -0600" channel="Hat_Tricks">
+    <title>Danbury Hat Tricks vs. Maryland Black Bears</title>
+    <desc>Live broadcast of Danbury Hat Tricks vs. Maryland Black Bears</desc>
+    <key>30321</key>
+    <link>https://www.nahltv.com/watch/30321</link>
+    <category>NAHL</category>
+    </programme>
   </tv>
