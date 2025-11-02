@@ -3900,4 +3900,214 @@
     <link>https://www.nahltv.com/watch/29511</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20251102113000 -0600" stop="20251102120000 -0600" channel="Rage">
+    <title>Pregame: Carolina Rage vs. Atlanta Capitals</title>
+    <desc>Pre-game coverage for Carolina Rage vs. Atlanta Capitals</desc>
+    <key>pregame(29512)</key>
+    <link>https://www.nahltv.com/watch/29512</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251102120000 -0600" stop="20251102150000 -0600" channel="Rage">
+    <title>Carolina Rage vs. Atlanta Capitals</title>
+    <desc>Live broadcast of Carolina Rage vs. Atlanta Capitals</desc>
+    <key>29512</key>
+    <link>https://www.nahltv.com/watch/29512</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251102133000 -0600" stop="20251102140000 -0600" channel="Jr._Blues">
+    <title>Pregame: St. Louis Jr. Blues vs. Wausau Cyclones</title>
+    <desc>Pre-game coverage for St. Louis Jr. Blues vs. Wausau Cyclones</desc>
+    <key>pregame(29513)</key>
+    <link>https://www.nahltv.com/watch/29513</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251102140000 -0600" stop="20251102170000 -0600" channel="Jr._Blues">
+    <title>St. Louis Jr. Blues vs. Wausau Cyclones</title>
+    <desc>Live broadcast of St. Louis Jr. Blues vs. Wausau Cyclones</desc>
+    <key>29513</key>
+    <link>https://www.nahltv.com/watch/29513</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251102133500 -0600" stop="20251102140500 -0600" channel="Brahmas">
+    <title>Pregame: Texas Brahmas vs. West Texas Wranglers</title>
+    <desc>Pre-game coverage for Texas Brahmas vs. West Texas Wranglers</desc>
+    <key>pregame(29514)</key>
+    <link>https://www.nahltv.com/watch/29514</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251102140500 -0600" stop="20251102170500 -0600" channel="Brahmas">
+    <title>Texas Brahmas vs. West Texas Wranglers</title>
+    <desc>Live broadcast of Texas Brahmas vs. West Texas Wranglers</desc>
+    <key>29514</key>
+    <link>https://www.nahltv.com/watch/29514</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251102153500 -0600" stop="20251102160500 -0600" channel="Drillers">
+    <title>Pregame: Louisiana Drillers vs. Bayou State Rougarou</title>
+    <desc>Pre-game coverage for Louisiana Drillers vs. Bayou State Rougarou</desc>
+    <key>pregame(29515)</key>
+    <link>https://www.nahltv.com/watch/29515</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251102160500 -0600" stop="20251102190500 -0600" channel="Drillers">
+    <title>Louisiana Drillers vs. Bayou State Rougarou</title>
+    <desc>Live broadcast of Louisiana Drillers vs. Bayou State Rougarou</desc>
+    <key>29515</key>
+    <link>https://www.nahltv.com/watch/29515</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251102170000 -0600" stop="20251102173000 -0600" channel="Rhinos">
+    <title>Pregame: El Paso Rhinos vs. Austin Ice Bats</title>
+    <desc>Pre-game coverage for El Paso Rhinos vs. Austin Ice Bats</desc>
+    <key>pregame(29516)</key>
+    <link>https://www.nahltv.com/watch/29516</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251102173000 -0600" stop="20251102203000 -0600" channel="Rhinos">
+    <title>El Paso Rhinos vs. Austin Ice Bats</title>
+    <desc>Live broadcast of El Paso Rhinos vs. Austin Ice Bats</desc>
+    <key>29516</key>
+    <link>https://www.nahltv.com/watch/29516</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251104133000 -0600" stop="20251104140000 -0600" channel="Buzz">
+    <title>Pregame: Buzz vs. New Jersey</title>
+    <desc>Pre-game coverage for Buzz vs. New Jersey</desc>
+    <key>pregame(29517)</key>
+    <link>https://www.nahltv.com/watch/29517</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251104140000 -0600" stop="20251104170000 -0600" channel="Buzz">
+    <title>Buzz vs. New Jersey</title>
+    <desc>Live broadcast of Buzz vs. New Jersey</desc>
+    <key>29517</key>
+    <link>https://www.nahltv.com/watch/29517</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251105103000 -0600" stop="20251105110000 -0600" channel="Jr._Mountain_Kings">
+    <title>Pregame: New Hampshire Jr. Mountain Kings vs. Maine Nordiques</title>
+    <desc>Pre-game coverage for New Hampshire Jr. Mountain Kings vs. Maine Nordiques</desc>
+    <key>pregame(29518)</key>
+    <link>https://www.nahltv.com/watch/29518</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251105110000 -0600" stop="20251105140000 -0600" channel="Jr._Mountain_Kings">
+    <title>New Hampshire Jr. Mountain Kings vs. Maine Nordiques</title>
+    <desc>Live broadcast of New Hampshire Jr. Mountain Kings vs. Maine Nordiques</desc>
+    <key>29518</key>
+    <link>https://www.nahltv.com/watch/29518</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251105113000 -0600" stop="20251105120000 -0600" channel="Sharks">
+    <title>Pregame: Long Beach Sharks vs. Norwich Sea Captains</title>
+    <desc>Pre-game coverage for Long Beach Sharks vs. Norwich Sea Captains</desc>
+    <key>pregame(29519)</key>
+    <link>https://www.nahltv.com/watch/29519</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251105120000 -0600" stop="20251105150000 -0600" channel="Sharks">
+    <title>Long Beach Sharks vs. Norwich Sea Captains</title>
+    <desc>Live broadcast of Long Beach Sharks vs. Norwich Sea Captains</desc>
+    <key>29519</key>
+    <link>https://www.nahltv.com/watch/29519</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251105123000 -0600" stop="20251105130000 -0600" channel="Buzz">
+    <title>Pregame: Buzz vs. New Jersey</title>
+    <desc>Pre-game coverage for Buzz vs. New Jersey</desc>
+    <key>pregame(29520)</key>
+    <link>https://www.nahltv.com/watch/29520</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251105130000 -0600" stop="20251105160000 -0600" channel="Buzz">
+    <title>Buzz vs. New Jersey</title>
+    <desc>Live broadcast of Buzz vs. New Jersey</desc>
+    <key>29520</key>
+    <link>https://www.nahltv.com/watch/29520</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251107133000 -0600" stop="20251107140000 -0600" channel="Titans">
+    <title>Pregame: New Jersey Titans vs. Norwich Sea Captains</title>
+    <desc>Pre-game coverage for New Jersey Titans vs. Norwich Sea Captains</desc>
+    <key>pregame(29521)</key>
+    <link>https://www.nahltv.com/watch/29521</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251107140000 -0600" stop="20251107170000 -0600" channel="Titans">
+    <title>New Jersey Titans vs. Norwich Sea Captains</title>
+    <desc>Live broadcast of New Jersey Titans vs. Norwich Sea Captains</desc>
+    <key>29521</key>
+    <link>https://www.nahltv.com/watch/29521</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251107135000 -0600" stop="20251107142000 -0600" channel="Jr._Mountain_Kings">
+    <title>Pregame: New Hampshire Jr. Mountain Kings vs. Long Beach Sharks</title>
+    <desc>Pre-game coverage for New Hampshire Jr. Mountain Kings vs. Long Beach Sharks</desc>
+    <key>pregame(29522)</key>
+    <link>https://www.nahltv.com/watch/29522</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251107142000 -0600" stop="20251107172000 -0600" channel="Jr._Mountain_Kings">
+    <title>New Hampshire Jr. Mountain Kings vs. Long Beach Sharks</title>
+    <desc>Live broadcast of New Hampshire Jr. Mountain Kings vs. Long Beach Sharks</desc>
+    <key>29522</key>
+    <link>https://www.nahltv.com/watch/29522</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251107173000 -0600" stop="20251107180000 -0600" channel="Nordiques">
+    <title>Pregame: Maine Nordiques vs. Buzz </title>
+    <desc>Pre-game coverage for Maine Nordiques vs. Buzz </desc>
+    <key>pregame(29523)</key>
+    <link>https://www.nahltv.com/watch/29523</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251107180000 -0600" stop="20251107210000 -0600" channel="Nordiques">
+    <title>Maine Nordiques vs. Buzz </title>
+    <desc>Live broadcast of Maine Nordiques vs. Buzz </desc>
+    <key>29523</key>
+    <link>https://www.nahltv.com/watch/29523</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251107183000 -0600" stop="20251107190000 -0600" channel="Grizzlies">
+    <title>Pregame: Rochester Grizzlies vs. Wausau Cyclones</title>
+    <desc>Pre-game coverage for Rochester Grizzlies vs. Wausau Cyclones</desc>
+    <key>pregame(29525)</key>
+    <link>https://www.nahltv.com/watch/29525</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251107190000 -0600" stop="20251107220000 -0600" channel="Grizzlies">
+    <title>Rochester Grizzlies vs. Wausau Cyclones</title>
+    <desc>Live broadcast of Rochester Grizzlies vs. Wausau Cyclones</desc>
+    <key>29525</key>
+    <link>https://www.nahltv.com/watch/29525</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251107183000 -0600" stop="20251107190000 -0600" channel="Ice_Bats">
+    <title>Pregame: Austin Ice Bats vs. Tulsa Oilers</title>
+    <desc>Pre-game coverage for Austin Ice Bats vs. Tulsa Oilers</desc>
+    <key>pregame(29531)</key>
+    <link>https://www.nahltv.com/watch/29531</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251107190000 -0600" stop="20251107220000 -0600" channel="Ice_Bats">
+    <title>Austin Ice Bats vs. Tulsa Oilers</title>
+    <desc>Live broadcast of Austin Ice Bats vs. Tulsa Oilers</desc>
+    <key>29531</key>
+    <link>https://www.nahltv.com/watch/29531</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251107183500 -0600" stop="20251107190500 -0600" channel="Wilderness">
+    <title>Pregame: Minnesota Wilderness vs. Minnesota Moose</title>
+    <desc>Pre-game coverage for Minnesota Wilderness vs. Minnesota Moose</desc>
+    <key>pregame(29526)</key>
+    <link>https://www.nahltv.com/watch/29526</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251107190500 -0600" stop="20251107220500 -0600" channel="Wilderness">
+    <title>Minnesota Wilderness vs. Minnesota Moose</title>
+    <desc>Live broadcast of Minnesota Wilderness vs. Minnesota Moose</desc>
+    <key>29526</key>
+    <link>https://www.nahltv.com/watch/29526</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
