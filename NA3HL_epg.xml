@@ -4110,4 +4110,88 @@
     <link>https://www.nahltv.com/watch/29526</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20251107184000 -0600" stop="20251107191000 -0600" channel="Toros">
+    <title>Pregame: Mason City Toros vs. Granite City Lumberjacks</title>
+    <desc>Pre-game coverage for Mason City Toros vs. Granite City Lumberjacks</desc>
+    <key>pregame(29527)</key>
+    <link>https://www.nahltv.com/watch/29527</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251107191000 -0600" stop="20251107221000 -0600" channel="Toros">
+    <title>Mason City Toros vs. Granite City Lumberjacks</title>
+    <desc>Live broadcast of Mason City Toros vs. Granite City Lumberjacks</desc>
+    <key>29527</key>
+    <link>https://www.nahltv.com/watch/29527</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251107184000 -0600" stop="20251107191000 -0600" channel="WarHawks">
+    <title>Pregame: Willmar WarHawks vs. St. Louis Jr. Blues</title>
+    <desc>Pre-game coverage for Willmar WarHawks vs. St. Louis Jr. Blues</desc>
+    <key>pregame(29528)</key>
+    <link>https://www.nahltv.com/watch/29528</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251107191000 -0600" stop="20251107221000 -0600" channel="WarHawks">
+    <title>Willmar WarHawks vs. St. Louis Jr. Blues</title>
+    <desc>Live broadcast of Willmar WarHawks vs. St. Louis Jr. Blues</desc>
+    <key>29528</key>
+    <link>https://www.nahltv.com/watch/29528</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251107184400 -0600" stop="20251107191400 -0600" channel="Wranglers">
+    <title>Pregame: West Texas Wranglers vs. El Paso Rhinos</title>
+    <desc>Pre-game coverage for West Texas Wranglers vs. El Paso Rhinos</desc>
+    <key>pregame(29529)</key>
+    <link>https://www.nahltv.com/watch/29529</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251107191400 -0600" stop="20251107221400 -0600" channel="Wranglers">
+    <title>West Texas Wranglers vs. El Paso Rhinos</title>
+    <desc>Live broadcast of West Texas Wranglers vs. El Paso Rhinos</desc>
+    <key>29529</key>
+    <link>https://www.nahltv.com/watch/29529</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251107184500 -0600" stop="20251107191500 -0600" channel="RoadRunners">
+    <title>Pregame: Texas RoadRunners vs. Bayou State Rougarou</title>
+    <desc>Pre-game coverage for Texas RoadRunners vs. Bayou State Rougarou</desc>
+    <key>pregame(29524)</key>
+    <link>https://www.nahltv.com/watch/29524</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251107191500 -0600" stop="20251107221500 -0600" channel="RoadRunners">
+    <title>Texas RoadRunners vs. Bayou State Rougarou</title>
+    <desc>Live broadcast of Texas RoadRunners vs. Bayou State Rougarou</desc>
+    <key>29524</key>
+    <link>https://www.nahltv.com/watch/29524</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251107184500 -0600" stop="20251107191500 -0600" channel="Woodsmen">
+    <title>Pregame: Wisconsin Woodsmen vs. Peoria Mustangs</title>
+    <desc>Pre-game coverage for Wisconsin Woodsmen vs. Peoria Mustangs</desc>
+    <key>pregame(29530)</key>
+    <link>https://www.nahltv.com/watch/29530</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251107191500 -0600" stop="20251107221500 -0600" channel="Woodsmen">
+    <title>Wisconsin Woodsmen vs. Peoria Mustangs</title>
+    <desc>Live broadcast of Wisconsin Woodsmen vs. Peoria Mustangs</desc>
+    <key>29530</key>
+    <link>https://www.nahltv.com/watch/29530</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251107190000 -0600" stop="20251107193000 -0600" channel="Power">
+    <title>Pregame: West Bend Power vs. Alexandria Blizzard</title>
+    <desc>Pre-game coverage for West Bend Power vs. Alexandria Blizzard</desc>
+    <key>pregame(29532)</key>
+    <link>https://www.nahltv.com/watch/29532</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251107193000 -0600" stop="20251107223000 -0600" channel="Power">
+    <title>West Bend Power vs. Alexandria Blizzard</title>
+    <desc>Live broadcast of West Bend Power vs. Alexandria Blizzard</desc>
+    <key>29532</key>
+    <link>https://www.nahltv.com/watch/29532</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
