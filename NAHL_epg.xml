@@ -3886,4 +3886,32 @@
     <link>https://www.nahltv.com/watch/30352</link>
     <category>NAHL</category>
     </programme>
+  <programme start="20251107220000 -0600" stop="20251107223000 -0600" channel="Brown_Bears">
+    <title>Pregame: Kenai River Brown Bears vs. Fairbanks Ice Dogs</title>
+    <desc>Pre-game coverage for Kenai River Brown Bears vs. Fairbanks Ice Dogs</desc>
+    <key>pregame(30353)</key>
+    <link>https://www.nahltv.com/watch/30353</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20251107223000 -0600" stop="20251108013000 -0600" channel="Brown_Bears">
+    <title>Kenai River Brown Bears vs. Fairbanks Ice Dogs</title>
+    <desc>Live broadcast of Kenai River Brown Bears vs. Fairbanks Ice Dogs</desc>
+    <key>30353</key>
+    <link>https://www.nahltv.com/watch/30353</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20251107220000 -0600" stop="20251107223000 -0600" channel="Wolverines">
+    <title>Pregame: Anchorage Wolverines vs. Springfield Jr. Blues</title>
+    <desc>Pre-game coverage for Anchorage Wolverines vs. Springfield Jr. Blues</desc>
+    <key>pregame(30354)</key>
+    <link>https://www.nahltv.com/watch/30354</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20251107223000 -0600" stop="20251108013000 -0600" channel="Wolverines">
+    <title>Anchorage Wolverines vs. Springfield Jr. Blues</title>
+    <desc>Live broadcast of Anchorage Wolverines vs. Springfield Jr. Blues</desc>
+    <key>30354</key>
+    <link>https://www.nahltv.com/watch/30354</link>
+    <category>NAHL</category>
+    </programme>
   </tv>
