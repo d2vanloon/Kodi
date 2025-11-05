@@ -4194,4 +4194,46 @@
     <link>https://www.nahltv.com/watch/29532</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20251107193500 -0600" stop="20251107200500 -0600" channel="Quake">
+    <title>Pregame: Yellowstone Quake vs. Butte Irish</title>
+    <desc>Pre-game coverage for Yellowstone Quake vs. Butte Irish</desc>
+    <key>pregame(29533)</key>
+    <link>https://www.nahltv.com/watch/29533</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251107200500 -0600" stop="20251107230500 -0600" channel="Quake">
+    <title>Yellowstone Quake vs. Butte Irish</title>
+    <desc>Live broadcast of Yellowstone Quake vs. Butte Irish</desc>
+    <key>29533</key>
+    <link>https://www.nahltv.com/watch/29533</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251107200000 -0600" stop="20251107203000 -0600" channel="Hawks">
+    <title>Pregame: Sheridan Hawks vs. Great Falls Americans</title>
+    <desc>Pre-game coverage for Sheridan Hawks vs. Great Falls Americans</desc>
+    <key>pregame(29535)</key>
+    <link>https://www.nahltv.com/watch/29535</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251107203000 -0600" stop="20251107233000 -0600" channel="Hawks">
+    <title>Sheridan Hawks vs. Great Falls Americans</title>
+    <desc>Live broadcast of Sheridan Hawks vs. Great Falls Americans</desc>
+    <key>29535</key>
+    <link>https://www.nahltv.com/watch/29535</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251107200000 -0600" stop="20251107203000 -0600" channel="Icedogs">
+    <title>Pregame: Bozeman Icedogs vs. Gillette Wild</title>
+    <desc>Pre-game coverage for Bozeman Icedogs vs. Gillette Wild</desc>
+    <key>pregame(29534)</key>
+    <link>https://www.nahltv.com/watch/29534</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251107203000 -0600" stop="20251107233000 -0600" channel="Icedogs">
+    <title>Bozeman Icedogs vs. Gillette Wild</title>
+    <desc>Live broadcast of Bozeman Icedogs vs. Gillette Wild</desc>
+    <key>29534</key>
+    <link>https://www.nahltv.com/watch/29534</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
