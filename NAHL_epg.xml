@@ -3914,4 +3914,18 @@
     <link>https://www.nahltv.com/watch/30354</link>
     <category>NAHL</category>
     </programme>
+  <programme start="20251108173000 -0600" stop="20251108180000 -0600" channel="Generals">
+    <title>Pregame: Northeast Generals vs. Rochester Jr. Americans</title>
+    <desc>Pre-game coverage for Northeast Generals vs. Rochester Jr. Americans</desc>
+    <key>pregame(30355)</key>
+    <link>https://www.nahltv.com/watch/30355</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20251108180000 -0600" stop="20251108210000 -0600" channel="Generals">
+    <title>Northeast Generals vs. Rochester Jr. Americans</title>
+    <desc>Live broadcast of Northeast Generals vs. Rochester Jr. Americans</desc>
+    <key>30355</key>
+    <link>https://www.nahltv.com/watch/30355</link>
+    <category>NAHL</category>
+    </programme>
   </tv>
