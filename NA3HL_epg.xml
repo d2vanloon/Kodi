@@ -4236,4 +4236,32 @@
     <link>https://www.nahltv.com/watch/29534</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20251108125000 -0600" stop="20251108132000 -0600" channel="Jr._Mountain_Kings">
+    <title>Pregame: New Hampshire Jr. Mountain Kings vs. Long Beach Sharks</title>
+    <desc>Pre-game coverage for New Hampshire Jr. Mountain Kings vs. Long Beach Sharks</desc>
+    <key>pregame(29536)</key>
+    <link>https://www.nahltv.com/watch/29536</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251108132000 -0600" stop="20251108162000 -0600" channel="Jr._Mountain_Kings">
+    <title>New Hampshire Jr. Mountain Kings vs. Long Beach Sharks</title>
+    <desc>Live broadcast of New Hampshire Jr. Mountain Kings vs. Long Beach Sharks</desc>
+    <key>29536</key>
+    <link>https://www.nahltv.com/watch/29536</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251108130000 -0600" stop="20251108133000 -0600" channel="RoadRunners">
+    <title>Pregame: Texas RoadRunners vs. Bayou State Rougarou</title>
+    <desc>Pre-game coverage for Texas RoadRunners vs. Bayou State Rougarou</desc>
+    <key>pregame(29541)</key>
+    <link>https://www.nahltv.com/watch/29541</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251108133000 -0600" stop="20251108163000 -0600" channel="RoadRunners">
+    <title>Texas RoadRunners vs. Bayou State Rougarou</title>
+    <desc>Live broadcast of Texas RoadRunners vs. Bayou State Rougarou</desc>
+    <key>29541</key>
+    <link>https://www.nahltv.com/watch/29541</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
