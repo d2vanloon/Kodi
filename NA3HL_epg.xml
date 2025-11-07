@@ -4264,4 +4264,18 @@
     <link>https://www.nahltv.com/watch/29541</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20251107193000 -0600" stop="20251107200000 -0600" channel="Ice_Bats">
+    <title>Pregame: Austin Ice Bats vs. Tulsa Oilers</title>
+    <desc>Pre-game coverage for Austin Ice Bats vs. Tulsa Oilers</desc>
+    <key>pregame(29531)</key>
+    <link>https://www.nahltv.com/watch/29531</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251107200000 -0600" stop="20251107230000 -0600" channel="Ice_Bats">
+    <title>Austin Ice Bats vs. Tulsa Oilers</title>
+    <desc>Live broadcast of Austin Ice Bats vs. Tulsa Oilers</desc>
+    <key>29531</key>
+    <link>https://www.nahltv.com/watch/29531</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
