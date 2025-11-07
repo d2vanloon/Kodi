@@ -3928,4 +3928,18 @@
     <link>https://www.nahltv.com/watch/30355</link>
     <category>NAHL</category>
     </programme>
+  <programme start="20251108173000 -0600" stop="20251108180000 -0600" channel="Black_Bears">
+    <title>Pregame: Maryland Black Bears vs. New Jersey Titans</title>
+    <desc>Pre-game coverage for Maryland Black Bears vs. New Jersey Titans</desc>
+    <key>pregame(30356)</key>
+    <link>https://www.nahltv.com/watch/30356</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20251108180000 -0600" stop="20251108210000 -0600" channel="Black_Bears">
+    <title>Maryland Black Bears vs. New Jersey Titans</title>
+    <desc>Live broadcast of Maryland Black Bears vs. New Jersey Titans</desc>
+    <key>30356</key>
+    <link>https://www.nahltv.com/watch/30356</link>
+    <category>NAHL</category>
+    </programme>
   </tv>
