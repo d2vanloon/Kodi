@@ -4670,4 +4670,46 @@
     <link>https://www.nahltv.com/watch/29565</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20251114190000 -0600" stop="20251114193000 -0600" channel="Lumberjacks">
+    <title>Pregame: Granite City Lumberjacks vs. Minnesota Wilderness</title>
+    <desc>Pre-game coverage for Granite City Lumberjacks vs. Minnesota Wilderness</desc>
+    <key>pregame(29567)</key>
+    <link>https://www.nahltv.com/watch/29567</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251114193000 -0600" stop="20251114223000 -0600" channel="Lumberjacks">
+    <title>Granite City Lumberjacks vs. Minnesota Wilderness</title>
+    <desc>Live broadcast of Granite City Lumberjacks vs. Minnesota Wilderness</desc>
+    <key>29567</key>
+    <link>https://www.nahltv.com/watch/29567</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251114190000 -0600" stop="20251114193000 -0600" channel="Ice_Wolves">
+    <title>Pregame: New Mexico Ice Wolves vs. Austin Ice Bats</title>
+    <desc>Pre-game coverage for New Mexico Ice Wolves vs. Austin Ice Bats</desc>
+    <key>pregame(29566)</key>
+    <link>https://www.nahltv.com/watch/29566</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251114193000 -0600" stop="20251114223000 -0600" channel="Ice_Wolves">
+    <title>New Mexico Ice Wolves vs. Austin Ice Bats</title>
+    <desc>Live broadcast of New Mexico Ice Wolves vs. Austin Ice Bats</desc>
+    <key>29566</key>
+    <link>https://www.nahltv.com/watch/29566</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251114193500 -0600" stop="20251114200500 -0600" channel="Bighorns">
+    <title>Pregame: Helena Bighorns vs. Bozeman Icedogs</title>
+    <desc>Pre-game coverage for Helena Bighorns vs. Bozeman Icedogs</desc>
+    <key>pregame(29568)</key>
+    <link>https://www.nahltv.com/watch/29568</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251114200500 -0600" stop="20251114230500 -0600" channel="Bighorns">
+    <title>Helena Bighorns vs. Bozeman Icedogs</title>
+    <desc>Live broadcast of Helena Bighorns vs. Bozeman Icedogs</desc>
+    <key>29568</key>
+    <link>https://www.nahltv.com/watch/29568</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
