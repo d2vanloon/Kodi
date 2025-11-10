@@ -4320,4 +4320,18 @@
     <link>https://www.nahltv.com/watch/30383</link>
     <category>NAHL</category>
     </programme>
+  <programme start="20251115133000 -0600" stop="20251115140000 -0600" channel="Mudbugs">
+    <title>Pregame: Shreveport Mudbugs vs. Oklahoma Warriors</title>
+    <desc>Pre-game coverage for Shreveport Mudbugs vs. Oklahoma Warriors</desc>
+    <key>pregame(30393)</key>
+    <link>https://www.nahltv.com/watch/30393</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20251115140000 -0600" stop="20251115170000 -0600" channel="Mudbugs">
+    <title>Shreveport Mudbugs vs. Oklahoma Warriors</title>
+    <desc>Live broadcast of Shreveport Mudbugs vs. Oklahoma Warriors</desc>
+    <key>30393</key>
+    <link>https://www.nahltv.com/watch/30393</link>
+    <category>NAHL</category>
+    </programme>
   </tv>
