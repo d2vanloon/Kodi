@@ -4726,4 +4726,18 @@
     <link>https://www.nahltv.com/watch/29569</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20251114200000 -0600" stop="20251114203000 -0600" channel="Irish">
+    <title>Pregame: Butte Irish vs. Great Falls Americans</title>
+    <desc>Pre-game coverage for Butte Irish vs. Great Falls Americans</desc>
+    <key>pregame(29570)</key>
+    <link>https://www.nahltv.com/watch/29570</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251114203000 -0600" stop="20251114233000 -0600" channel="Irish">
+    <title>Butte Irish vs. Great Falls Americans</title>
+    <desc>Live broadcast of Butte Irish vs. Great Falls Americans</desc>
+    <key>29570</key>
+    <link>https://www.nahltv.com/watch/29570</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
