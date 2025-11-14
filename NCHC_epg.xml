@@ -1044,4 +1044,60 @@
     <link>http://nchchockey.com/watch?live=1407</link>
     <category>NCHC</category>
     </programme>
+  <programme start="20251114173000 -0600" stop="20251114180000 -0600" channel="Western_Michigan_">
+    <title>Pregame: Western Michigan  vs. Miami</title>
+    <desc>Pre-game coverage for Western Michigan  vs. Miami</desc>
+    <key>pregame(20118)</key>
+    <link>http://nchchockey.com/watch?live=1424</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20251114180000 -0600" stop="20251114210000 -0600" channel="Western_Michigan_">
+    <title>Western Michigan  vs. Miami</title>
+    <desc>Live broadcast of Western Michigan  vs. Miami</desc>
+    <key>20118</key>
+    <link>http://nchchockey.com/watch?live=1424</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20251114183700 -0600" stop="20251114190700 -0600" channel="North_Dakota">
+    <title>Pregame: North Dakota vs. Arizona State</title>
+    <desc>Pre-game coverage for North Dakota vs. Arizona State</desc>
+    <key>pregame(20365)</key>
+    <link>http://nchchockey.com/watch?live=1387</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20251114190700 -0600" stop="20251114220700 -0600" channel="North_Dakota">
+    <title>North Dakota vs. Arizona State</title>
+    <desc>Live broadcast of North Dakota vs. Arizona State</desc>
+    <key>20365</key>
+    <link>http://nchchockey.com/watch?live=1387</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20251114183700 -0600" stop="20251114190700 -0600" channel="Minnesota_Duluth">
+    <title>Pregame: Minnesota Duluth vs. Omaha</title>
+    <desc>Pre-game coverage for Minnesota Duluth vs. Omaha</desc>
+    <key>pregame(20155)</key>
+    <link>http://nchchockey.com/watch?live=1352</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20251114190700 -0600" stop="20251114220700 -0600" channel="Minnesota_Duluth">
+    <title>Minnesota Duluth vs. Omaha</title>
+    <desc>Live broadcast of Minnesota Duluth vs. Omaha</desc>
+    <key>20155</key>
+    <link>http://nchchockey.com/watch?live=1352</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20251114193000 -0600" stop="20251114200000 -0600" channel="Denver">
+    <title>Pregame: Denver vs. Colorado College</title>
+    <desc>Pre-game coverage for Denver vs. Colorado College</desc>
+    <key>pregame(20013)</key>
+    <link>http://nchchockey.com/watch?live=1332</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20251114200000 -0600" stop="20251114230000 -0600" channel="Denver">
+    <title>Denver vs. Colorado College</title>
+    <desc>Live broadcast of Denver vs. Colorado College</desc>
+    <key>20013</key>
+    <link>http://nchchockey.com/watch?live=1332</link>
+    <category>NCHC</category>
+    </programme>
   </tv>
