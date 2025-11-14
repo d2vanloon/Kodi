@@ -4740,4 +4740,32 @@
     <link>https://www.nahltv.com/watch/29570</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20251114200000 -0600" stop="20251114203000 -0600" channel="Hawks">
+    <title>Pregame: Sheridan Hawks vs. Gillette Wild</title>
+    <desc>Pre-game coverage for Sheridan Hawks vs. Gillette Wild</desc>
+    <key>pregame(29571)</key>
+    <link>https://www.nahltv.com/watch/29571</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251114203000 -0600" stop="20251114233000 -0600" channel="Hawks">
+    <title>Sheridan Hawks vs. Gillette Wild</title>
+    <desc>Live broadcast of Sheridan Hawks vs. Gillette Wild</desc>
+    <key>29571</key>
+    <link>https://www.nahltv.com/watch/29571</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251115125000 -0600" stop="20251115132000 -0600" channel="Jr._Mountain_Kings">
+    <title>Pregame: New Hampshire Jr. Mountain Kings vs. Norwich Sea Captains</title>
+    <desc>Pre-game coverage for New Hampshire Jr. Mountain Kings vs. Norwich Sea Captains</desc>
+    <key>pregame(29572)</key>
+    <link>https://www.nahltv.com/watch/29572</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251115132000 -0600" stop="20251115162000 -0600" channel="Jr._Mountain_Kings">
+    <title>New Hampshire Jr. Mountain Kings vs. Norwich Sea Captains</title>
+    <desc>Live broadcast of New Hampshire Jr. Mountain Kings vs. Norwich Sea Captains</desc>
+    <key>29572</key>
+    <link>https://www.nahltv.com/watch/29572</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
