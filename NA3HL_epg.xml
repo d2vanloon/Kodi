@@ -5202,4 +5202,46 @@
     <link>https://www.nahltv.com/watch/29603</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20251121193000 -0600" stop="20251121200000 -0600" channel="Rhinos">
+    <title>Pregame: El Paso Rhinos vs. Texas Brahmas</title>
+    <desc>Pre-game coverage for El Paso Rhinos vs. Texas Brahmas</desc>
+    <key>pregame(29605)</key>
+    <link>https://www.nahltv.com/watch/29605</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251121200000 -0600" stop="20251121230000 -0600" channel="Rhinos">
+    <title>El Paso Rhinos vs. Texas Brahmas</title>
+    <desc>Live broadcast of El Paso Rhinos vs. Texas Brahmas</desc>
+    <key>29605</key>
+    <link>https://www.nahltv.com/watch/29605</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251121193000 -0600" stop="20251121200000 -0600" channel="Ice_Bats">
+    <title>Pregame: Austin Ice Bats vs. West Texas Wranglers</title>
+    <desc>Pre-game coverage for Austin Ice Bats vs. West Texas Wranglers</desc>
+    <key>pregame(29604)</key>
+    <link>https://www.nahltv.com/watch/29604</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251121200000 -0600" stop="20251121230000 -0600" channel="Ice_Bats">
+    <title>Austin Ice Bats vs. West Texas Wranglers</title>
+    <desc>Live broadcast of Austin Ice Bats vs. West Texas Wranglers</desc>
+    <key>29604</key>
+    <link>https://www.nahltv.com/watch/29604</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251121193500 -0600" stop="20251121200500 -0600" channel="Bighorns">
+    <title>Pregame: Helena Bighorns vs. Gillette Wild</title>
+    <desc>Pre-game coverage for Helena Bighorns vs. Gillette Wild</desc>
+    <key>pregame(29606)</key>
+    <link>https://www.nahltv.com/watch/29606</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251121200500 -0600" stop="20251121230500 -0600" channel="Bighorns">
+    <title>Helena Bighorns vs. Gillette Wild</title>
+    <desc>Live broadcast of Helena Bighorns vs. Gillette Wild</desc>
+    <key>29606</key>
+    <link>https://www.nahltv.com/watch/29606</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
