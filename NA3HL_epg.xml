@@ -5244,4 +5244,32 @@
     <link>https://www.nahltv.com/watch/29606</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20251119113000 -0600" stop="20251119120000 -0600" channel="Titans">
+    <title>Pregame: New Jersey Titans vs. Maine Nordiques</title>
+    <desc>Pre-game coverage for New Jersey Titans vs. Maine Nordiques</desc>
+    <key>pregame(29256)</key>
+    <link>https://www.nahltv.com/watch/29256</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251119120000 -0600" stop="20251119150000 -0600" channel="Titans">
+    <title>New Jersey Titans vs. Maine Nordiques</title>
+    <desc>Live broadcast of New Jersey Titans vs. Maine Nordiques</desc>
+    <key>29256</key>
+    <link>https://www.nahltv.com/watch/29256</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251121193500 -0600" stop="20251121200500 -0600" channel="Americans">
+    <title>Pregame: Great Falls Americans vs. Yellowstone Quake</title>
+    <desc>Pre-game coverage for Great Falls Americans vs. Yellowstone Quake</desc>
+    <key>pregame(29607)</key>
+    <link>https://www.nahltv.com/watch/29607</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251121200500 -0600" stop="20251121230500 -0600" channel="Americans">
+    <title>Great Falls Americans vs. Yellowstone Quake</title>
+    <desc>Live broadcast of Great Falls Americans vs. Yellowstone Quake</desc>
+    <key>29607</key>
+    <link>https://www.nahltv.com/watch/29607</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
