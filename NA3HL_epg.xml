@@ -5272,4 +5272,18 @@
     <link>https://www.nahltv.com/watch/29607</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20251121200000 -0600" stop="20251121203000 -0600" channel="Icedogs">
+    <title>Pregame: Bozeman Icedogs vs. Badlands Sabres</title>
+    <desc>Pre-game coverage for Bozeman Icedogs vs. Badlands Sabres</desc>
+    <key>pregame(29608)</key>
+    <link>https://www.nahltv.com/watch/29608</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251121203000 -0600" stop="20251121233000 -0600" channel="Icedogs">
+    <title>Bozeman Icedogs vs. Badlands Sabres</title>
+    <desc>Live broadcast of Bozeman Icedogs vs. Badlands Sabres</desc>
+    <key>29608</key>
+    <link>https://www.nahltv.com/watch/29608</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
