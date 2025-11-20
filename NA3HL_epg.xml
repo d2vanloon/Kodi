@@ -5286,4 +5286,18 @@
     <link>https://www.nahltv.com/watch/29608</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20251121200000 -0600" stop="20251121203000 -0600" channel="Hawks">
+    <title>Pregame: Sheridan Hawks vs. Butte Irish</title>
+    <desc>Pre-game coverage for Sheridan Hawks vs. Butte Irish</desc>
+    <key>pregame(29609)</key>
+    <link>https://www.nahltv.com/watch/29609</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251121203000 -0600" stop="20251121233000 -0600" channel="Hawks">
+    <title>Sheridan Hawks vs. Butte Irish</title>
+    <desc>Live broadcast of Sheridan Hawks vs. Butte Irish</desc>
+    <key>29609</key>
+    <link>https://www.nahltv.com/watch/29609</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
