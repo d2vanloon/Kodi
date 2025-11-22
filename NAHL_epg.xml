@@ -4768,4 +4768,228 @@
     <link>https://www.nahltv.com/watch/30414</link>
     <category>NAHL</category>
     </programme>
+  <programme start="20251122163000 -0600" stop="20251122170000 -0600" channel="Mountain_Kings">
+    <title>Pregame: New Hampshire Mountain Kings vs. Maryland Black Bears</title>
+    <desc>Pre-game coverage for New Hampshire Mountain Kings vs. Maryland Black Bears</desc>
+    <key>pregame(30415)</key>
+    <link>https://www.nahltv.com/watch/30415</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20251122170000 -0600" stop="20251122200000 -0600" channel="Mountain_Kings">
+    <title>New Hampshire Mountain Kings vs. Maryland Black Bears</title>
+    <desc>Live broadcast of New Hampshire Mountain Kings vs. Maryland Black Bears</desc>
+    <key>30415</key>
+    <link>https://www.nahltv.com/watch/30415</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20251122173000 -0600" stop="20251122180000 -0600" channel="Tomahawks">
+    <title>Pregame: Johnstown Tomahawks vs. Philadelphia Rebels</title>
+    <desc>Pre-game coverage for Johnstown Tomahawks vs. Philadelphia Rebels</desc>
+    <key>pregame(30416)</key>
+    <link>https://www.nahltv.com/watch/30416</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20251122180000 -0600" stop="20251122210000 -0600" channel="Tomahawks">
+    <title>Johnstown Tomahawks vs. Philadelphia Rebels</title>
+    <desc>Live broadcast of Johnstown Tomahawks vs. Philadelphia Rebels</desc>
+    <key>30416</key>
+    <link>https://www.nahltv.com/watch/30416</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20251122173000 -0600" stop="20251122180000 -0600" channel="Jr._Americans">
+    <title>Pregame: Rochester Jr. Americans vs. Maine Nordiques</title>
+    <desc>Pre-game coverage for Rochester Jr. Americans vs. Maine Nordiques</desc>
+    <key>pregame(30417)</key>
+    <link>https://www.nahltv.com/watch/30417</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20251122180000 -0600" stop="20251122210000 -0600" channel="Jr._Americans">
+    <title>Rochester Jr. Americans vs. Maine Nordiques</title>
+    <desc>Live broadcast of Rochester Jr. Americans vs. Maine Nordiques</desc>
+    <key>30417</key>
+    <link>https://www.nahltv.com/watch/30417</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20251122173000 -0600" stop="20251122180000 -0600" channel="Generals">
+    <title>Pregame: Northeast Generals vs. Danbury Hat Tricks</title>
+    <desc>Pre-game coverage for Northeast Generals vs. Danbury Hat Tricks</desc>
+    <key>pregame(30419)</key>
+    <link>https://www.nahltv.com/watch/30419</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20251122180000 -0600" stop="20251122210000 -0600" channel="Generals">
+    <title>Northeast Generals vs. Danbury Hat Tricks</title>
+    <desc>Live broadcast of Northeast Generals vs. Danbury Hat Tricks</desc>
+    <key>30419</key>
+    <link>https://www.nahltv.com/watch/30419</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20251122173000 -0600" stop="20251122180000 -0600" channel="Aviators">
+    <title>Pregame: Elmira Aviators vs. New Jersey Titans</title>
+    <desc>Pre-game coverage for Elmira Aviators vs. New Jersey Titans</desc>
+    <key>pregame(30420)</key>
+    <link>https://www.nahltv.com/watch/30420</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20251122180000 -0600" stop="20251122210000 -0600" channel="Aviators">
+    <title>Elmira Aviators vs. New Jersey Titans</title>
+    <desc>Live broadcast of Elmira Aviators vs. New Jersey Titans</desc>
+    <key>30420</key>
+    <link>https://www.nahltv.com/watch/30420</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20251122173500 -0600" stop="20251122180500 -0600" channel="Jr._Blues">
+    <title>Pregame: Springfield Jr. Blues vs. Chippewa Steel</title>
+    <desc>Pre-game coverage for Springfield Jr. Blues vs. Chippewa Steel</desc>
+    <key>pregame(30421)</key>
+    <link>https://www.nahltv.com/watch/30421</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20251122180500 -0600" stop="20251122210500 -0600" channel="Jr._Blues">
+    <title>Springfield Jr. Blues vs. Chippewa Steel</title>
+    <desc>Live broadcast of Springfield Jr. Blues vs. Chippewa Steel</desc>
+    <key>30421</key>
+    <link>https://www.nahltv.com/watch/30421</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20251122180000 -0600" stop="20251122183000 -0600" channel="Bulls">
+    <title>Pregame: North Iowa Bulls vs. St. Cloud Norsemen</title>
+    <desc>Pre-game coverage for North Iowa Bulls vs. St. Cloud Norsemen</desc>
+    <key>pregame(30422)</key>
+    <link>https://www.nahltv.com/watch/30422</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20251122183000 -0600" stop="20251122213000 -0600" channel="Bulls">
+    <title>North Iowa Bulls vs. St. Cloud Norsemen</title>
+    <desc>Live broadcast of North Iowa Bulls vs. St. Cloud Norsemen</desc>
+    <key>30422</key>
+    <link>https://www.nahltv.com/watch/30422</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20251122183000 -0600" stop="20251122190000 -0600" channel="Warriors">
+    <title>Pregame: Oklahoma Warriors vs. Odessa Jackalopes</title>
+    <desc>Pre-game coverage for Oklahoma Warriors vs. Odessa Jackalopes</desc>
+    <key>pregame(30423)</key>
+    <link>https://www.nahltv.com/watch/30423</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20251122190000 -0600" stop="20251122220000 -0600" channel="Warriors">
+    <title>Oklahoma Warriors vs. Odessa Jackalopes</title>
+    <desc>Live broadcast of Oklahoma Warriors vs. Odessa Jackalopes</desc>
+    <key>30423</key>
+    <link>https://www.nahltv.com/watch/30423</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20251122183000 -0600" stop="20251122190000 -0600" channel="Shamrocks">
+    <title>Pregame: Watertown Shamrocks vs. Minnesota Mallards</title>
+    <desc>Pre-game coverage for Watertown Shamrocks vs. Minnesota Mallards</desc>
+    <key>pregame(30418)</key>
+    <link>https://www.nahltv.com/watch/30418</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20251122190000 -0600" stop="20251122220000 -0600" channel="Shamrocks">
+    <title>Watertown Shamrocks vs. Minnesota Mallards</title>
+    <desc>Live broadcast of Watertown Shamrocks vs. Minnesota Mallards</desc>
+    <key>30418</key>
+    <link>https://www.nahltv.com/watch/30418</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20251122184100 -0600" stop="20251122191100 -0600" channel="Mudbugs">
+    <title>Pregame: Shreveport Mudbugs vs. El Paso Rhinos</title>
+    <desc>Pre-game coverage for Shreveport Mudbugs vs. El Paso Rhinos</desc>
+    <key>pregame(30424)</key>
+    <link>https://www.nahltv.com/watch/30424</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20251122191100 -0600" stop="20251122221100 -0600" channel="Mudbugs">
+    <title>Shreveport Mudbugs vs. El Paso Rhinos</title>
+    <desc>Live broadcast of Shreveport Mudbugs vs. El Paso Rhinos</desc>
+    <key>30424</key>
+    <link>https://www.nahltv.com/watch/30424</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20251122184400 -0600" stop="20251122191400 -0600" channel="Wranglers">
+    <title>Pregame: Amarillo Wranglers vs. Lone Star Brahmas</title>
+    <desc>Pre-game coverage for Amarillo Wranglers vs. Lone Star Brahmas</desc>
+    <key>pregame(30425)</key>
+    <link>https://www.nahltv.com/watch/30425</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20251122191400 -0600" stop="20251122221400 -0600" channel="Wranglers">
+    <title>Amarillo Wranglers vs. Lone Star Brahmas</title>
+    <desc>Live broadcast of Amarillo Wranglers vs. Lone Star Brahmas</desc>
+    <key>30425</key>
+    <link>https://www.nahltv.com/watch/30425</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20251122184500 -0600" stop="20251122191500 -0600" channel="Bobcats">
+    <title>Pregame: Bismarck Bobcats vs. Aberdeen Wings</title>
+    <desc>Pre-game coverage for Bismarck Bobcats vs. Aberdeen Wings</desc>
+    <key>pregame(30426)</key>
+    <link>https://www.nahltv.com/watch/30426</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20251122191500 -0600" stop="20251122221500 -0600" channel="Bobcats">
+    <title>Bismarck Bobcats vs. Aberdeen Wings</title>
+    <desc>Live broadcast of Bismarck Bobcats vs. Aberdeen Wings</desc>
+    <key>30426</key>
+    <link>https://www.nahltv.com/watch/30426</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20251122184500 -0600" stop="20251122191500 -0600" channel="Wilderness">
+    <title>Pregame: Minnesota Wilderness vs. Janesville Jets</title>
+    <desc>Pre-game coverage for Minnesota Wilderness vs. Janesville Jets</desc>
+    <key>pregame(30427)</key>
+    <link>https://www.nahltv.com/watch/30427</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20251122191500 -0600" stop="20251122221500 -0600" channel="Wilderness">
+    <title>Minnesota Wilderness vs. Janesville Jets</title>
+    <desc>Live broadcast of Minnesota Wilderness vs. Janesville Jets</desc>
+    <key>30427</key>
+    <link>https://www.nahltv.com/watch/30427</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20251122190000 -0600" stop="20251122193000 -0600" channel="Ice_Wolves">
+    <title>Pregame: New Mexico Ice Wolves vs. Corpus Christi IceRays</title>
+    <desc>Pre-game coverage for New Mexico Ice Wolves vs. Corpus Christi IceRays</desc>
+    <key>pregame(30428)</key>
+    <link>https://www.nahltv.com/watch/30428</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20251122193000 -0600" stop="20251122223000 -0600" channel="Ice_Wolves">
+    <title>New Mexico Ice Wolves vs. Corpus Christi IceRays</title>
+    <desc>Live broadcast of New Mexico Ice Wolves vs. Corpus Christi IceRays</desc>
+    <key>30428</key>
+    <link>https://www.nahltv.com/watch/30428</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20251122190500 -0600" stop="20251122193500 -0600" channel="Minotauros">
+    <title>Pregame: Minot Minotauros vs. Austin Bruins</title>
+    <desc>Pre-game coverage for Minot Minotauros vs. Austin Bruins</desc>
+    <key>pregame(30429)</key>
+    <link>https://www.nahltv.com/watch/30429</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20251122193500 -0600" stop="20251122223500 -0600" channel="Minotauros">
+    <title>Minot Minotauros vs. Austin Bruins</title>
+    <desc>Live broadcast of Minot Minotauros vs. Austin Bruins</desc>
+    <key>30429</key>
+    <link>https://www.nahltv.com/watch/30429</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20251122220000 -0600" stop="20251122223000 -0600" channel="Ice_Dogs">
+    <title>Pregame: Fairbanks Ice Dogs vs. Anchorage Wolverines</title>
+    <desc>Pre-game coverage for Fairbanks Ice Dogs vs. Anchorage Wolverines</desc>
+    <key>pregame(30430)</key>
+    <link>https://www.nahltv.com/watch/30430</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20251122223000 -0600" stop="20251123013000 -0600" channel="Ice_Dogs">
+    <title>Fairbanks Ice Dogs vs. Anchorage Wolverines</title>
+    <desc>Live broadcast of Fairbanks Ice Dogs vs. Anchorage Wolverines</desc>
+    <key>30430</key>
+    <link>https://www.nahltv.com/watch/30430</link>
+    <category>NAHL</category>
+    </programme>
   </tv>
