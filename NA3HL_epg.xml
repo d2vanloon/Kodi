@@ -5720,4 +5720,32 @@
     <link>https://www.nahltv.com/watch/29639</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20251128200000 -0600" stop="20251128203000 -0600" channel="Wild">
+    <title>Pregame: Gillette Wild vs. Sheridan Hawks</title>
+    <desc>Pre-game coverage for Gillette Wild vs. Sheridan Hawks</desc>
+    <key>pregame(29640)</key>
+    <link>https://www.nahltv.com/watch/29640</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251128203000 -0600" stop="20251128233000 -0600" channel="Wild">
+    <title>Gillette Wild vs. Sheridan Hawks</title>
+    <desc>Live broadcast of Gillette Wild vs. Sheridan Hawks</desc>
+    <key>29640</key>
+    <link>https://www.nahltv.com/watch/29640</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251128200000 -0600" stop="20251128203000 -0600" channel="Icedogs">
+    <title>Pregame: Bozeman Icedogs vs. Butte Irish</title>
+    <desc>Pre-game coverage for Bozeman Icedogs vs. Butte Irish</desc>
+    <key>pregame(29641)</key>
+    <link>https://www.nahltv.com/watch/29641</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251128203000 -0600" stop="20251128233000 -0600" channel="Icedogs">
+    <title>Bozeman Icedogs vs. Butte Irish</title>
+    <desc>Live broadcast of Bozeman Icedogs vs. Butte Irish</desc>
+    <key>29641</key>
+    <link>https://www.nahltv.com/watch/29641</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
