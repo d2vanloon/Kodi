@@ -5762,4 +5762,46 @@
     <link>https://www.nahltv.com/watch/29642</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20251129133500 -0600" stop="20251129140500 -0600" channel="Brahmas">
+    <title>Pregame: Texas Brahmas vs. Tulsa Oilers</title>
+    <desc>Pre-game coverage for Texas Brahmas vs. Tulsa Oilers</desc>
+    <key>pregame(29643)</key>
+    <link>https://www.nahltv.com/watch/29643</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251129140500 -0600" stop="20251129170500 -0600" channel="Brahmas">
+    <title>Texas Brahmas vs. Tulsa Oilers</title>
+    <desc>Live broadcast of Texas Brahmas vs. Tulsa Oilers</desc>
+    <key>29643</key>
+    <link>https://www.nahltv.com/watch/29643</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251129153000 -0600" stop="20251129160000 -0600" channel="Mustangs">
+    <title>Pregame: Peoria Mustangs vs. Wisconsin Woodsmen</title>
+    <desc>Pre-game coverage for Peoria Mustangs vs. Wisconsin Woodsmen</desc>
+    <key>pregame(29644)</key>
+    <link>https://www.nahltv.com/watch/29644</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251129160000 -0600" stop="20251129190000 -0600" channel="Mustangs">
+    <title>Peoria Mustangs vs. Wisconsin Woodsmen</title>
+    <desc>Live broadcast of Peoria Mustangs vs. Wisconsin Woodsmen</desc>
+    <key>29644</key>
+    <link>https://www.nahltv.com/watch/29644</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251129184000 -0600" stop="20251129191000 -0600" channel="Blizzard">
+    <title>Pregame: Alexandria Blizzard vs. Minnesota Moose</title>
+    <desc>Pre-game coverage for Alexandria Blizzard vs. Minnesota Moose</desc>
+    <key>pregame(29645)</key>
+    <link>https://www.nahltv.com/watch/29645</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251129191000 -0600" stop="20251129221000 -0600" channel="Blizzard">
+    <title>Alexandria Blizzard vs. Minnesota Moose</title>
+    <desc>Live broadcast of Alexandria Blizzard vs. Minnesota Moose</desc>
+    <key>29645</key>
+    <link>https://www.nahltv.com/watch/29645</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
