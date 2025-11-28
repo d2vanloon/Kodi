@@ -1282,4 +1282,32 @@
     <link>http://nchchockey.com/watch?live=1409</link>
     <category>NCHC</category>
     </programme>
+  <programme start="20251128153000 -0600" stop="20251128160000 -0600" channel="Arizona_State">
+    <title>Pregame: Arizona State vs. Ohio State</title>
+    <desc>Pre-game coverage for Arizona State vs. Ohio State</desc>
+    <key>pregame(20385)</key>
+    <link>http://nchchockey.com/watch?live=1298</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20251128160000 -0600" stop="20251128190000 -0600" channel="Arizona_State">
+    <title>Arizona State vs. Ohio State</title>
+    <desc>Live broadcast of Arizona State vs. Ohio State</desc>
+    <key>20385</key>
+    <link>http://nchchockey.com/watch?live=1298</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20251128193000 -0600" stop="20251128200000 -0600" channel="Colorado_College">
+    <title>Pregame: Colorado College vs. Providence</title>
+    <desc>Pre-game coverage for Colorado College vs. Providence</desc>
+    <key>pregame(20032)</key>
+    <link>http://nchchockey.com/watch?live=1318</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20251128200000 -0600" stop="20251128230000 -0600" channel="Colorado_College">
+    <title>Colorado College vs. Providence</title>
+    <desc>Live broadcast of Colorado College vs. Providence</desc>
+    <key>20032</key>
+    <link>http://nchchockey.com/watch?live=1318</link>
+    <category>NCHC</category>
+    </programme>
   </tv>
