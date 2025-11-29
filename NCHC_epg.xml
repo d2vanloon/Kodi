@@ -1310,4 +1310,60 @@
     <link>http://nchchockey.com/watch?live=1318</link>
     <category>NCHC</category>
     </programme>
+  <programme start="20251129173000 -0600" stop="20251129180000 -0600" channel="Arizona_State">
+    <title>Pregame: Arizona State vs. Ohio State</title>
+    <desc>Pre-game coverage for Arizona State vs. Ohio State</desc>
+    <key>pregame(20386)</key>
+    <link>http://nchchockey.com/watch?live=1299</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20251129180000 -0600" stop="20251129210000 -0600" channel="Arizona_State">
+    <title>Arizona State vs. Ohio State</title>
+    <desc>Live broadcast of Arizona State vs. Ohio State</desc>
+    <key>20386</key>
+    <link>http://nchchockey.com/watch?live=1299</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20251129173700 -0600" stop="20251129180700 -0600" channel="North_Dakota">
+    <title>Pregame: North Dakota vs. Bemidji State</title>
+    <desc>Pre-game coverage for North Dakota vs. Bemidji State</desc>
+    <key>pregame(20191)</key>
+    <link>http://nchchockey.com/watch?live=1390</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20251129180700 -0600" stop="20251129210700 -0600" channel="North_Dakota">
+    <title>North Dakota vs. Bemidji State</title>
+    <desc>Live broadcast of North Dakota vs. Bemidji State</desc>
+    <key>20191</key>
+    <link>http://nchchockey.com/watch?live=1390</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20251129183000 -0600" stop="20251129190000 -0600" channel="Colorado_College">
+    <title>Pregame: Colorado College vs. Providence</title>
+    <desc>Pre-game coverage for Colorado College vs. Providence</desc>
+    <key>pregame(20033)</key>
+    <link>http://nchchockey.com/watch?live=1319</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20251129190000 -0600" stop="20251129220000 -0600" channel="Colorado_College">
+    <title>Colorado College vs. Providence</title>
+    <desc>Live broadcast of Colorado College vs. Providence</desc>
+    <key>20033</key>
+    <link>http://nchchockey.com/watch?live=1319</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20251129193000 -0600" stop="20251129200000 -0600" channel="Denver">
+    <title>Pregame: Denver vs. Minnesota</title>
+    <desc>Pre-game coverage for Denver vs. Minnesota</desc>
+    <key>pregame(20061)</key>
+    <link>http://nchchockey.com/watch?live=1333</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20251129200000 -0600" stop="20251129230000 -0600" channel="Denver">
+    <title>Denver vs. Minnesota</title>
+    <desc>Live broadcast of Denver vs. Minnesota</desc>
+    <key>20061</key>
+    <link>http://nchchockey.com/watch?live=1333</link>
+    <category>NCHC</category>
+    </programme>
   </tv>
