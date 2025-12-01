@@ -6140,4 +6140,46 @@
     <link>https://www.nahltv.com/watch/29667</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20251205184500 -0600" stop="20251205191500 -0600" channel="Woodsmen">
+    <title>Pregame: Wisconsin Woodsmen vs. West Bend Power</title>
+    <desc>Pre-game coverage for Wisconsin Woodsmen vs. West Bend Power</desc>
+    <key>pregame(29668)</key>
+    <link>https://www.nahltv.com/watch/29668</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251205191500 -0600" stop="20251205221500 -0600" channel="Woodsmen">
+    <title>Wisconsin Woodsmen vs. West Bend Power</title>
+    <desc>Live broadcast of Wisconsin Woodsmen vs. West Bend Power</desc>
+    <key>29668</key>
+    <link>https://www.nahltv.com/watch/29668</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251205193000 -0600" stop="20251205200000 -0600" channel="Ice_Bats">
+    <title>Pregame: Austin Ice Bats vs. Tulsa Oilers</title>
+    <desc>Pre-game coverage for Austin Ice Bats vs. Tulsa Oilers</desc>
+    <key>pregame(29669)</key>
+    <link>https://www.nahltv.com/watch/29669</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251205200000 -0600" stop="20251205230000 -0600" channel="Ice_Bats">
+    <title>Austin Ice Bats vs. Tulsa Oilers</title>
+    <desc>Live broadcast of Austin Ice Bats vs. Tulsa Oilers</desc>
+    <key>29669</key>
+    <link>https://www.nahltv.com/watch/29669</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251205193000 -0600" stop="20251205200000 -0600" channel="Rhinos">
+    <title>Pregame: El Paso Rhinos vs. West Texas Wranglers</title>
+    <desc>Pre-game coverage for El Paso Rhinos vs. West Texas Wranglers</desc>
+    <key>pregame(29670)</key>
+    <link>https://www.nahltv.com/watch/29670</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251205200000 -0600" stop="20251205230000 -0600" channel="Rhinos">
+    <title>El Paso Rhinos vs. West Texas Wranglers</title>
+    <desc>Live broadcast of El Paso Rhinos vs. West Texas Wranglers</desc>
+    <key>29670</key>
+    <link>https://www.nahltv.com/watch/29670</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
