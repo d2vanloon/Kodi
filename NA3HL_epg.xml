@@ -6196,4 +6196,32 @@
     <link>https://www.nahltv.com/watch/29671</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20251205193500 -0600" stop="20251205200500 -0600" channel="Bighorns">
+    <title>Pregame: Helena Bighorns vs. Great Falls Americans</title>
+    <desc>Pre-game coverage for Helena Bighorns vs. Great Falls Americans</desc>
+    <key>pregame(29672)</key>
+    <link>https://www.nahltv.com/watch/29672</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251205200500 -0600" stop="20251205230500 -0600" channel="Bighorns">
+    <title>Helena Bighorns vs. Great Falls Americans</title>
+    <desc>Live broadcast of Helena Bighorns vs. Great Falls Americans</desc>
+    <key>29672</key>
+    <link>https://www.nahltv.com/watch/29672</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251205193500 -0600" stop="20251205200500 -0600" channel="Sabres">
+    <title>Pregame: Badlands Sabres vs. Sheridan Hawks</title>
+    <desc>Pre-game coverage for Badlands Sabres vs. Sheridan Hawks</desc>
+    <key>pregame(29673)</key>
+    <link>https://www.nahltv.com/watch/29673</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251205200500 -0600" stop="20251205230500 -0600" channel="Sabres">
+    <title>Badlands Sabres vs. Sheridan Hawks</title>
+    <desc>Live broadcast of Badlands Sabres vs. Sheridan Hawks</desc>
+    <key>29673</key>
+    <link>https://www.nahltv.com/watch/29673</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
