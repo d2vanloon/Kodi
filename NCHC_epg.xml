@@ -1408,4 +1408,46 @@
     <link>http://nchchockey.com/watch?live=1334</link>
     <category>NCHC</category>
     </programme>
+  <programme start="20251206173000 -0600" stop="20251206180000 -0600" channel="St._Cloud_State">
+    <title>Pregame: St. Cloud State vs. North Dakota</title>
+    <desc>Pre-game coverage for St. Cloud State vs. North Dakota</desc>
+    <key>pregame(20179)</key>
+    <link>http://nchchockey.com/watch?live=1445</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20251206180000 -0600" stop="20251206210000 -0600" channel="St._Cloud_State">
+    <title>St. Cloud State vs. North Dakota</title>
+    <desc>Live broadcast of St. Cloud State vs. North Dakota</desc>
+    <key>20179</key>
+    <link>http://nchchockey.com/watch?live=1445</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20251206173000 -0600" stop="20251206180000 -0600" channel="Western_Michigan_">
+    <title>Pregame: Western Michigan  vs. Minnesota Duluth</title>
+    <desc>Pre-game coverage for Western Michigan  vs. Minnesota Duluth</desc>
+    <key>pregame(20310)</key>
+    <link>http://nchchockey.com/watch?live=1427</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20251206180000 -0600" stop="20251206210000 -0600" channel="Western_Michigan_">
+    <title>Western Michigan  vs. Minnesota Duluth</title>
+    <desc>Live broadcast of Western Michigan  vs. Minnesota Duluth</desc>
+    <key>20310</key>
+    <link>http://nchchockey.com/watch?live=1427</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20251206193000 -0600" stop="20251206200000 -0600" channel="Denver">
+    <title>Pregame: Denver vs. Miami</title>
+    <desc>Pre-game coverage for Denver vs. Miami</desc>
+    <key>pregame(20066)</key>
+    <link>http://nchchockey.com/watch?live=1335</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20251206200000 -0600" stop="20251206230000 -0600" channel="Denver">
+    <title>Denver vs. Miami</title>
+    <desc>Live broadcast of Denver vs. Miami</desc>
+    <key>20066</key>
+    <link>http://nchchockey.com/watch?live=1335</link>
+    <category>NCHC</category>
+    </programme>
   </tv>
