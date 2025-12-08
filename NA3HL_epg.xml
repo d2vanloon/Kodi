@@ -6672,4 +6672,74 @@
     <link>https://www.nahltv.com/watch/33132</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20251214153000 -0600" stop="20251214160000 -0600" channel="Sabres">
+    <title>Pregame: Badlands Sabres vs. Alexandria Blizzard</title>
+    <desc>Pre-game coverage for Badlands Sabres vs. Alexandria Blizzard</desc>
+    <key>pregame(33133)</key>
+    <link>https://www.nahltv.com/watch/33133</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251214160000 -0600" stop="20251214190000 -0600" channel="Sabres">
+    <title>Badlands Sabres vs. Alexandria Blizzard</title>
+    <desc>Live broadcast of Badlands Sabres vs. Alexandria Blizzard</desc>
+    <key>33133</key>
+    <link>https://www.nahltv.com/watch/33133</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251214153000 -0600" stop="20251214160000 -0600" channel="Buzz">
+    <title>Pregame: Buzz vs. Wausau</title>
+    <desc>Pre-game coverage for Buzz vs. Wausau</desc>
+    <key>pregame(33134)</key>
+    <link>https://www.nahltv.com/watch/33134</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251214160000 -0600" stop="20251214190000 -0600" channel="Buzz">
+    <title>Buzz vs. Wausau</title>
+    <desc>Live broadcast of Buzz vs. Wausau</desc>
+    <key>33134</key>
+    <link>https://www.nahltv.com/watch/33134</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251214153000 -0600" stop="20251214160000 -0600" channel="Wilderness">
+    <title>Pregame: Minnesota Wilderness vs. Gillette Wild</title>
+    <desc>Pre-game coverage for Minnesota Wilderness vs. Gillette Wild</desc>
+    <key>pregame(33135)</key>
+    <link>https://www.nahltv.com/watch/33135</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251214160000 -0600" stop="20251214190000 -0600" channel="Wilderness">
+    <title>Minnesota Wilderness vs. Gillette Wild</title>
+    <desc>Live broadcast of Minnesota Wilderness vs. Gillette Wild</desc>
+    <key>33135</key>
+    <link>https://www.nahltv.com/watch/33135</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251214173000 -0600" stop="20251214180000 -0600" channel="Rage">
+    <title>Pregame: Carolina Rage vs. El Paso Rhinos</title>
+    <desc>Pre-game coverage for Carolina Rage vs. El Paso Rhinos</desc>
+    <key>pregame(33136)</key>
+    <link>https://www.nahltv.com/watch/33136</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251214180000 -0600" stop="20251214210000 -0600" channel="Rage">
+    <title>Carolina Rage vs. El Paso Rhinos</title>
+    <desc>Live broadcast of Carolina Rage vs. El Paso Rhinos</desc>
+    <key>33136</key>
+    <link>https://www.nahltv.com/watch/33136</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251214174500 -0600" stop="20251214181500 -0600" channel="Drillers">
+    <title>Pregame: Louisiana Drillers vs. Sheridan Hawks</title>
+    <desc>Pre-game coverage for Louisiana Drillers vs. Sheridan Hawks</desc>
+    <key>pregame(33137)</key>
+    <link>https://www.nahltv.com/watch/33137</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251214181500 -0600" stop="20251214211500 -0600" channel="Drillers">
+    <title>Louisiana Drillers vs. Sheridan Hawks</title>
+    <desc>Live broadcast of Louisiana Drillers vs. Sheridan Hawks</desc>
+    <key>33137</key>
+    <link>https://www.nahltv.com/watch/33137</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
