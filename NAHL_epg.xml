@@ -6196,4 +6196,18 @@
     <link>https://www.nahltv.com/watch/30518</link>
     <category>NAHL</category>
     </programme>
+  <programme start="20251212190500 -0600" stop="20251212193500 -0600" channel="Windigo">
+    <title>Pregame: Wisconsin Windigo vs. Anchorage Wolverines</title>
+    <desc>Pre-game coverage for Wisconsin Windigo vs. Anchorage Wolverines</desc>
+    <key>pregame(30511)</key>
+    <link>https://www.nahltv.com/watch/30511</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20251212193500 -0600" stop="20251212223500 -0600" channel="Windigo">
+    <title>Wisconsin Windigo vs. Anchorage Wolverines</title>
+    <desc>Live broadcast of Wisconsin Windigo vs. Anchorage Wolverines</desc>
+    <key>30511</key>
+    <link>https://www.nahltv.com/watch/30511</link>
+    <category>NAHL</category>
+    </programme>
   </tv>
