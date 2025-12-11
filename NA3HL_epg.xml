@@ -6742,4 +6742,46 @@
     <link>https://www.nahltv.com/watch/33137</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20251214174500 -0600" stop="20251214181500 -0600" channel="Lumberjacks">
+    <title>Pregame: Granite City Lumberjacks vs. New Hampshire Jr. Mountain Kings</title>
+    <desc>Pre-game coverage for Granite City Lumberjacks vs. New Hampshire Jr. Mountain Kings</desc>
+    <key>pregame(33138)</key>
+    <link>https://www.nahltv.com/watch/33138</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251214181500 -0600" stop="20251214211500 -0600" channel="Lumberjacks">
+    <title>Granite City Lumberjacks vs. New Hampshire Jr. Mountain Kings</title>
+    <desc>Live broadcast of Granite City Lumberjacks vs. New Hampshire Jr. Mountain Kings</desc>
+    <key>33138</key>
+    <link>https://www.nahltv.com/watch/33138</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251214174500 -0600" stop="20251214181500 -0600" channel="WarHawks">
+    <title>Pregame: Willmar WarHawks vs. New Jersey Titans</title>
+    <desc>Pre-game coverage for Willmar WarHawks vs. New Jersey Titans</desc>
+    <key>pregame(33139)</key>
+    <link>https://www.nahltv.com/watch/33139</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251214181500 -0600" stop="20251214211500 -0600" channel="WarHawks">
+    <title>Willmar WarHawks vs. New Jersey Titans</title>
+    <desc>Live broadcast of Willmar WarHawks vs. New Jersey Titans</desc>
+    <key>33139</key>
+    <link>https://www.nahltv.com/watch/33139</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251214174500 -0600" stop="20251214181500 -0600" channel="Mustangs">
+    <title>Pregame: Peoria Mustangs vs. Butte Irish</title>
+    <desc>Pre-game coverage for Peoria Mustangs vs. Butte Irish</desc>
+    <key>pregame(33140)</key>
+    <link>https://www.nahltv.com/watch/33140</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251214181500 -0600" stop="20251214211500 -0600" channel="Mustangs">
+    <title>Peoria Mustangs vs. Butte Irish</title>
+    <desc>Live broadcast of Peoria Mustangs vs. Butte Irish</desc>
+    <key>33140</key>
+    <link>https://www.nahltv.com/watch/33140</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
