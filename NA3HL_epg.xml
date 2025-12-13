@@ -6784,4 +6784,60 @@
     <link>https://www.nahltv.com/watch/33140</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20251214181500 -0600" stop="20251214184500 -0600" channel="Jr._Blues">
+    <title>Pregame: St. Louis Jr. Blues vs. Long Beach Sharks</title>
+    <desc>Pre-game coverage for St. Louis Jr. Blues vs. Long Beach Sharks</desc>
+    <key>pregame(33141)</key>
+    <link>https://www.nahltv.com/watch/33141</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251214184500 -0600" stop="20251214214500 -0600" channel="Jr._Blues">
+    <title>St. Louis Jr. Blues vs. Long Beach Sharks</title>
+    <desc>Live broadcast of St. Louis Jr. Blues vs. Long Beach Sharks</desc>
+    <key>33141</key>
+    <link>https://www.nahltv.com/watch/33141</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251214181500 -0600" stop="20251214184500 -0600" channel="Moose">
+    <title>Pregame: Minnesota Moose vs. Helena Bighorns</title>
+    <desc>Pre-game coverage for Minnesota Moose vs. Helena Bighorns</desc>
+    <key>pregame(33142)</key>
+    <link>https://www.nahltv.com/watch/33142</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251214184500 -0600" stop="20251214214500 -0600" channel="Moose">
+    <title>Minnesota Moose vs. Helena Bighorns</title>
+    <desc>Live broadcast of Minnesota Moose vs. Helena Bighorns</desc>
+    <key>33142</key>
+    <link>https://www.nahltv.com/watch/33142</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251214181500 -0600" stop="20251214184500 -0600" channel="Capitals">
+    <title>Pregame: Atlanta Capitals vs. Yellowstone Quake</title>
+    <desc>Pre-game coverage for Atlanta Capitals vs. Yellowstone Quake</desc>
+    <key>pregame(33143)</key>
+    <link>https://www.nahltv.com/watch/33143</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251214184500 -0600" stop="20251214214500 -0600" channel="Capitals">
+    <title>Atlanta Capitals vs. Yellowstone Quake</title>
+    <desc>Live broadcast of Atlanta Capitals vs. Yellowstone Quake</desc>
+    <key>33143</key>
+    <link>https://www.nahltv.com/watch/33143</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251214201500 -0600" stop="20251214204500 -0600" channel="Sea_Captains">
+    <title>Pregame: Norwich Sea Captains vs. Bozeman Icedogs</title>
+    <desc>Pre-game coverage for Norwich Sea Captains vs. Bozeman Icedogs</desc>
+    <key>pregame(33144)</key>
+    <link>https://www.nahltv.com/watch/33144</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20251214204500 -0600" stop="20251214234500 -0600" channel="Sea_Captains">
+    <title>Norwich Sea Captains vs. Bozeman Icedogs</title>
+    <desc>Live broadcast of Norwich Sea Captains vs. Bozeman Icedogs</desc>
+    <key>33144</key>
+    <link>https://www.nahltv.com/watch/33144</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
