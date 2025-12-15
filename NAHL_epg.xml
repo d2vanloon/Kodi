@@ -6672,4 +6672,46 @@
     <link>https://www.nahltv.com/watch/30552</link>
     <category>NAHL</category>
     </programme>
+  <programme start="20251219184500 -0600" stop="20251219191500 -0600" channel="Wings">
+    <title>Pregame: Aberdeen Wings vs. Austin Bruins</title>
+    <desc>Pre-game coverage for Aberdeen Wings vs. Austin Bruins</desc>
+    <key>pregame(30553)</key>
+    <link>https://www.nahltv.com/watch/30553</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20251219191500 -0600" stop="20251219221500 -0600" channel="Wings">
+    <title>Aberdeen Wings vs. Austin Bruins</title>
+    <desc>Live broadcast of Aberdeen Wings vs. Austin Bruins</desc>
+    <key>30553</key>
+    <link>https://www.nahltv.com/watch/30553</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20251219184500 -0600" stop="20251219191500 -0600" channel="Jackalopes">
+    <title>Pregame: Odessa Jackalopes vs. Amarillo Wranglers</title>
+    <desc>Pre-game coverage for Odessa Jackalopes vs. Amarillo Wranglers</desc>
+    <key>pregame(30554)</key>
+    <link>https://www.nahltv.com/watch/30554</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20251219191500 -0600" stop="20251219221500 -0600" channel="Jackalopes">
+    <title>Odessa Jackalopes vs. Amarillo Wranglers</title>
+    <desc>Live broadcast of Odessa Jackalopes vs. Amarillo Wranglers</desc>
+    <key>30554</key>
+    <link>https://www.nahltv.com/watch/30554</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20251219185500 -0600" stop="20251219192500 -0600" channel="Windigo">
+    <title>Pregame: Wisconsin Windigo vs. Minnesota Wilderness</title>
+    <desc>Pre-game coverage for Wisconsin Windigo vs. Minnesota Wilderness</desc>
+    <key>pregame(30547)</key>
+    <link>https://www.nahltv.com/watch/30547</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20251219192500 -0600" stop="20251219222500 -0600" channel="Windigo">
+    <title>Wisconsin Windigo vs. Minnesota Wilderness</title>
+    <desc>Live broadcast of Wisconsin Windigo vs. Minnesota Wilderness</desc>
+    <key>30547</key>
+    <link>https://www.nahltv.com/watch/30547</link>
+    <category>NAHL</category>
+    </programme>
   </tv>
