@@ -7540,4 +7540,46 @@
     <link>https://www.nahltv.com/watch/29723</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20260102193500 -0600" stop="20260102200500 -0600" channel="Bighorns">
+    <title>Pregame: Helena Bighorns vs. Yellowstone Quake</title>
+    <desc>Pre-game coverage for Helena Bighorns vs. Yellowstone Quake</desc>
+    <key>pregame(29724)</key>
+    <link>https://www.nahltv.com/watch/29724</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260102200500 -0600" stop="20260102230500 -0600" channel="Bighorns">
+    <title>Helena Bighorns vs. Yellowstone Quake</title>
+    <desc>Live broadcast of Helena Bighorns vs. Yellowstone Quake</desc>
+    <key>29724</key>
+    <link>https://www.nahltv.com/watch/29724</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260102193500 -0600" stop="20260102200500 -0600" channel="Sabres">
+    <title>Pregame: Badlands Sabres vs. Gillette Wild</title>
+    <desc>Pre-game coverage for Badlands Sabres vs. Gillette Wild</desc>
+    <key>pregame(29725)</key>
+    <link>https://www.nahltv.com/watch/29725</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260102200500 -0600" stop="20260102230500 -0600" channel="Sabres">
+    <title>Badlands Sabres vs. Gillette Wild</title>
+    <desc>Live broadcast of Badlands Sabres vs. Gillette Wild</desc>
+    <key>29725</key>
+    <link>https://www.nahltv.com/watch/29725</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260102200000 -0600" stop="20260102203000 -0600" channel="Icedogs">
+    <title>Pregame: Bozeman Icedogs vs. Sheridan Hawks</title>
+    <desc>Pre-game coverage for Bozeman Icedogs vs. Sheridan Hawks</desc>
+    <key>pregame(29726)</key>
+    <link>https://www.nahltv.com/watch/29726</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260102203000 -0600" stop="20260102233000 -0600" channel="Icedogs">
+    <title>Bozeman Icedogs vs. Sheridan Hawks</title>
+    <desc>Live broadcast of Bozeman Icedogs vs. Sheridan Hawks</desc>
+    <key>29726</key>
+    <link>https://www.nahltv.com/watch/29726</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
