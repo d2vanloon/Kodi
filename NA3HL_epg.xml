@@ -7582,4 +7582,18 @@
     <link>https://www.nahltv.com/watch/29726</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20260103125000 -0600" stop="20260103132000 -0600" channel="Jr._Mountain_Kings">
+    <title>Pregame: New Hampshire Jr. Mountain Kings vs. Long Beach Sharks</title>
+    <desc>Pre-game coverage for New Hampshire Jr. Mountain Kings vs. Long Beach Sharks</desc>
+    <key>pregame(29727)</key>
+    <link>https://www.nahltv.com/watch/29727</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260103132000 -0600" stop="20260103162000 -0600" channel="Jr._Mountain_Kings">
+    <title>New Hampshire Jr. Mountain Kings vs. Long Beach Sharks</title>
+    <desc>Live broadcast of New Hampshire Jr. Mountain Kings vs. Long Beach Sharks</desc>
+    <key>29727</key>
+    <link>https://www.nahltv.com/watch/29727</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
