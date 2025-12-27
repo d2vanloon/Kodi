@@ -7176,4 +7176,46 @@
     <link>https://www.nahltv.com/watch/30587</link>
     <category>NAHL</category>
     </programme>
+  <programme start="20260102173000 -0600" stop="20260102180000 -0600" channel="Shamrocks">
+    <title>Pregame: Watertown Shamrocks vs. Minnesota Mallards</title>
+    <desc>Pre-game coverage for Watertown Shamrocks vs. Minnesota Mallards</desc>
+    <key>pregame(30588)</key>
+    <link>https://www.nahltv.com/watch/30588</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260102180000 -0600" stop="20260102210000 -0600" channel="Shamrocks">
+    <title>Watertown Shamrocks vs. Minnesota Mallards</title>
+    <desc>Live broadcast of Watertown Shamrocks vs. Minnesota Mallards</desc>
+    <key>30588</key>
+    <link>https://www.nahltv.com/watch/30588</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260102180000 -0600" stop="20260102183000 -0600" channel="Hat_Tricks">
+    <title>Pregame: Danbury Hat Tricks vs. Maine Nordiques</title>
+    <desc>Pre-game coverage for Danbury Hat Tricks vs. Maine Nordiques</desc>
+    <key>pregame(30585)</key>
+    <link>https://www.nahltv.com/watch/30585</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260102183000 -0600" stop="20260102213000 -0600" channel="Hat_Tricks">
+    <title>Danbury Hat Tricks vs. Maine Nordiques</title>
+    <desc>Live broadcast of Danbury Hat Tricks vs. Maine Nordiques</desc>
+    <key>30585</key>
+    <link>https://www.nahltv.com/watch/30585</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260102183000 -0600" stop="20260102190000 -0600" channel="Steel">
+    <title>Pregame: Chippewa Steel vs. Anchorage Wolverines</title>
+    <desc>Pre-game coverage for Chippewa Steel vs. Anchorage Wolverines</desc>
+    <key>pregame(30589)</key>
+    <link>https://www.nahltv.com/watch/30589</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260102190000 -0600" stop="20260102220000 -0600" channel="Steel">
+    <title>Chippewa Steel vs. Anchorage Wolverines</title>
+    <desc>Live broadcast of Chippewa Steel vs. Anchorage Wolverines</desc>
+    <key>30589</key>
+    <link>https://www.nahltv.com/watch/30589</link>
+    <category>NAHL</category>
+    </programme>
   </tv>
