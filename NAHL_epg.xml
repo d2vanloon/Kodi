@@ -7218,4 +7218,60 @@
     <link>https://www.nahltv.com/watch/30589</link>
     <category>NAHL</category>
     </programme>
+  <programme start="20260102183500 -0600" stop="20260102190500 -0600" channel="Jr._Blues">
+    <title>Pregame: Springfield Jr. Blues vs. Fairbanks Ice Dogs</title>
+    <desc>Pre-game coverage for Springfield Jr. Blues vs. Fairbanks Ice Dogs</desc>
+    <key>pregame(30590)</key>
+    <link>https://www.nahltv.com/watch/30590</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260102190500 -0600" stop="20260102220500 -0600" channel="Jr._Blues">
+    <title>Springfield Jr. Blues vs. Fairbanks Ice Dogs</title>
+    <desc>Live broadcast of Springfield Jr. Blues vs. Fairbanks Ice Dogs</desc>
+    <key>30590</key>
+    <link>https://www.nahltv.com/watch/30590</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260102183500 -0600" stop="20260102190500 -0600" channel="IceRays">
+    <title>Pregame: Corpus Christi IceRays vs. Amarillo Wranglers</title>
+    <desc>Pre-game coverage for Corpus Christi IceRays vs. Amarillo Wranglers</desc>
+    <key>pregame(30591)</key>
+    <link>https://www.nahltv.com/watch/30591</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260102190500 -0600" stop="20260102220500 -0600" channel="IceRays">
+    <title>Corpus Christi IceRays vs. Amarillo Wranglers</title>
+    <desc>Live broadcast of Corpus Christi IceRays vs. Amarillo Wranglers</desc>
+    <key>30591</key>
+    <link>https://www.nahltv.com/watch/30591</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260102183500 -0600" stop="20260102190500 -0600" channel="Bruins">
+    <title>Pregame: Austin Bruins vs. St. Cloud Norsemen</title>
+    <desc>Pre-game coverage for Austin Bruins vs. St. Cloud Norsemen</desc>
+    <key>pregame(30592)</key>
+    <link>https://www.nahltv.com/watch/30592</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260102190500 -0600" stop="20260102220500 -0600" channel="Bruins">
+    <title>Austin Bruins vs. St. Cloud Norsemen</title>
+    <desc>Live broadcast of Austin Bruins vs. St. Cloud Norsemen</desc>
+    <key>30592</key>
+    <link>https://www.nahltv.com/watch/30592</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260102184000 -0600" stop="20260102191000 -0600" channel="Bulls">
+    <title>Pregame: North Iowa Bulls vs. Aberdeen Wings</title>
+    <desc>Pre-game coverage for North Iowa Bulls vs. Aberdeen Wings</desc>
+    <key>pregame(30594)</key>
+    <link>https://www.nahltv.com/watch/30594</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260102191000 -0600" stop="20260102221000 -0600" channel="Bulls">
+    <title>North Iowa Bulls vs. Aberdeen Wings</title>
+    <desc>Live broadcast of North Iowa Bulls vs. Aberdeen Wings</desc>
+    <key>30594</key>
+    <link>https://www.nahltv.com/watch/30594</link>
+    <category>NAHL</category>
+    </programme>
   </tv>
