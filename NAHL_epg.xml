@@ -7274,4 +7274,32 @@
     <link>https://www.nahltv.com/watch/30594</link>
     <category>NAHL</category>
     </programme>
+  <programme start="20260102184100 -0600" stop="20260102191100 -0600" channel="Mudbugs">
+    <title>Pregame: Shreveport Mudbugs vs. New Mexico Ice Wolves</title>
+    <desc>Pre-game coverage for Shreveport Mudbugs vs. New Mexico Ice Wolves</desc>
+    <key>pregame(30595)</key>
+    <link>https://www.nahltv.com/watch/30595</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260102191100 -0600" stop="20260102221100 -0600" channel="Mudbugs">
+    <title>Shreveport Mudbugs vs. New Mexico Ice Wolves</title>
+    <desc>Live broadcast of Shreveport Mudbugs vs. New Mexico Ice Wolves</desc>
+    <key>30595</key>
+    <link>https://www.nahltv.com/watch/30595</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260102184500 -0600" stop="20260102191500 -0600" channel="Wilderness">
+    <title>Pregame: Minnesota Wilderness vs. Kenai River Brown Bears</title>
+    <desc>Pre-game coverage for Minnesota Wilderness vs. Kenai River Brown Bears</desc>
+    <key>pregame(30596)</key>
+    <link>https://www.nahltv.com/watch/30596</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260102191500 -0600" stop="20260102221500 -0600" channel="Wilderness">
+    <title>Minnesota Wilderness vs. Kenai River Brown Bears</title>
+    <desc>Live broadcast of Minnesota Wilderness vs. Kenai River Brown Bears</desc>
+    <key>30596</key>
+    <link>https://www.nahltv.com/watch/30596</link>
+    <category>NAHL</category>
+    </programme>
   </tv>
