@@ -1562,4 +1562,18 @@
     <link>http://nchchockey.com/watch?live=1392</link>
     <category>NCHC</category>
     </programme>
+  <programme start="20251230183000 -0600" stop="20251230190000 -0600" channel="Omaha">
+    <title>Pregame: Omaha vs. Manitoba (Exh.)</title>
+    <desc>Pre-game coverage for Omaha vs. Manitoba (Exh.)</desc>
+    <key>pregame(20212)</key>
+    <link>http://nchchockey.com/watch?live=1410</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20251230190000 -0600" stop="20251230220000 -0600" channel="Omaha">
+    <title>Omaha vs. Manitoba (Exh.)</title>
+    <desc>Live broadcast of Omaha vs. Manitoba (Exh.)</desc>
+    <key>20212</key>
+    <link>http://nchchockey.com/watch?live=1410</link>
+    <category>NCHC</category>
+    </programme>
   </tv>
