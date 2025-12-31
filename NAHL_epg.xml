@@ -7302,4 +7302,18 @@
     <link>https://www.nahltv.com/watch/30596</link>
     <category>NAHL</category>
     </programme>
+  <programme start="20260102190000 -0600" stop="20260102193000 -0600" channel="Brahmas">
+    <title>Pregame: Lone Star Brahmas vs. El Paso Rhinos</title>
+    <desc>Pre-game coverage for Lone Star Brahmas vs. El Paso Rhinos</desc>
+    <key>pregame(30597)</key>
+    <link>https://www.nahltv.com/watch/30597</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260102193000 -0600" stop="20260102223000 -0600" channel="Brahmas">
+    <title>Lone Star Brahmas vs. El Paso Rhinos</title>
+    <desc>Live broadcast of Lone Star Brahmas vs. El Paso Rhinos</desc>
+    <key>30597</key>
+    <link>https://www.nahltv.com/watch/30597</link>
+    <category>NAHL</category>
+    </programme>
   </tv>
