@@ -7596,4 +7596,18 @@
     <link>https://www.nahltv.com/watch/29727</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20260103173000 -0600" stop="20260103180000 -0600" channel="Nordiques">
+    <title>Pregame: Maine Nordiques vs. Norwich Sea Captains</title>
+    <desc>Pre-game coverage for Maine Nordiques vs. Norwich Sea Captains</desc>
+    <key>pregame(29728)</key>
+    <link>https://www.nahltv.com/watch/29728</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260103180000 -0600" stop="20260103210000 -0600" channel="Nordiques">
+    <title>Maine Nordiques vs. Norwich Sea Captains</title>
+    <desc>Live broadcast of Maine Nordiques vs. Norwich Sea Captains</desc>
+    <key>29728</key>
+    <link>https://www.nahltv.com/watch/29728</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
