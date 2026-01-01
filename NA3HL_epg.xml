@@ -7610,4 +7610,32 @@
     <link>https://www.nahltv.com/watch/29728</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20260103173500 -0600" stop="20260103180500 -0600" channel="Wilderness">
+    <title>Pregame: Minnesota Wilderness vs. Mason City Toros</title>
+    <desc>Pre-game coverage for Minnesota Wilderness vs. Mason City Toros</desc>
+    <key>pregame(29729)</key>
+    <link>https://www.nahltv.com/watch/29729</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260103180500 -0600" stop="20260103210500 -0600" channel="Wilderness">
+    <title>Minnesota Wilderness vs. Mason City Toros</title>
+    <desc>Live broadcast of Minnesota Wilderness vs. Mason City Toros</desc>
+    <key>29729</key>
+    <link>https://www.nahltv.com/watch/29729</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260103174500 -0600" stop="20260103181500 -0600" channel="Prowlers">
+    <title>Pregame: Pelham Prowlers vs. Atlanta Capitals</title>
+    <desc>Pre-game coverage for Pelham Prowlers vs. Atlanta Capitals</desc>
+    <key>pregame(29730)</key>
+    <link>https://www.nahltv.com/watch/29730</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260103181500 -0600" stop="20260103211500 -0600" channel="Prowlers">
+    <title>Pelham Prowlers vs. Atlanta Capitals</title>
+    <desc>Live broadcast of Pelham Prowlers vs. Atlanta Capitals</desc>
+    <key>29730</key>
+    <link>https://www.nahltv.com/watch/29730</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
