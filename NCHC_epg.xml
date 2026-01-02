@@ -1576,4 +1576,60 @@
     <link>http://nchchockey.com/watch?live=1410</link>
     <category>NCHC</category>
     </programme>
+  <programme start="20260102183700 -0600" stop="20260102190700 -0600" channel="North_Dakota">
+    <title>Pregame: North Dakota vs. Mercyhurst</title>
+    <desc>Pre-game coverage for North Dakota vs. Mercyhurst</desc>
+    <key>pregame(20204)</key>
+    <link>http://nchchockey.com/watch?live=1393</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20260102190700 -0600" stop="20260102220700 -0600" channel="North_Dakota">
+    <title>North Dakota vs. Mercyhurst</title>
+    <desc>Live broadcast of North Dakota vs. Mercyhurst</desc>
+    <key>20204</key>
+    <link>http://nchchockey.com/watch?live=1393</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20260102183700 -0600" stop="20260102190700 -0600" channel="Minnesota_Duluth">
+    <title>Pregame: Minnesota Duluth vs. Manitoba (Exh.)</title>
+    <desc>Pre-game coverage for Minnesota Duluth vs. Manitoba (Exh.)</desc>
+    <key>pregame(20392)</key>
+    <link>http://nchchockey.com/watch?live=1356</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20260102190700 -0600" stop="20260102220700 -0600" channel="Minnesota_Duluth">
+    <title>Minnesota Duluth vs. Manitoba (Exh.)</title>
+    <desc>Live broadcast of Minnesota Duluth vs. Manitoba (Exh.)</desc>
+    <key>20392</key>
+    <link>http://nchchockey.com/watch?live=1356</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20260102193000 -0600" stop="20260102200000 -0600" channel="Arizona_State">
+    <title>Pregame: Arizona State vs. Alaska Anchorage</title>
+    <desc>Pre-game coverage for Arizona State vs. Alaska Anchorage</desc>
+    <key>pregame(20389)</key>
+    <link>http://nchchockey.com/watch?live=1300</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20260102200000 -0600" stop="20260102230000 -0600" channel="Arizona_State">
+    <title>Arizona State vs. Alaska Anchorage</title>
+    <desc>Live broadcast of Arizona State vs. Alaska Anchorage</desc>
+    <key>20389</key>
+    <link>http://nchchockey.com/watch?live=1300</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20260102193000 -0600" stop="20260102200000 -0600" channel="Denver">
+    <title>Pregame: Denver vs. Maine</title>
+    <desc>Pre-game coverage for Denver vs. Maine</desc>
+    <key>pregame(20085)</key>
+    <link>http://nchchockey.com/watch?live=1336</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20260102200000 -0600" stop="20260102230000 -0600" channel="Denver">
+    <title>Denver vs. Maine</title>
+    <desc>Live broadcast of Denver vs. Maine</desc>
+    <key>20085</key>
+    <link>http://nchchockey.com/watch?live=1336</link>
+    <category>NCHC</category>
+    </programme>
   </tv>
