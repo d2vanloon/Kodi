@@ -7358,4 +7358,32 @@
     <link>https://www.nahltv.com/watch/30599</link>
     <category>NAHL</category>
     </programme>
+  <programme start="20260102183000 -0600" stop="20260102190000 -0600" channel="Shamrocks">
+    <title>Pregame: Watertown Shamrocks vs. Minnesota Mallards</title>
+    <desc>Pre-game coverage for Watertown Shamrocks vs. Minnesota Mallards</desc>
+    <key>pregame(30588)</key>
+    <link>https://www.nahltv.com/watch/30588</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260102190000 -0600" stop="20260102220000 -0600" channel="Shamrocks">
+    <title>Watertown Shamrocks vs. Minnesota Mallards</title>
+    <desc>Live broadcast of Watertown Shamrocks vs. Minnesota Mallards</desc>
+    <key>30588</key>
+    <link>https://www.nahltv.com/watch/30588</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260103173000 -0600" stop="20260103180000 -0600" channel="Hat_Tricks">
+    <title>Pregame: Danbury Hat Tricks vs. Maine Nordiques</title>
+    <desc>Pre-game coverage for Danbury Hat Tricks vs. Maine Nordiques</desc>
+    <key>pregame(30600)</key>
+    <link>https://www.nahltv.com/watch/30600</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260103180000 -0600" stop="20260103210000 -0600" channel="Hat_Tricks">
+    <title>Danbury Hat Tricks vs. Maine Nordiques</title>
+    <desc>Live broadcast of Danbury Hat Tricks vs. Maine Nordiques</desc>
+    <key>30600</key>
+    <link>https://www.nahltv.com/watch/30600</link>
+    <category>NAHL</category>
+    </programme>
   </tv>
