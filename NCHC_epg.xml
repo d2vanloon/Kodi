@@ -1632,4 +1632,60 @@
     <link>http://nchchockey.com/watch?live=1336</link>
     <category>NCHC</category>
     </programme>
+  <programme start="20260103163000 -0600" stop="20260103170000 -0600" channel="Western_Michigan_">
+    <title>Pregame: Western Michigan  vs. Notre Dame</title>
+    <desc>Pre-game coverage for Western Michigan  vs. Notre Dame</desc>
+    <key>pregame(20318)</key>
+    <link>http://nchchockey.com/watch?live=1428</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20260103170000 -0600" stop="20260103200000 -0600" channel="Western_Michigan_">
+    <title>Western Michigan  vs. Notre Dame</title>
+    <desc>Live broadcast of Western Michigan  vs. Notre Dame</desc>
+    <key>20318</key>
+    <link>http://nchchockey.com/watch?live=1428</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20260103173700 -0600" stop="20260103180700 -0600" channel="North_Dakota">
+    <title>Pregame: North Dakota vs. Mercyhurst</title>
+    <desc>Pre-game coverage for North Dakota vs. Mercyhurst</desc>
+    <key>pregame(20205)</key>
+    <link>http://nchchockey.com/watch?live=1394</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20260103180700 -0600" stop="20260103210700 -0600" channel="North_Dakota">
+    <title>North Dakota vs. Mercyhurst</title>
+    <desc>Live broadcast of North Dakota vs. Mercyhurst</desc>
+    <key>20205</key>
+    <link>http://nchchockey.com/watch?live=1394</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20260103183000 -0600" stop="20260103190000 -0600" channel="Denver">
+    <title>Pregame: Denver vs. Maine</title>
+    <desc>Pre-game coverage for Denver vs. Maine</desc>
+    <key>pregame(20086)</key>
+    <link>http://nchchockey.com/watch?live=1337</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20260103190000 -0600" stop="20260103220000 -0600" channel="Denver">
+    <title>Denver vs. Maine</title>
+    <desc>Live broadcast of Denver vs. Maine</desc>
+    <key>20086</key>
+    <link>http://nchchockey.com/watch?live=1337</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20260103193000 -0600" stop="20260103200000 -0600" channel="Arizona_State">
+    <title>Pregame: Arizona State vs. Air Force</title>
+    <desc>Pre-game coverage for Arizona State vs. Air Force</desc>
+    <key>pregame(20390)</key>
+    <link>http://nchchockey.com/watch?live=1301</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20260103200000 -0600" stop="20260103230000 -0600" channel="Arizona_State">
+    <title>Arizona State vs. Air Force</title>
+    <desc>Live broadcast of Arizona State vs. Air Force</desc>
+    <key>20390</key>
+    <link>http://nchchockey.com/watch?live=1301</link>
+    <category>NCHC</category>
+    </programme>
   </tv>
