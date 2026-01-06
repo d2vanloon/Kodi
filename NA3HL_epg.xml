@@ -8002,4 +8002,18 @@
     <link>https://www.nahltv.com/watch/29753</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20260109193500 -0600" stop="20260109200500 -0600" channel="Americans">
+    <title>Pregame: Great Falls Americans vs. Sheridan Hawks</title>
+    <desc>Pre-game coverage for Great Falls Americans vs. Sheridan Hawks</desc>
+    <key>pregame(29754)</key>
+    <link>https://www.nahltv.com/watch/29754</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260109200500 -0600" stop="20260109230500 -0600" channel="Americans">
+    <title>Great Falls Americans vs. Sheridan Hawks</title>
+    <desc>Live broadcast of Great Falls Americans vs. Sheridan Hawks</desc>
+    <key>29754</key>
+    <link>https://www.nahltv.com/watch/29754</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
