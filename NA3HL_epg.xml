@@ -8016,4 +8016,18 @@
     <link>https://www.nahltv.com/watch/29754</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20260109193500 -0600" stop="20260109200500 -0600" channel="Wild">
+    <title>Pregame: Gillette Wild vs. Helena Bighorns</title>
+    <desc>Pre-game coverage for Gillette Wild vs. Helena Bighorns</desc>
+    <key>pregame(29755)</key>
+    <link>https://www.nahltv.com/watch/29755</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260109200500 -0600" stop="20260109230500 -0600" channel="Wild">
+    <title>Gillette Wild vs. Helena Bighorns</title>
+    <desc>Live broadcast of Gillette Wild vs. Helena Bighorns</desc>
+    <key>29755</key>
+    <link>https://www.nahltv.com/watch/29755</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
