@@ -8030,4 +8030,32 @@
     <link>https://www.nahltv.com/watch/29755</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20260109200000 -0600" stop="20260109203000 -0600" channel="Irish">
+    <title>Pregame: Butte Irish vs. Badlands Sabres</title>
+    <desc>Pre-game coverage for Butte Irish vs. Badlands Sabres</desc>
+    <key>pregame(29756)</key>
+    <link>https://www.nahltv.com/watch/29756</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260109203000 -0600" stop="20260109233000 -0600" channel="Irish">
+    <title>Butte Irish vs. Badlands Sabres</title>
+    <desc>Live broadcast of Butte Irish vs. Badlands Sabres</desc>
+    <key>29756</key>
+    <link>https://www.nahltv.com/watch/29756</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260110140000 -0600" stop="20260110143000 -0600" channel="Sea_Captains">
+    <title>Pregame: Norwich Sea Captains vs. Long Beach Sharks</title>
+    <desc>Pre-game coverage for Norwich Sea Captains vs. Long Beach Sharks</desc>
+    <key>pregame(29757)</key>
+    <link>https://www.nahltv.com/watch/29757</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260110143000 -0600" stop="20260110173000 -0600" channel="Sea_Captains">
+    <title>Norwich Sea Captains vs. Long Beach Sharks</title>
+    <desc>Live broadcast of Norwich Sea Captains vs. Long Beach Sharks</desc>
+    <key>29757</key>
+    <link>https://www.nahltv.com/watch/29757</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
