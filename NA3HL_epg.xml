@@ -8058,4 +8058,18 @@
     <link>https://www.nahltv.com/watch/29757</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20260110153000 -0600" stop="20260110160000 -0600" channel="Titans">
+    <title>Pregame: New Jersey Titans vs. Buzz </title>
+    <desc>Pre-game coverage for New Jersey Titans vs. Buzz </desc>
+    <key>pregame(29758)</key>
+    <link>https://www.nahltv.com/watch/29758</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260110160000 -0600" stop="20260110190000 -0600" channel="Titans">
+    <title>New Jersey Titans vs. Buzz </title>
+    <desc>Live broadcast of New Jersey Titans vs. Buzz </desc>
+    <key>29758</key>
+    <link>https://www.nahltv.com/watch/29758</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
