@@ -8492,4 +8492,88 @@
     <link>https://www.nahltv.com/watch/29789</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20260116190000 -0600" stop="20260116193000 -0600" channel="Ice_Wolves">
+    <title>Pregame: New Mexico Ice Wolves vs. West Texas Wranglers</title>
+    <desc>Pre-game coverage for New Mexico Ice Wolves vs. West Texas Wranglers</desc>
+    <key>pregame(29790)</key>
+    <link>https://www.nahltv.com/watch/29790</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260116193000 -0600" stop="20260116223000 -0600" channel="Ice_Wolves">
+    <title>New Mexico Ice Wolves vs. West Texas Wranglers</title>
+    <desc>Live broadcast of New Mexico Ice Wolves vs. West Texas Wranglers</desc>
+    <key>29790</key>
+    <link>https://www.nahltv.com/watch/29790</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260116193500 -0600" stop="20260116200500 -0600" channel="Sabres">
+    <title>Pregame: Badlands Sabres vs. Great Falls Americans</title>
+    <desc>Pre-game coverage for Badlands Sabres vs. Great Falls Americans</desc>
+    <key>pregame(29791)</key>
+    <link>https://www.nahltv.com/watch/29791</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260116200500 -0600" stop="20260116230500 -0600" channel="Sabres">
+    <title>Badlands Sabres vs. Great Falls Americans</title>
+    <desc>Live broadcast of Badlands Sabres vs. Great Falls Americans</desc>
+    <key>29791</key>
+    <link>https://www.nahltv.com/watch/29791</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260116193500 -0600" stop="20260116200500 -0600" channel="Quake">
+    <title>Pregame: Yellowstone Quake vs. Helena Bighorns</title>
+    <desc>Pre-game coverage for Yellowstone Quake vs. Helena Bighorns</desc>
+    <key>pregame(29792)</key>
+    <link>https://www.nahltv.com/watch/29792</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260116200500 -0600" stop="20260116230500 -0600" channel="Quake">
+    <title>Yellowstone Quake vs. Helena Bighorns</title>
+    <desc>Live broadcast of Yellowstone Quake vs. Helena Bighorns</desc>
+    <key>29792</key>
+    <link>https://www.nahltv.com/watch/29792</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260116193500 -0600" stop="20260116200500 -0600" channel="Wild">
+    <title>Pregame: Gillette Wild vs. Butte Irish</title>
+    <desc>Pre-game coverage for Gillette Wild vs. Butte Irish</desc>
+    <key>pregame(29793)</key>
+    <link>https://www.nahltv.com/watch/29793</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260116200500 -0600" stop="20260116230500 -0600" channel="Wild">
+    <title>Gillette Wild vs. Butte Irish</title>
+    <desc>Live broadcast of Gillette Wild vs. Butte Irish</desc>
+    <key>29793</key>
+    <link>https://www.nahltv.com/watch/29793</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260116200000 -0600" stop="20260116203000 -0600" channel="Hawks">
+    <title>Pregame: Sheridan Hawks vs. Bozeman Icedogs</title>
+    <desc>Pre-game coverage for Sheridan Hawks vs. Bozeman Icedogs</desc>
+    <key>pregame(29794)</key>
+    <link>https://www.nahltv.com/watch/29794</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260116203000 -0600" stop="20260116233000 -0600" channel="Hawks">
+    <title>Sheridan Hawks vs. Bozeman Icedogs</title>
+    <desc>Live broadcast of Sheridan Hawks vs. Bozeman Icedogs</desc>
+    <key>29794</key>
+    <link>https://www.nahltv.com/watch/29794</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260117133000 -0600" stop="20260117140000 -0600" channel="Buzz">
+    <title>Pregame: Buzz vs. Maine</title>
+    <desc>Pre-game coverage for Buzz vs. Maine</desc>
+    <key>pregame(29795)</key>
+    <link>https://www.nahltv.com/watch/29795</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260117140000 -0600" stop="20260117170000 -0600" channel="Buzz">
+    <title>Buzz vs. Maine</title>
+    <desc>Live broadcast of Buzz vs. Maine</desc>
+    <key>29795</key>
+    <link>https://www.nahltv.com/watch/29795</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
