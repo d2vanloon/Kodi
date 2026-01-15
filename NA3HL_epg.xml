@@ -8604,4 +8604,32 @@
     <link>https://www.nahltv.com/watch/29796</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20260117153500 -0600" stop="20260117160500 -0600" channel="Drillers">
+    <title>Pregame: Louisiana Drillers vs. Atlanta Capitals</title>
+    <desc>Pre-game coverage for Louisiana Drillers vs. Atlanta Capitals</desc>
+    <key>pregame(29797)</key>
+    <link>https://www.nahltv.com/watch/29797</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260117160500 -0600" stop="20260117190500 -0600" channel="Drillers">
+    <title>Louisiana Drillers vs. Atlanta Capitals</title>
+    <desc>Live broadcast of Louisiana Drillers vs. Atlanta Capitals</desc>
+    <key>29797</key>
+    <link>https://www.nahltv.com/watch/29797</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260117173000 -0600" stop="20260117180000 -0600" channel="Mustangs">
+    <title>Pregame: Peoria Mustangs vs. St. Louis Jr. Blues</title>
+    <desc>Pre-game coverage for Peoria Mustangs vs. St. Louis Jr. Blues</desc>
+    <key>pregame(29798)</key>
+    <link>https://www.nahltv.com/watch/29798</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260117180000 -0600" stop="20260117210000 -0600" channel="Mustangs">
+    <title>Peoria Mustangs vs. St. Louis Jr. Blues</title>
+    <desc>Live broadcast of Peoria Mustangs vs. St. Louis Jr. Blues</desc>
+    <key>29798</key>
+    <link>https://www.nahltv.com/watch/29798</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
