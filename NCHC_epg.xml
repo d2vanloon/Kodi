@@ -1828,4 +1828,46 @@
     <link>http://nchchockey.com/watch?live=1339</link>
     <category>NCHC</category>
     </programme>
+  <programme start="20260116173500 -0600" stop="20260116180500 -0600" channel="Miami">
+    <title>Pregame: Miami vs. Omaha</title>
+    <desc>Pre-game coverage for Miami vs. Omaha</desc>
+    <key>pregame(20126)</key>
+    <link>http://nchchockey.com/watch?live=1375</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20260116180500 -0600" stop="20260116210500 -0600" channel="Miami">
+    <title>Miami vs. Omaha</title>
+    <desc>Live broadcast of Miami vs. Omaha</desc>
+    <key>20126</key>
+    <link>http://nchchockey.com/watch?live=1375</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20260116183000 -0600" stop="20260116190000 -0600" channel="St._Cloud_State">
+    <title>Pregame: St. Cloud State vs. Minnesota Duluth</title>
+    <desc>Pre-game coverage for St. Cloud State vs. Minnesota Duluth</desc>
+    <key>pregame(20356)</key>
+    <link>http://nchchockey.com/watch?live=1448</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20260116190000 -0600" stop="20260116220000 -0600" channel="St._Cloud_State">
+    <title>St. Cloud State vs. Minnesota Duluth</title>
+    <desc>Live broadcast of St. Cloud State vs. Minnesota Duluth</desc>
+    <key>20356</key>
+    <link>http://nchchockey.com/watch?live=1448</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20260116183700 -0600" stop="20260116190700 -0600" channel="North_Dakota">
+    <title>Pregame: North Dakota vs. Denver</title>
+    <desc>Pre-game coverage for North Dakota vs. Denver</desc>
+    <key>pregame(20174)</key>
+    <link>http://nchchockey.com/watch?live=1395</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20260116190700 -0600" stop="20260116220700 -0600" channel="North_Dakota">
+    <title>North Dakota vs. Denver</title>
+    <desc>Live broadcast of North Dakota vs. Denver</desc>
+    <key>20174</key>
+    <link>http://nchchockey.com/watch?live=1395</link>
+    <category>NCHC</category>
+    </programme>
   </tv>
