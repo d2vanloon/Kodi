@@ -8254,4 +8254,18 @@
     <link>https://www.nahltv.com/watch/30663</link>
     <category>NAHL</category>
     </programme>
+  <programme start="20260116220000 -0600" stop="20260116223000 -0600" channel="Wolverines">
+    <title>Pregame: Anchorage Wolverines vs. Fairbanks Ice Dogs</title>
+    <desc>Pre-game coverage for Anchorage Wolverines vs. Fairbanks Ice Dogs</desc>
+    <key>pregame(30664)</key>
+    <link>https://www.nahltv.com/watch/30664</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260116223000 -0600" stop="20260117013000 -0600" channel="Wolverines">
+    <title>Anchorage Wolverines vs. Fairbanks Ice Dogs</title>
+    <desc>Live broadcast of Anchorage Wolverines vs. Fairbanks Ice Dogs</desc>
+    <key>30664</key>
+    <link>https://www.nahltv.com/watch/30664</link>
+    <category>NAHL</category>
+    </programme>
   </tv>
