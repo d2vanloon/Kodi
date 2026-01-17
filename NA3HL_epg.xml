@@ -8632,4 +8632,32 @@
     <link>https://www.nahltv.com/watch/29798</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20260117173500 -0600" stop="20260117180500 -0600" channel="Wilderness">
+    <title>Pregame: Minnesota Wilderness vs. Granite City Lumberjacks</title>
+    <desc>Pre-game coverage for Minnesota Wilderness vs. Granite City Lumberjacks</desc>
+    <key>pregame(29799)</key>
+    <link>https://www.nahltv.com/watch/29799</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260117180500 -0600" stop="20260117210500 -0600" channel="Wilderness">
+    <title>Minnesota Wilderness vs. Granite City Lumberjacks</title>
+    <desc>Live broadcast of Minnesota Wilderness vs. Granite City Lumberjacks</desc>
+    <key>29799</key>
+    <link>https://www.nahltv.com/watch/29799</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260117183000 -0600" stop="20260117190000 -0600" channel="Grizzlies">
+    <title>Pregame: Rochester Grizzlies vs. West Bend Power</title>
+    <desc>Pre-game coverage for Rochester Grizzlies vs. West Bend Power</desc>
+    <key>pregame(29800)</key>
+    <link>https://www.nahltv.com/watch/29800</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260117190000 -0600" stop="20260117220000 -0600" channel="Grizzlies">
+    <title>Rochester Grizzlies vs. West Bend Power</title>
+    <desc>Live broadcast of Rochester Grizzlies vs. West Bend Power</desc>
+    <key>29800</key>
+    <link>https://www.nahltv.com/watch/29800</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
