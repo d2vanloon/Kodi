@@ -1870,4 +1870,60 @@
     <link>http://nchchockey.com/watch?live=1395</link>
     <category>NCHC</category>
     </programme>
+  <programme start="20260117163000 -0600" stop="20260117170000 -0600" channel="Colorado_College">
+    <title>Pregame: Colorado College vs. Simon Fraser (Exh.)</title>
+    <desc>Pre-game coverage for Colorado College vs. Simon Fraser (Exh.)</desc>
+    <key>pregame(20049)</key>
+    <link>http://nchchockey.com/watch?live=1322</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20260117170000 -0600" stop="20260117200000 -0600" channel="Colorado_College">
+    <title>Colorado College vs. Simon Fraser (Exh.)</title>
+    <desc>Live broadcast of Colorado College vs. Simon Fraser (Exh.)</desc>
+    <key>20049</key>
+    <link>http://nchchockey.com/watch?live=1322</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20260117163500 -0600" stop="20260117170500 -0600" channel="Miami">
+    <title>Pregame: Miami vs. Omaha</title>
+    <desc>Pre-game coverage for Miami vs. Omaha</desc>
+    <key>pregame(20127)</key>
+    <link>http://nchchockey.com/watch?live=1376</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20260117170500 -0600" stop="20260117200500 -0600" channel="Miami">
+    <title>Miami vs. Omaha</title>
+    <desc>Live broadcast of Miami vs. Omaha</desc>
+    <key>20127</key>
+    <link>http://nchchockey.com/watch?live=1376</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20260117173000 -0600" stop="20260117180000 -0600" channel="St._Cloud_State">
+    <title>Pregame: St. Cloud State vs. Minnesota Duluth</title>
+    <desc>Pre-game coverage for St. Cloud State vs. Minnesota Duluth</desc>
+    <key>pregame(20260)</key>
+    <link>http://nchchockey.com/watch?live=1449</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20260117180000 -0600" stop="20260117210000 -0600" channel="St._Cloud_State">
+    <title>St. Cloud State vs. Minnesota Duluth</title>
+    <desc>Live broadcast of St. Cloud State vs. Minnesota Duluth</desc>
+    <key>20260</key>
+    <link>http://nchchockey.com/watch?live=1449</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20260117173700 -0600" stop="20260117180700 -0600" channel="North_Dakota">
+    <title>Pregame: North Dakota vs. Denver</title>
+    <desc>Pre-game coverage for North Dakota vs. Denver</desc>
+    <key>pregame(20364)</key>
+    <link>http://nchchockey.com/watch?live=1396</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20260117180700 -0600" stop="20260117210700 -0600" channel="North_Dakota">
+    <title>North Dakota vs. Denver</title>
+    <desc>Live broadcast of North Dakota vs. Denver</desc>
+    <key>20364</key>
+    <link>http://nchchockey.com/watch?live=1396</link>
+    <category>NCHC</category>
+    </programme>
   </tv>
