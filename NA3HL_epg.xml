@@ -8800,4 +8800,200 @@
     <link>https://www.nahltv.com/watch/29810</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20260118153500 -0600" stop="20260118160500 -0600" channel="Drillers">
+    <title>Pregame: Louisiana Drillers vs. Atlanta Capitals</title>
+    <desc>Pre-game coverage for Louisiana Drillers vs. Atlanta Capitals</desc>
+    <key>pregame(29811)</key>
+    <link>https://www.nahltv.com/watch/29811</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260118160500 -0600" stop="20260118190500 -0600" channel="Drillers">
+    <title>Louisiana Drillers vs. Atlanta Capitals</title>
+    <desc>Live broadcast of Louisiana Drillers vs. Atlanta Capitals</desc>
+    <key>29811</key>
+    <link>https://www.nahltv.com/watch/29811</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260118170000 -0600" stop="20260118173000 -0600" channel="Rhinos">
+    <title>Pregame: El Paso Rhinos vs. Texas Brahmas</title>
+    <desc>Pre-game coverage for El Paso Rhinos vs. Texas Brahmas</desc>
+    <key>pregame(29812)</key>
+    <link>https://www.nahltv.com/watch/29812</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260118173000 -0600" stop="20260118203000 -0600" channel="Rhinos">
+    <title>El Paso Rhinos vs. Texas Brahmas</title>
+    <desc>Live broadcast of El Paso Rhinos vs. Texas Brahmas</desc>
+    <key>29812</key>
+    <link>https://www.nahltv.com/watch/29812</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260119193000 -0600" stop="20260119200000 -0600" channel="Rhinos">
+    <title>Pregame: El Paso Rhinos vs. Texas Brahmas</title>
+    <desc>Pre-game coverage for El Paso Rhinos vs. Texas Brahmas</desc>
+    <key>pregame(29813)</key>
+    <link>https://www.nahltv.com/watch/29813</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260119200000 -0600" stop="20260119230000 -0600" channel="Rhinos">
+    <title>El Paso Rhinos vs. Texas Brahmas</title>
+    <desc>Live broadcast of El Paso Rhinos vs. Texas Brahmas</desc>
+    <key>29813</key>
+    <link>https://www.nahltv.com/watch/29813</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260120153000 -0600" stop="20260120160000 -0600" channel="Titans">
+    <title>Pregame: New Jersey Titans vs. New Hampshire Jr. Mountain Kings</title>
+    <desc>Pre-game coverage for New Jersey Titans vs. New Hampshire Jr. Mountain Kings</desc>
+    <key>pregame(29814)</key>
+    <link>https://www.nahltv.com/watch/29814</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260120160000 -0600" stop="20260120190000 -0600" channel="Titans">
+    <title>New Jersey Titans vs. New Hampshire Jr. Mountain Kings</title>
+    <desc>Live broadcast of New Jersey Titans vs. New Hampshire Jr. Mountain Kings</desc>
+    <key>29814</key>
+    <link>https://www.nahltv.com/watch/29814</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260121113000 -0600" stop="20260121120000 -0600" channel="Titans">
+    <title>Pregame: New Jersey Titans vs. New Hampshire Jr. Mountain Kings</title>
+    <desc>Pre-game coverage for New Jersey Titans vs. New Hampshire Jr. Mountain Kings</desc>
+    <key>pregame(29816)</key>
+    <link>https://www.nahltv.com/watch/29816</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260121120000 -0600" stop="20260121150000 -0600" channel="Titans">
+    <title>New Jersey Titans vs. New Hampshire Jr. Mountain Kings</title>
+    <desc>Live broadcast of New Jersey Titans vs. New Hampshire Jr. Mountain Kings</desc>
+    <key>29816</key>
+    <link>https://www.nahltv.com/watch/29816</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260121123000 -0600" stop="20260121130000 -0600" channel="Nordiques">
+    <title>Pregame: Maine Nordiques vs. Buzz </title>
+    <desc>Pre-game coverage for Maine Nordiques vs. Buzz </desc>
+    <key>pregame(29815)</key>
+    <link>https://www.nahltv.com/watch/29815</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260121130000 -0600" stop="20260121160000 -0600" channel="Nordiques">
+    <title>Maine Nordiques vs. Buzz </title>
+    <desc>Live broadcast of Maine Nordiques vs. Buzz </desc>
+    <key>29815</key>
+    <link>https://www.nahltv.com/watch/29815</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260122103000 -0600" stop="20260122110000 -0600" channel="Nordiques">
+    <title>Pregame: Maine Nordiques vs. Buzz </title>
+    <desc>Pre-game coverage for Maine Nordiques vs. Buzz </desc>
+    <key>pregame(29817)</key>
+    <link>https://www.nahltv.com/watch/29817</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260122110000 -0600" stop="20260122140000 -0600" channel="Nordiques">
+    <title>Maine Nordiques vs. Buzz </title>
+    <desc>Live broadcast of Maine Nordiques vs. Buzz </desc>
+    <key>29817</key>
+    <link>https://www.nahltv.com/watch/29817</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260123113000 -0600" stop="20260123120000 -0600" channel="Grizzlies">
+    <title>Pregame: Rochester Grizzlies vs. Granite City Lumberjacks</title>
+    <desc>Pre-game coverage for Rochester Grizzlies vs. Granite City Lumberjacks</desc>
+    <key>pregame(29818)</key>
+    <link>https://www.nahltv.com/watch/29818</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260123120000 -0600" stop="20260123150000 -0600" channel="Grizzlies">
+    <title>Rochester Grizzlies vs. Granite City Lumberjacks</title>
+    <desc>Live broadcast of Rochester Grizzlies vs. Granite City Lumberjacks</desc>
+    <key>29818</key>
+    <link>https://www.nahltv.com/watch/29818</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260123130000 -0600" stop="20260123133000 -0600" channel="Rougarou">
+    <title>Pregame: Bayou State Rougarou vs. Carolina Rage</title>
+    <desc>Pre-game coverage for Bayou State Rougarou vs. Carolina Rage</desc>
+    <key>pregame(29819)</key>
+    <link>https://www.nahltv.com/watch/29819</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260123133000 -0600" stop="20260123163000 -0600" channel="Rougarou">
+    <title>Bayou State Rougarou vs. Carolina Rage</title>
+    <desc>Live broadcast of Bayou State Rougarou vs. Carolina Rage</desc>
+    <key>29819</key>
+    <link>https://www.nahltv.com/watch/29819</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260123135000 -0600" stop="20260123142000 -0600" channel="Jr._Mountain_Kings">
+    <title>Pregame: New Hampshire Jr. Mountain Kings vs. New Jersey Titans</title>
+    <desc>Pre-game coverage for New Hampshire Jr. Mountain Kings vs. New Jersey Titans</desc>
+    <key>pregame(29820)</key>
+    <link>https://www.nahltv.com/watch/29820</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260123142000 -0600" stop="20260123172000 -0600" channel="Jr._Mountain_Kings">
+    <title>New Hampshire Jr. Mountain Kings vs. New Jersey Titans</title>
+    <desc>Live broadcast of New Hampshire Jr. Mountain Kings vs. New Jersey Titans</desc>
+    <key>29820</key>
+    <link>https://www.nahltv.com/watch/29820</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260123183000 -0600" stop="20260123190000 -0600" channel="Mustangs">
+    <title>Pregame: Peoria Mustangs vs. West Bend Power</title>
+    <desc>Pre-game coverage for Peoria Mustangs vs. West Bend Power</desc>
+    <key>pregame(29821)</key>
+    <link>https://www.nahltv.com/watch/29821</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260123190000 -0600" stop="20260123220000 -0600" channel="Mustangs">
+    <title>Peoria Mustangs vs. West Bend Power</title>
+    <desc>Live broadcast of Peoria Mustangs vs. West Bend Power</desc>
+    <key>29821</key>
+    <link>https://www.nahltv.com/watch/29821</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260123183500 -0600" stop="20260123190500 -0600" channel="Brahmas">
+    <title>Pregame: Texas Brahmas vs. Austin Ice Bats</title>
+    <desc>Pre-game coverage for Texas Brahmas vs. Austin Ice Bats</desc>
+    <key>pregame(29822)</key>
+    <link>https://www.nahltv.com/watch/29822</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260123190500 -0600" stop="20260123220500 -0600" channel="Brahmas">
+    <title>Texas Brahmas vs. Austin Ice Bats</title>
+    <desc>Live broadcast of Texas Brahmas vs. Austin Ice Bats</desc>
+    <key>29822</key>
+    <link>https://www.nahltv.com/watch/29822</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260123184000 -0600" stop="20260123191000 -0600" channel="Moose">
+    <title>Pregame: Minnesota Moose vs. Alexandria Blizzard</title>
+    <desc>Pre-game coverage for Minnesota Moose vs. Alexandria Blizzard</desc>
+    <key>pregame(29823)</key>
+    <link>https://www.nahltv.com/watch/29823</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260123191000 -0600" stop="20260123221000 -0600" channel="Moose">
+    <title>Minnesota Moose vs. Alexandria Blizzard</title>
+    <desc>Live broadcast of Minnesota Moose vs. Alexandria Blizzard</desc>
+    <key>29823</key>
+    <link>https://www.nahltv.com/watch/29823</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260123184000 -0600" stop="20260123191000 -0600" channel="Toros">
+    <title>Pregame: Mason City Toros vs. Willmar WarHawks</title>
+    <desc>Pre-game coverage for Mason City Toros vs. Willmar WarHawks</desc>
+    <key>pregame(29824)</key>
+    <link>https://www.nahltv.com/watch/29824</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260123191000 -0600" stop="20260123221000 -0600" channel="Toros">
+    <title>Mason City Toros vs. Willmar WarHawks</title>
+    <desc>Live broadcast of Mason City Toros vs. Willmar WarHawks</desc>
+    <key>29824</key>
+    <link>https://www.nahltv.com/watch/29824</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
