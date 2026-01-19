@@ -8996,4 +8996,60 @@
     <link>https://www.nahltv.com/watch/29824</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20260123184000 -0600" stop="20260123191000 -0600" channel="Cyclones">
+    <title>Pregame: Wausau Cyclones vs. Wisconsin Woodsmen</title>
+    <desc>Pre-game coverage for Wausau Cyclones vs. Wisconsin Woodsmen</desc>
+    <key>pregame(29825)</key>
+    <link>https://www.nahltv.com/watch/29825</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260123191000 -0600" stop="20260123221000 -0600" channel="Cyclones">
+    <title>Wausau Cyclones vs. Wisconsin Woodsmen</title>
+    <desc>Live broadcast of Wausau Cyclones vs. Wisconsin Woodsmen</desc>
+    <key>29825</key>
+    <link>https://www.nahltv.com/watch/29825</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260123184400 -0600" stop="20260123191400 -0600" channel="Wranglers">
+    <title>Pregame: West Texas Wranglers vs. Tulsa Oilers</title>
+    <desc>Pre-game coverage for West Texas Wranglers vs. Tulsa Oilers</desc>
+    <key>pregame(29826)</key>
+    <link>https://www.nahltv.com/watch/29826</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260123191400 -0600" stop="20260123221400 -0600" channel="Wranglers">
+    <title>West Texas Wranglers vs. Tulsa Oilers</title>
+    <desc>Live broadcast of West Texas Wranglers vs. Tulsa Oilers</desc>
+    <key>29826</key>
+    <link>https://www.nahltv.com/watch/29826</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260123190000 -0600" stop="20260123193000 -0600" channel="Ice_Wolves">
+    <title>Pregame: New Mexico Ice Wolves vs. El Paso Rhinos</title>
+    <desc>Pre-game coverage for New Mexico Ice Wolves vs. El Paso Rhinos</desc>
+    <key>pregame(29827)</key>
+    <link>https://www.nahltv.com/watch/29827</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260123193000 -0600" stop="20260123223000 -0600" channel="Ice_Wolves">
+    <title>New Mexico Ice Wolves vs. El Paso Rhinos</title>
+    <desc>Live broadcast of New Mexico Ice Wolves vs. El Paso Rhinos</desc>
+    <key>29827</key>
+    <link>https://www.nahltv.com/watch/29827</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260123193500 -0600" stop="20260123200500 -0600" channel="Bighorns">
+    <title>Pregame: Helena Bighorns vs. Badlands Sabres</title>
+    <desc>Pre-game coverage for Helena Bighorns vs. Badlands Sabres</desc>
+    <key>pregame(29828)</key>
+    <link>https://www.nahltv.com/watch/29828</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260123200500 -0600" stop="20260123230500 -0600" channel="Bighorns">
+    <title>Helena Bighorns vs. Badlands Sabres</title>
+    <desc>Live broadcast of Helena Bighorns vs. Badlands Sabres</desc>
+    <key>29828</key>
+    <link>https://www.nahltv.com/watch/29828</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
