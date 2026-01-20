@@ -9052,4 +9052,18 @@
     <link>https://www.nahltv.com/watch/29828</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20260123193500 -0600" stop="20260123200500 -0600" channel="Wild">
+    <title>Pregame: Gillette Wild vs. Yellowstone Quake</title>
+    <desc>Pre-game coverage for Gillette Wild vs. Yellowstone Quake</desc>
+    <key>pregame(29829)</key>
+    <link>https://www.nahltv.com/watch/29829</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260123200500 -0600" stop="20260123230500 -0600" channel="Wild">
+    <title>Gillette Wild vs. Yellowstone Quake</title>
+    <desc>Live broadcast of Gillette Wild vs. Yellowstone Quake</desc>
+    <key>29829</key>
+    <link>https://www.nahltv.com/watch/29829</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
