@@ -8716,4 +8716,18 @@
     <link>https://www.nahltv.com/watch/30696</link>
     <category>NAHL</category>
     </programme>
+  <programme start="20260123193000 -0600" stop="20260123200000 -0600" channel="Rhinos">
+    <title>Pregame: El Paso Rhinos vs. Amarillo Wranglers</title>
+    <desc>Pre-game coverage for El Paso Rhinos vs. Amarillo Wranglers</desc>
+    <key>pregame(30697)</key>
+    <link>https://www.nahltv.com/watch/30697</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260123200000 -0600" stop="20260123230000 -0600" channel="Rhinos">
+    <title>El Paso Rhinos vs. Amarillo Wranglers</title>
+    <desc>Live broadcast of El Paso Rhinos vs. Amarillo Wranglers</desc>
+    <key>30697</key>
+    <link>https://www.nahltv.com/watch/30697</link>
+    <category>NAHL</category>
+    </programme>
   </tv>
