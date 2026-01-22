@@ -8730,4 +8730,32 @@
     <link>https://www.nahltv.com/watch/30697</link>
     <category>NAHL</category>
     </programme>
+  <programme start="20260123172000 -0600" stop="20260123175000 -0600" channel="Windigo">
+    <title>Pregame: Wisconsin Windigo vs. Chippewa Steel</title>
+    <desc>Pre-game coverage for Wisconsin Windigo vs. Chippewa Steel</desc>
+    <key>pregame(30683)</key>
+    <link>https://www.nahltv.com/watch/30683</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260123175000 -0600" stop="20260123205000 -0600" channel="Windigo">
+    <title>Wisconsin Windigo vs. Chippewa Steel</title>
+    <desc>Live broadcast of Wisconsin Windigo vs. Chippewa Steel</desc>
+    <key>30683</key>
+    <link>https://www.nahltv.com/watch/30683</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260123220000 -0600" stop="20260123223000 -0600" channel="Ice_Dogs">
+    <title>Pregame: Fairbanks Ice Dogs vs. Minnesota Wilderness</title>
+    <desc>Pre-game coverage for Fairbanks Ice Dogs vs. Minnesota Wilderness</desc>
+    <key>pregame(30698)</key>
+    <link>https://www.nahltv.com/watch/30698</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260123223000 -0600" stop="20260124013000 -0600" channel="Ice_Dogs">
+    <title>Fairbanks Ice Dogs vs. Minnesota Wilderness</title>
+    <desc>Live broadcast of Fairbanks Ice Dogs vs. Minnesota Wilderness</desc>
+    <key>30698</key>
+    <link>https://www.nahltv.com/watch/30698</link>
+    <category>NAHL</category>
+    </programme>
   </tv>
