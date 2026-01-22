@@ -9080,4 +9080,32 @@
     <link>https://www.nahltv.com/watch/29690</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20260124125000 -0600" stop="20260124132000 -0600" channel="Jr._Mountain_Kings">
+    <title>Pregame: New Hampshire Jr. Mountain Kings vs. New Jersey Titans</title>
+    <desc>Pre-game coverage for New Hampshire Jr. Mountain Kings vs. New Jersey Titans</desc>
+    <key>pregame(29830)</key>
+    <link>https://www.nahltv.com/watch/29830</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260124132000 -0600" stop="20260124162000 -0600" channel="Jr._Mountain_Kings">
+    <title>New Hampshire Jr. Mountain Kings vs. New Jersey Titans</title>
+    <desc>Live broadcast of New Hampshire Jr. Mountain Kings vs. New Jersey Titans</desc>
+    <key>29830</key>
+    <link>https://www.nahltv.com/watch/29830</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260124130000 -0600" stop="20260124133000 -0600" channel="Rougarou">
+    <title>Pregame: Bayou State Rougarou vs. Carolina Rage</title>
+    <desc>Pre-game coverage for Bayou State Rougarou vs. Carolina Rage</desc>
+    <key>pregame(29831)</key>
+    <link>https://www.nahltv.com/watch/29831</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260124133000 -0600" stop="20260124163000 -0600" channel="Rougarou">
+    <title>Bayou State Rougarou vs. Carolina Rage</title>
+    <desc>Live broadcast of Bayou State Rougarou vs. Carolina Rage</desc>
+    <key>29831</key>
+    <link>https://www.nahltv.com/watch/29831</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
