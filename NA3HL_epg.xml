@@ -9108,4 +9108,46 @@
     <link>https://www.nahltv.com/watch/29831</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20260123140000 -0600" stop="20260123143000 -0600" channel="Brahmas">
+    <title>Pregame: Texas Brahmas vs. Austin Ice Bats</title>
+    <desc>Pre-game coverage for Texas Brahmas vs. Austin Ice Bats</desc>
+    <key>pregame(29822)</key>
+    <link>https://www.nahltv.com/watch/29822</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260123143000 -0600" stop="20260123173000 -0600" channel="Brahmas">
+    <title>Texas Brahmas vs. Austin Ice Bats</title>
+    <desc>Live broadcast of Texas Brahmas vs. Austin Ice Bats</desc>
+    <key>29822</key>
+    <link>https://www.nahltv.com/watch/29822</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260124133000 -0600" stop="20260124140000 -0600" channel="Toros">
+    <title>Pregame: Mason City Toros vs. Minnesota Moose</title>
+    <desc>Pre-game coverage for Mason City Toros vs. Minnesota Moose</desc>
+    <key>pregame(29832)</key>
+    <link>https://www.nahltv.com/watch/29832</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260124140000 -0600" stop="20260124170000 -0600" channel="Toros">
+    <title>Mason City Toros vs. Minnesota Moose</title>
+    <desc>Live broadcast of Mason City Toros vs. Minnesota Moose</desc>
+    <key>29832</key>
+    <link>https://www.nahltv.com/watch/29832</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260124160500 -0600" stop="20260124163500 -0600" channel="Americans">
+    <title>Pregame: Great Falls Americans vs. Butte Irish</title>
+    <desc>Pre-game coverage for Great Falls Americans vs. Butte Irish</desc>
+    <key>pregame(29833)</key>
+    <link>https://www.nahltv.com/watch/29833</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260124163500 -0600" stop="20260124193500 -0600" channel="Americans">
+    <title>Great Falls Americans vs. Butte Irish</title>
+    <desc>Live broadcast of Great Falls Americans vs. Butte Irish</desc>
+    <key>29833</key>
+    <link>https://www.nahltv.com/watch/29833</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
