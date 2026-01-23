@@ -8758,4 +8758,32 @@
     <link>https://www.nahltv.com/watch/30698</link>
     <category>NAHL</category>
     </programme>
+  <programme start="20260123183000 -0600" stop="20260123190000 -0600" channel="Shamrocks">
+    <title>Pregame: Watertown Shamrocks vs. North Iowa Bulls</title>
+    <desc>Pre-game coverage for Watertown Shamrocks vs. North Iowa Bulls</desc>
+    <key>pregame(30687)</key>
+    <link>https://www.nahltv.com/watch/30687</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260123190000 -0600" stop="20260123220000 -0600" channel="Shamrocks">
+    <title>Watertown Shamrocks vs. North Iowa Bulls</title>
+    <desc>Live broadcast of Watertown Shamrocks vs. North Iowa Bulls</desc>
+    <key>30687</key>
+    <link>https://www.nahltv.com/watch/30687</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260123220000 -0600" stop="20260123223000 -0600" channel="Brown_Bears">
+    <title>Pregame: Kenai River Brown Bears vs. Anchorage Wolverines</title>
+    <desc>Pre-game coverage for Kenai River Brown Bears vs. Anchorage Wolverines</desc>
+    <key>pregame(30699)</key>
+    <link>https://www.nahltv.com/watch/30699</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260123223000 -0600" stop="20260124013000 -0600" channel="Brown_Bears">
+    <title>Kenai River Brown Bears vs. Anchorage Wolverines</title>
+    <desc>Live broadcast of Kenai River Brown Bears vs. Anchorage Wolverines</desc>
+    <key>30699</key>
+    <link>https://www.nahltv.com/watch/30699</link>
+    <category>NAHL</category>
+    </programme>
   </tv>
