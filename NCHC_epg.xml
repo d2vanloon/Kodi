@@ -1926,4 +1926,60 @@
     <link>http://nchchockey.com/watch?live=1396</link>
     <category>NCHC</category>
     </programme>
+  <programme start="20260123183000 -0600" stop="20260123190000 -0600" channel="Omaha">
+    <title>Pregame: Omaha vs. Colorado College</title>
+    <desc>Pre-game coverage for Omaha vs. Colorado College</desc>
+    <key>pregame(20026)</key>
+    <link>http://nchchockey.com/watch?live=1413</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20260123190000 -0600" stop="20260123220000 -0600" channel="Omaha">
+    <title>Omaha vs. Colorado College</title>
+    <desc>Live broadcast of Omaha vs. Colorado College</desc>
+    <key>20026</key>
+    <link>http://nchchockey.com/watch?live=1413</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20260123183700 -0600" stop="20260123190700 -0600" channel="Minnesota_Duluth">
+    <title>Pregame: Minnesota Duluth vs. Western Michigan </title>
+    <desc>Pre-game coverage for Minnesota Duluth vs. Western Michigan </desc>
+    <key>pregame(20311)</key>
+    <link>http://nchchockey.com/watch?live=1359</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20260123190700 -0600" stop="20260123220700 -0600" channel="Minnesota_Duluth">
+    <title>Minnesota Duluth vs. Western Michigan </title>
+    <desc>Live broadcast of Minnesota Duluth vs. Western Michigan </desc>
+    <key>20311</key>
+    <link>http://nchchockey.com/watch?live=1359</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20260123193000 -0600" stop="20260123200000 -0600" channel="Arizona_State">
+    <title>Pregame: Arizona State vs. North Dakota</title>
+    <desc>Pre-game coverage for Arizona State vs. North Dakota</desc>
+    <key>pregame(20188)</key>
+    <link>http://nchchockey.com/watch?live=1304</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20260123200000 -0600" stop="20260123230000 -0600" channel="Arizona_State">
+    <title>Arizona State vs. North Dakota</title>
+    <desc>Live broadcast of Arizona State vs. North Dakota</desc>
+    <key>20188</key>
+    <link>http://nchchockey.com/watch?live=1304</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20260123193000 -0600" stop="20260123200000 -0600" channel="Denver">
+    <title>Pregame: Denver vs. St. Cloud State</title>
+    <desc>Pre-game coverage for Denver vs. St. Cloud State</desc>
+    <key>pregame(20071)</key>
+    <link>http://nchchockey.com/watch?live=1340</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20260123200000 -0600" stop="20260123230000 -0600" channel="Denver">
+    <title>Denver vs. St. Cloud State</title>
+    <desc>Live broadcast of Denver vs. St. Cloud State</desc>
+    <key>20071</key>
+    <link>http://nchchockey.com/watch?live=1340</link>
+    <category>NCHC</category>
+    </programme>
   </tv>
