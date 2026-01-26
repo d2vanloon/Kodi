@@ -9220,4 +9220,18 @@
     <link>https://www.nahltv.com/watch/30731</link>
     <category>NAHL</category>
     </programme>
+  <programme start="20260130193000 -0600" stop="20260130200000 -0600" channel="Rhinos">
+    <title>Pregame: El Paso Rhinos vs. Corpus Christi IceRays</title>
+    <desc>Pre-game coverage for El Paso Rhinos vs. Corpus Christi IceRays</desc>
+    <key>pregame(30732)</key>
+    <link>https://www.nahltv.com/watch/30732</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260130200000 -0600" stop="20260130230000 -0600" channel="Rhinos">
+    <title>El Paso Rhinos vs. Corpus Christi IceRays</title>
+    <desc>Live broadcast of El Paso Rhinos vs. Corpus Christi IceRays</desc>
+    <key>30732</key>
+    <link>https://www.nahltv.com/watch/30732</link>
+    <category>NAHL</category>
+    </programme>
   </tv>
