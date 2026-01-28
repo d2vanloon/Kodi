@@ -9542,4 +9542,32 @@
     <link>https://www.nahltv.com/watch/29858</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20260130123500 -0600" stop="20260130130500 -0600" channel="Brahmas">
+    <title>Pregame: Texas Brahmas vs. Texas RoadRunners</title>
+    <desc>Pre-game coverage for Texas Brahmas vs. Texas RoadRunners</desc>
+    <key>pregame(29850)</key>
+    <link>https://www.nahltv.com/watch/29850</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260130130500 -0600" stop="20260130160500 -0600" channel="Brahmas">
+    <title>Texas Brahmas vs. Texas RoadRunners</title>
+    <desc>Live broadcast of Texas Brahmas vs. Texas RoadRunners</desc>
+    <key>29850</key>
+    <link>https://www.nahltv.com/watch/29850</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260130193500 -0600" stop="20260130200500 -0600" channel="Wild">
+    <title>Pregame: Gillette Wild vs. Butte Irish</title>
+    <desc>Pre-game coverage for Gillette Wild vs. Butte Irish</desc>
+    <key>pregame(29859)</key>
+    <link>https://www.nahltv.com/watch/29859</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260130200500 -0600" stop="20260130230500 -0600" channel="Wild">
+    <title>Gillette Wild vs. Butte Irish</title>
+    <desc>Live broadcast of Gillette Wild vs. Butte Irish</desc>
+    <key>29859</key>
+    <link>https://www.nahltv.com/watch/29859</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
