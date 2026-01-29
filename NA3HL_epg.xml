@@ -9570,4 +9570,32 @@
     <link>https://www.nahltv.com/watch/29859</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20260131130000 -0600" stop="20260131133000 -0600" channel="Rougarou">
+    <title>Pregame: Bayou State Rougarou vs. Louisiana Drillers</title>
+    <desc>Pre-game coverage for Bayou State Rougarou vs. Louisiana Drillers</desc>
+    <key>pregame(29860)</key>
+    <link>https://www.nahltv.com/watch/29860</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260131133000 -0600" stop="20260131163000 -0600" channel="Rougarou">
+    <title>Bayou State Rougarou vs. Louisiana Drillers</title>
+    <desc>Live broadcast of Bayou State Rougarou vs. Louisiana Drillers</desc>
+    <key>29860</key>
+    <link>https://www.nahltv.com/watch/29860</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260131133000 -0600" stop="20260131140000 -0600" channel="Buzz">
+    <title>Pregame: Buzz vs. Maine</title>
+    <desc>Pre-game coverage for Buzz vs. Maine</desc>
+    <key>pregame(29861)</key>
+    <link>https://www.nahltv.com/watch/29861</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260131140000 -0600" stop="20260131170000 -0600" channel="Buzz">
+    <title>Buzz vs. Maine</title>
+    <desc>Live broadcast of Buzz vs. Maine</desc>
+    <key>29861</key>
+    <link>https://www.nahltv.com/watch/29861</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
