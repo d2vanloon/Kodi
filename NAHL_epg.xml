@@ -9234,4 +9234,32 @@
     <link>https://www.nahltv.com/watch/30732</link>
     <category>NAHL</category>
     </programme>
+  <programme start="20260129143000 -0600" stop="20260129150000 -0600" channel="TBD">
+    <title>Pregame: TBD TBD vs. TBD TBD</title>
+    <desc>Pre-game coverage for TBD TBD vs. TBD TBD</desc>
+    <key>pregame(34389)</key>
+    <link>https://www.nahltv.com/watch/34389</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260129150000 -0600" stop="20260129180000 -0600" channel="TBD">
+    <title>TBD TBD vs. TBD TBD</title>
+    <desc>Live broadcast of TBD TBD vs. TBD TBD</desc>
+    <key>34389</key>
+    <link>https://www.nahltv.com/watch/34389</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260130183000 -0600" stop="20260130190000 -0600" channel="Shamrocks">
+    <title>Pregame: Watertown Shamrocks vs. Minot Minotauros</title>
+    <desc>Pre-game coverage for Watertown Shamrocks vs. Minot Minotauros</desc>
+    <key>pregame(30720)</key>
+    <link>https://www.nahltv.com/watch/30720</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260130190000 -0600" stop="20260130220000 -0600" channel="Shamrocks">
+    <title>Watertown Shamrocks vs. Minot Minotauros</title>
+    <desc>Live broadcast of Watertown Shamrocks vs. Minot Minotauros</desc>
+    <key>30720</key>
+    <link>https://www.nahltv.com/watch/30720</link>
+    <category>NAHL</category>
+    </programme>
   </tv>
