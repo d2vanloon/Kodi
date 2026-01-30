@@ -9262,4 +9262,18 @@
     <link>https://www.nahltv.com/watch/30720</link>
     <category>NAHL</category>
     </programme>
+  <programme start="20260130220000 -0600" stop="20260130223000 -0600" channel="Brown_Bears">
+    <title>Pregame: Kenai River Brown Bears vs. Minnesota Wilderness</title>
+    <desc>Pre-game coverage for Kenai River Brown Bears vs. Minnesota Wilderness</desc>
+    <key>pregame(30733)</key>
+    <link>https://www.nahltv.com/watch/30733</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260130223000 -0600" stop="20260131013000 -0600" channel="Brown_Bears">
+    <title>Kenai River Brown Bears vs. Minnesota Wilderness</title>
+    <desc>Live broadcast of Kenai River Brown Bears vs. Minnesota Wilderness</desc>
+    <key>30733</key>
+    <link>https://www.nahltv.com/watch/30733</link>
+    <category>NAHL</category>
+    </programme>
   </tv>
