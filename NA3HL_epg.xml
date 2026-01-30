@@ -9598,4 +9598,18 @@
     <link>https://www.nahltv.com/watch/29861</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20260131140000 -0600" stop="20260131143000 -0600" channel="Sea_Captains">
+    <title>Pregame: Norwich Sea Captains vs. New Jersey Titans</title>
+    <desc>Pre-game coverage for Norwich Sea Captains vs. New Jersey Titans</desc>
+    <key>pregame(29863)</key>
+    <link>https://www.nahltv.com/watch/29863</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260131143000 -0600" stop="20260131173000 -0600" channel="Sea_Captains">
+    <title>Norwich Sea Captains vs. New Jersey Titans</title>
+    <desc>Live broadcast of Norwich Sea Captains vs. New Jersey Titans</desc>
+    <key>29863</key>
+    <link>https://www.nahltv.com/watch/29863</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
