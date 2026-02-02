@@ -9976,4 +9976,32 @@
     <link>https://www.nahltv.com/watch/29888</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20260206190000 -0600" stop="20260206193000 -0600" channel="Lumberjacks">
+    <title>Pregame: Granite City Lumberjacks vs. Willmar WarHawks</title>
+    <desc>Pre-game coverage for Granite City Lumberjacks vs. Willmar WarHawks</desc>
+    <key>pregame(29889)</key>
+    <link>https://www.nahltv.com/watch/29889</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260206193000 -0600" stop="20260206223000 -0600" channel="Lumberjacks">
+    <title>Granite City Lumberjacks vs. Willmar WarHawks</title>
+    <desc>Live broadcast of Granite City Lumberjacks vs. Willmar WarHawks</desc>
+    <key>29889</key>
+    <link>https://www.nahltv.com/watch/29889</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260206193000 -0600" stop="20260206200000 -0600" channel="Rhinos">
+    <title>Pregame: El Paso Rhinos vs. West Texas Wranglers</title>
+    <desc>Pre-game coverage for El Paso Rhinos vs. West Texas Wranglers</desc>
+    <key>pregame(29906)</key>
+    <link>https://www.nahltv.com/watch/29906</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260206200000 -0600" stop="20260206230000 -0600" channel="Rhinos">
+    <title>El Paso Rhinos vs. West Texas Wranglers</title>
+    <desc>Live broadcast of El Paso Rhinos vs. West Texas Wranglers</desc>
+    <key>29906</key>
+    <link>https://www.nahltv.com/watch/29906</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
