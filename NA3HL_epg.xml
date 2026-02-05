@@ -10004,4 +10004,32 @@
     <link>https://www.nahltv.com/watch/29906</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20260206193500 -0600" stop="20260206200500 -0600" channel="Sabres">
+    <title>Pregame: Badlands Sabres vs. Yellowstone Quake</title>
+    <desc>Pre-game coverage for Badlands Sabres vs. Yellowstone Quake</desc>
+    <key>pregame(29891)</key>
+    <link>https://www.nahltv.com/watch/29891</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260206200500 -0600" stop="20260206230500 -0600" channel="Sabres">
+    <title>Badlands Sabres vs. Yellowstone Quake</title>
+    <desc>Live broadcast of Badlands Sabres vs. Yellowstone Quake</desc>
+    <key>29891</key>
+    <link>https://www.nahltv.com/watch/29891</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260206200000 -0600" stop="20260206203000 -0600" channel="Hawks">
+    <title>Pregame: Sheridan Hawks vs. Gillette Wild</title>
+    <desc>Pre-game coverage for Sheridan Hawks vs. Gillette Wild</desc>
+    <key>pregame(29892)</key>
+    <link>https://www.nahltv.com/watch/29892</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260206203000 -0600" stop="20260206233000 -0600" channel="Hawks">
+    <title>Sheridan Hawks vs. Gillette Wild</title>
+    <desc>Live broadcast of Sheridan Hawks vs. Gillette Wild</desc>
+    <key>29892</key>
+    <link>https://www.nahltv.com/watch/29892</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
