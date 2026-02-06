@@ -10032,4 +10032,32 @@
     <link>https://www.nahltv.com/watch/29892</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20260206200000 -0600" stop="20260206203000 -0600" channel="Icedogs">
+    <title>Pregame: Bozeman Icedogs vs. Great Falls Americans</title>
+    <desc>Pre-game coverage for Bozeman Icedogs vs. Great Falls Americans</desc>
+    <key>pregame(29893)</key>
+    <link>https://www.nahltv.com/watch/29893</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260206203000 -0600" stop="20260206233000 -0600" channel="Icedogs">
+    <title>Bozeman Icedogs vs. Great Falls Americans</title>
+    <desc>Live broadcast of Bozeman Icedogs vs. Great Falls Americans</desc>
+    <key>29893</key>
+    <link>https://www.nahltv.com/watch/29893</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260206200000 -0600" stop="20260206203000 -0600" channel="Irish">
+    <title>Pregame: Butte Irish vs. Helena Bighorns</title>
+    <desc>Pre-game coverage for Butte Irish vs. Helena Bighorns</desc>
+    <key>pregame(29894)</key>
+    <link>https://www.nahltv.com/watch/29894</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260206203000 -0600" stop="20260206233000 -0600" channel="Irish">
+    <title>Butte Irish vs. Helena Bighorns</title>
+    <desc>Live broadcast of Butte Irish vs. Helena Bighorns</desc>
+    <key>29894</key>
+    <link>https://www.nahltv.com/watch/29894</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
