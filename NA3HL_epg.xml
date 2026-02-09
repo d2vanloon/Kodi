@@ -10508,4 +10508,46 @@
     <link>https://www.nahltv.com/watch/29926</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20260213184000 -0600" stop="20260213191000 -0600" channel="Cyclones">
+    <title>Pregame: Wausau Cyclones vs. St. Louis Jr. Blues</title>
+    <desc>Pre-game coverage for Wausau Cyclones vs. St. Louis Jr. Blues</desc>
+    <key>pregame(29927)</key>
+    <link>https://www.nahltv.com/watch/29927</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260213191000 -0600" stop="20260213221000 -0600" channel="Cyclones">
+    <title>Wausau Cyclones vs. St. Louis Jr. Blues</title>
+    <desc>Live broadcast of Wausau Cyclones vs. St. Louis Jr. Blues</desc>
+    <key>29927</key>
+    <link>https://www.nahltv.com/watch/29927</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260213190000 -0600" stop="20260213193000 -0600" channel="Power">
+    <title>Pregame: West Bend Power vs. Rochester Grizzlies</title>
+    <desc>Pre-game coverage for West Bend Power vs. Rochester Grizzlies</desc>
+    <key>pregame(29923)</key>
+    <link>https://www.nahltv.com/watch/29923</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260213193000 -0600" stop="20260213223000 -0600" channel="Power">
+    <title>West Bend Power vs. Rochester Grizzlies</title>
+    <desc>Live broadcast of West Bend Power vs. Rochester Grizzlies</desc>
+    <key>29923</key>
+    <link>https://www.nahltv.com/watch/29923</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260213190000 -0600" stop="20260213193000 -0600" channel="Ice_Wolves">
+    <title>Pregame: New Mexico Ice Wolves vs. Tulsa Oilers</title>
+    <desc>Pre-game coverage for New Mexico Ice Wolves vs. Tulsa Oilers</desc>
+    <key>pregame(29929)</key>
+    <link>https://www.nahltv.com/watch/29929</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260213193000 -0600" stop="20260213223000 -0600" channel="Ice_Wolves">
+    <title>New Mexico Ice Wolves vs. Tulsa Oilers</title>
+    <desc>Live broadcast of New Mexico Ice Wolves vs. Tulsa Oilers</desc>
+    <key>29929</key>
+    <link>https://www.nahltv.com/watch/29929</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
