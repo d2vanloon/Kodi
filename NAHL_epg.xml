@@ -10186,4 +10186,18 @@
     <link>https://www.nahltv.com/watch/30801</link>
     <category>NAHL</category>
     </programme>
+  <programme start="20260214103000 -0600" stop="20260214110000 -0600" channel="Hat_Tricks">
+    <title>Pregame: Danbury Hat Tricks vs. New Hampshire Mountain Kings</title>
+    <desc>Pre-game coverage for Danbury Hat Tricks vs. New Hampshire Mountain Kings</desc>
+    <key>pregame(30802)</key>
+    <link>https://www.nahltv.com/watch/30802</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260214110000 -0600" stop="20260214140000 -0600" channel="Hat_Tricks">
+    <title>Danbury Hat Tricks vs. New Hampshire Mountain Kings</title>
+    <desc>Live broadcast of Danbury Hat Tricks vs. New Hampshire Mountain Kings</desc>
+    <key>30802</key>
+    <link>https://www.nahltv.com/watch/30802</link>
+    <category>NAHL</category>
+    </programme>
   </tv>
