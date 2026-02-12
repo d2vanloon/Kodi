@@ -10550,4 +10550,32 @@
     <link>https://www.nahltv.com/watch/29929</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20260213190000 -0600" stop="20260213193000 -0600" channel="Lumberjacks">
+    <title>Pregame: Granite City Lumberjacks vs. Alexandria Blizzard</title>
+    <desc>Pre-game coverage for Granite City Lumberjacks vs. Alexandria Blizzard</desc>
+    <key>pregame(29930)</key>
+    <link>https://www.nahltv.com/watch/29930</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260213193000 -0600" stop="20260213223000 -0600" channel="Lumberjacks">
+    <title>Granite City Lumberjacks vs. Alexandria Blizzard</title>
+    <desc>Live broadcast of Granite City Lumberjacks vs. Alexandria Blizzard</desc>
+    <key>29930</key>
+    <link>https://www.nahltv.com/watch/29930</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260213193500 -0600" stop="20260213200500 -0600" channel="Bighorns">
+    <title>Pregame: Helena Bighorns vs. Sheridan Hawks</title>
+    <desc>Pre-game coverage for Helena Bighorns vs. Sheridan Hawks</desc>
+    <key>pregame(29931)</key>
+    <link>https://www.nahltv.com/watch/29931</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260213200500 -0600" stop="20260213230500 -0600" channel="Bighorns">
+    <title>Helena Bighorns vs. Sheridan Hawks</title>
+    <desc>Live broadcast of Helena Bighorns vs. Sheridan Hawks</desc>
+    <key>29931</key>
+    <link>https://www.nahltv.com/watch/29931</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
