@@ -10578,4 +10578,32 @@
     <link>https://www.nahltv.com/watch/29931</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20260213193500 -0600" stop="20260213200500 -0600" channel="Americans">
+    <title>Pregame: Great Falls Americans vs. Gillette Wild</title>
+    <desc>Pre-game coverage for Great Falls Americans vs. Gillette Wild</desc>
+    <key>pregame(29932)</key>
+    <link>https://www.nahltv.com/watch/29932</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260213200500 -0600" stop="20260213230500 -0600" channel="Americans">
+    <title>Great Falls Americans vs. Gillette Wild</title>
+    <desc>Live broadcast of Great Falls Americans vs. Gillette Wild</desc>
+    <key>29932</key>
+    <link>https://www.nahltv.com/watch/29932</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260213200000 -0600" stop="20260213203000 -0600" channel="Irish">
+    <title>Pregame: Butte Irish vs. Yellowstone Quake</title>
+    <desc>Pre-game coverage for Butte Irish vs. Yellowstone Quake</desc>
+    <key>pregame(29933)</key>
+    <link>https://www.nahltv.com/watch/29933</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260213203000 -0600" stop="20260213233000 -0600" channel="Irish">
+    <title>Butte Irish vs. Yellowstone Quake</title>
+    <desc>Live broadcast of Butte Irish vs. Yellowstone Quake</desc>
+    <key>29933</key>
+    <link>https://www.nahltv.com/watch/29933</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
