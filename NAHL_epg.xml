@@ -10410,4 +10410,214 @@
     <link>https://www.nahltv.com/watch/34830</link>
     <category>NAHL</category>
     </programme>
+  <programme start="20260216131500 -0600" stop="20260216134500 -0600" channel="Midwest">
+    <title>Pregame: Midwest vs. South</title>
+    <desc>Pre-game coverage for Midwest vs. South</desc>
+    <key>pregame(34831)</key>
+    <link>https://www.nahltv.com/watch/34831</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260216134500 -0600" stop="20260216164500 -0600" channel="Midwest">
+    <title>Midwest vs. South</title>
+    <desc>Live broadcast of Midwest vs. South</desc>
+    <key>34831</key>
+    <link>https://www.nahltv.com/watch/34831</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260216153000 -0600" stop="20260216160000 -0600" channel="Central">
+    <title>Pregame: Central vs. East</title>
+    <desc>Pre-game coverage for Central vs. East</desc>
+    <key>pregame(34832)</key>
+    <link>https://www.nahltv.com/watch/34832</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260216160000 -0600" stop="20260216190000 -0600" channel="Central">
+    <title>Central vs. East</title>
+    <desc>Live broadcast of Central vs. East</desc>
+    <key>34832</key>
+    <link>https://www.nahltv.com/watch/34832</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260216174500 -0600" stop="20260216181500 -0600" channel="White">
+    <title>Pregame: Selects White vs. USA Hockey NTDP U17 </title>
+    <desc>Pre-game coverage for Selects White vs. USA Hockey NTDP U17 </desc>
+    <key>pregame(34833)</key>
+    <link>https://www.nahltv.com/watch/34833</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260216181500 -0600" stop="20260216211500 -0600" channel="White">
+    <title>Selects White vs. USA Hockey NTDP U17 </title>
+    <desc>Live broadcast of Selects White vs. USA Hockey NTDP U17 </desc>
+    <key>34833</key>
+    <link>https://www.nahltv.com/watch/34833</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260217083000 -0600" stop="20260217090000 -0600" channel="South">
+    <title>Pregame: South vs. Central</title>
+    <desc>Pre-game coverage for South vs. Central</desc>
+    <key>pregame(34834)</key>
+    <link>https://www.nahltv.com/watch/34834</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260217090000 -0600" stop="20260217120000 -0600" channel="South">
+    <title>South vs. Central</title>
+    <desc>Live broadcast of South vs. Central</desc>
+    <key>34834</key>
+    <link>https://www.nahltv.com/watch/34834</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260217104500 -0600" stop="20260217111500 -0600" channel="East">
+    <title>Pregame: East vs. Midwest</title>
+    <desc>Pre-game coverage for East vs. Midwest</desc>
+    <key>pregame(34835)</key>
+    <link>https://www.nahltv.com/watch/34835</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260217111500 -0600" stop="20260217141500 -0600" channel="East">
+    <title>East vs. Midwest</title>
+    <desc>Live broadcast of East vs. Midwest</desc>
+    <key>34835</key>
+    <link>https://www.nahltv.com/watch/34835</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260217130000 -0600" stop="20260217133000 -0600" channel="Red">
+    <title>Pregame: Selects Red vs. Selects White</title>
+    <desc>Pre-game coverage for Selects Red vs. Selects White</desc>
+    <key>pregame(34836)</key>
+    <link>https://www.nahltv.com/watch/34836</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260217133000 -0600" stop="20260217163000 -0600" channel="Red">
+    <title>Selects Red vs. Selects White</title>
+    <desc>Live broadcast of Selects Red vs. Selects White</desc>
+    <key>34836</key>
+    <link>https://www.nahltv.com/watch/34836</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260217151500 -0600" stop="20260217154500 -0600" channel="Blue">
+    <title>Pregame: Selects Blue vs. USA Hockey NTDP U17 </title>
+    <desc>Pre-game coverage for Selects Blue vs. USA Hockey NTDP U17 </desc>
+    <key>pregame(34837)</key>
+    <link>https://www.nahltv.com/watch/34837</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260217154500 -0600" stop="20260217184500 -0600" channel="Blue">
+    <title>Selects Blue vs. USA Hockey NTDP U17 </title>
+    <desc>Live broadcast of Selects Blue vs. USA Hockey NTDP U17 </desc>
+    <key>34837</key>
+    <link>https://www.nahltv.com/watch/34837</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260219183500 -0600" stop="20260219190500 -0600" channel="Jets">
+    <title>Pregame: Janesville Jets vs. Anchorage Wolverines</title>
+    <desc>Pre-game coverage for Janesville Jets vs. Anchorage Wolverines</desc>
+    <key>pregame(30817)</key>
+    <link>https://www.nahltv.com/watch/30817</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260219190500 -0600" stop="20260219220500 -0600" channel="Jets">
+    <title>Janesville Jets vs. Anchorage Wolverines</title>
+    <desc>Live broadcast of Janesville Jets vs. Anchorage Wolverines</desc>
+    <key>30817</key>
+    <link>https://www.nahltv.com/watch/30817</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260220173000 -0600" stop="20260220180000 -0600" channel="Mountain_Kings">
+    <title>Pregame: New Hampshire Mountain Kings vs. New Jersey Titans</title>
+    <desc>Pre-game coverage for New Hampshire Mountain Kings vs. New Jersey Titans</desc>
+    <key>pregame(30818)</key>
+    <link>https://www.nahltv.com/watch/30818</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260220180000 -0600" stop="20260220210000 -0600" channel="Mountain_Kings">
+    <title>New Hampshire Mountain Kings vs. New Jersey Titans</title>
+    <desc>Live broadcast of New Hampshire Mountain Kings vs. New Jersey Titans</desc>
+    <key>30818</key>
+    <link>https://www.nahltv.com/watch/30818</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260220173000 -0600" stop="20260220180000 -0600" channel="Generals">
+    <title>Pregame: Northeast Generals vs. Johnstown Tomahawks</title>
+    <desc>Pre-game coverage for Northeast Generals vs. Johnstown Tomahawks</desc>
+    <key>pregame(30819)</key>
+    <link>https://www.nahltv.com/watch/30819</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260220180000 -0600" stop="20260220210000 -0600" channel="Generals">
+    <title>Northeast Generals vs. Johnstown Tomahawks</title>
+    <desc>Live broadcast of Northeast Generals vs. Johnstown Tomahawks</desc>
+    <key>30819</key>
+    <link>https://www.nahltv.com/watch/30819</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260220180000 -0600" stop="20260220183000 -0600" channel="Jr._Americans">
+    <title>Pregame: Rochester Jr. Americans vs. Elmira Aviators</title>
+    <desc>Pre-game coverage for Rochester Jr. Americans vs. Elmira Aviators</desc>
+    <key>pregame(30820)</key>
+    <link>https://www.nahltv.com/watch/30820</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260220183000 -0600" stop="20260220213000 -0600" channel="Jr._Americans">
+    <title>Rochester Jr. Americans vs. Elmira Aviators</title>
+    <desc>Live broadcast of Rochester Jr. Americans vs. Elmira Aviators</desc>
+    <key>30820</key>
+    <link>https://www.nahltv.com/watch/30820</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260220180000 -0600" stop="20260220183000 -0600" channel="Rebels">
+    <title>Pregame: Philadelphia Rebels vs. Danbury Hat Tricks</title>
+    <desc>Pre-game coverage for Philadelphia Rebels vs. Danbury Hat Tricks</desc>
+    <key>pregame(30821)</key>
+    <link>https://www.nahltv.com/watch/30821</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260220183000 -0600" stop="20260220213000 -0600" channel="Rebels">
+    <title>Philadelphia Rebels vs. Danbury Hat Tricks</title>
+    <desc>Live broadcast of Philadelphia Rebels vs. Danbury Hat Tricks</desc>
+    <key>30821</key>
+    <link>https://www.nahltv.com/watch/30821</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260220183000 -0600" stop="20260220190000 -0600" channel="Mallards">
+    <title>Pregame: Minnesota Mallards vs. Aberdeen Wings</title>
+    <desc>Pre-game coverage for Minnesota Mallards vs. Aberdeen Wings</desc>
+    <key>pregame(30822)</key>
+    <link>https://www.nahltv.com/watch/30822</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260220190000 -0600" stop="20260220220000 -0600" channel="Mallards">
+    <title>Minnesota Mallards vs. Aberdeen Wings</title>
+    <desc>Live broadcast of Minnesota Mallards vs. Aberdeen Wings</desc>
+    <key>30822</key>
+    <link>https://www.nahltv.com/watch/30822</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260220183000 -0600" stop="20260220190000 -0600" channel="Norsemen">
+    <title>Pregame: St. Cloud Norsemen vs. Austin Bruins</title>
+    <desc>Pre-game coverage for St. Cloud Norsemen vs. Austin Bruins</desc>
+    <key>pregame(30823)</key>
+    <link>https://www.nahltv.com/watch/30823</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260220190000 -0600" stop="20260220220000 -0600" channel="Norsemen">
+    <title>St. Cloud Norsemen vs. Austin Bruins</title>
+    <desc>Live broadcast of St. Cloud Norsemen vs. Austin Bruins</desc>
+    <key>30823</key>
+    <link>https://www.nahltv.com/watch/30823</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260220183000 -0600" stop="20260220190000 -0600" channel="Warriors">
+    <title>Pregame: Oklahoma Warriors vs. Corpus Christi IceRays</title>
+    <desc>Pre-game coverage for Oklahoma Warriors vs. Corpus Christi IceRays</desc>
+    <key>pregame(30824)</key>
+    <link>https://www.nahltv.com/watch/30824</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260220190000 -0600" stop="20260220220000 -0600" channel="Warriors">
+    <title>Oklahoma Warriors vs. Corpus Christi IceRays</title>
+    <desc>Live broadcast of Oklahoma Warriors vs. Corpus Christi IceRays</desc>
+    <key>30824</key>
+    <link>https://www.nahltv.com/watch/30824</link>
+    <category>NAHL</category>
+    </programme>
   </tv>
