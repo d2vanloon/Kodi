@@ -11054,4 +11054,18 @@
     <link>https://www.nahltv.com/watch/29963</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20260220193500 -0600" stop="20260220200500 -0600" channel="Quake">
+    <title>Pregame: Yellowstone Quake vs. Badlands Sabres</title>
+    <desc>Pre-game coverage for Yellowstone Quake vs. Badlands Sabres</desc>
+    <key>pregame(29964)</key>
+    <link>https://www.nahltv.com/watch/29964</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260220200500 -0600" stop="20260220230500 -0600" channel="Quake">
+    <title>Yellowstone Quake vs. Badlands Sabres</title>
+    <desc>Live broadcast of Yellowstone Quake vs. Badlands Sabres</desc>
+    <key>29964</key>
+    <link>https://www.nahltv.com/watch/29964</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
