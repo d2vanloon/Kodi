@@ -11068,4 +11068,32 @@
     <link>https://www.nahltv.com/watch/29964</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20260220193500 -0600" stop="20260220200500 -0600" channel="Bighorns">
+    <title>Pregame: Helena Bighorns vs. Great Falls Americans</title>
+    <desc>Pre-game coverage for Helena Bighorns vs. Great Falls Americans</desc>
+    <key>pregame(29965)</key>
+    <link>https://www.nahltv.com/watch/29965</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260220200500 -0600" stop="20260220230500 -0600" channel="Bighorns">
+    <title>Helena Bighorns vs. Great Falls Americans</title>
+    <desc>Live broadcast of Helena Bighorns vs. Great Falls Americans</desc>
+    <key>29965</key>
+    <link>https://www.nahltv.com/watch/29965</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260220200000 -0600" stop="20260220203000 -0600" channel="Irish">
+    <title>Pregame: Butte Irish vs. Gillette Wild</title>
+    <desc>Pre-game coverage for Butte Irish vs. Gillette Wild</desc>
+    <key>pregame(29966)</key>
+    <link>https://www.nahltv.com/watch/29966</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260220203000 -0600" stop="20260220233000 -0600" channel="Irish">
+    <title>Butte Irish vs. Gillette Wild</title>
+    <desc>Live broadcast of Butte Irish vs. Gillette Wild</desc>
+    <key>29966</key>
+    <link>https://www.nahltv.com/watch/29966</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
