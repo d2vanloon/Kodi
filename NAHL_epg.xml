@@ -10620,4 +10620,60 @@
     <link>https://www.nahltv.com/watch/30824</link>
     <category>NAHL</category>
     </programme>
+  <programme start="20260220183000 -0600" stop="20260220190000 -0600" channel="Steel">
+    <title>Pregame: Chippewa Steel vs. Fairbanks Ice Dogs</title>
+    <desc>Pre-game coverage for Chippewa Steel vs. Fairbanks Ice Dogs</desc>
+    <key>pregame(30825)</key>
+    <link>https://www.nahltv.com/watch/30825</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260220190000 -0600" stop="20260220220000 -0600" channel="Steel">
+    <title>Chippewa Steel vs. Fairbanks Ice Dogs</title>
+    <desc>Live broadcast of Chippewa Steel vs. Fairbanks Ice Dogs</desc>
+    <key>30825</key>
+    <link>https://www.nahltv.com/watch/30825</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260220184000 -0600" stop="20260220191000 -0600" channel="Bulls">
+    <title>Pregame: North Iowa Bulls vs. Bismarck Bobcats</title>
+    <desc>Pre-game coverage for North Iowa Bulls vs. Bismarck Bobcats</desc>
+    <key>pregame(30827)</key>
+    <link>https://www.nahltv.com/watch/30827</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260220191000 -0600" stop="20260220221000 -0600" channel="Bulls">
+    <title>North Iowa Bulls vs. Bismarck Bobcats</title>
+    <desc>Live broadcast of North Iowa Bulls vs. Bismarck Bobcats</desc>
+    <key>30827</key>
+    <link>https://www.nahltv.com/watch/30827</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260220184100 -0600" stop="20260220191100 -0600" channel="Mudbugs">
+    <title>Pregame: Shreveport Mudbugs vs. Odessa Jackalopes</title>
+    <desc>Pre-game coverage for Shreveport Mudbugs vs. Odessa Jackalopes</desc>
+    <key>pregame(30828)</key>
+    <link>https://www.nahltv.com/watch/30828</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260220191100 -0600" stop="20260220221100 -0600" channel="Mudbugs">
+    <title>Shreveport Mudbugs vs. Odessa Jackalopes</title>
+    <desc>Live broadcast of Shreveport Mudbugs vs. Odessa Jackalopes</desc>
+    <key>30828</key>
+    <link>https://www.nahltv.com/watch/30828</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260220184400 -0600" stop="20260220191400 -0600" channel="Wranglers">
+    <title>Pregame: Amarillo Wranglers vs. New Mexico Ice Wolves</title>
+    <desc>Pre-game coverage for Amarillo Wranglers vs. New Mexico Ice Wolves</desc>
+    <key>pregame(30829)</key>
+    <link>https://www.nahltv.com/watch/30829</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260220191400 -0600" stop="20260220221400 -0600" channel="Wranglers">
+    <title>Amarillo Wranglers vs. New Mexico Ice Wolves</title>
+    <desc>Live broadcast of Amarillo Wranglers vs. New Mexico Ice Wolves</desc>
+    <key>30829</key>
+    <link>https://www.nahltv.com/watch/30829</link>
+    <category>NAHL</category>
+    </programme>
   </tv>
