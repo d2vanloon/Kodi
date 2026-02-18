@@ -11096,4 +11096,32 @@
     <link>https://www.nahltv.com/watch/29966</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20260220203000 -0600" stop="20260220210000 -0600" channel="Prowlers">
+    <title>Pregame: Pelham Prowlers vs. Carolina Rage</title>
+    <desc>Pre-game coverage for Pelham Prowlers vs. Carolina Rage</desc>
+    <key>pregame(29967)</key>
+    <link>https://www.nahltv.com/watch/29967</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260220210000 -0600" stop="20260221000000 -0600" channel="Prowlers">
+    <title>Pelham Prowlers vs. Carolina Rage</title>
+    <desc>Live broadcast of Pelham Prowlers vs. Carolina Rage</desc>
+    <key>29967</key>
+    <link>https://www.nahltv.com/watch/29967</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260221131500 -0600" stop="20260221134500 -0600" channel="Prowlers">
+    <title>Pregame: Pelham Prowlers vs. Carolina Rage</title>
+    <desc>Pre-game coverage for Pelham Prowlers vs. Carolina Rage</desc>
+    <key>pregame(29968)</key>
+    <link>https://www.nahltv.com/watch/29968</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260221134500 -0600" stop="20260221164500 -0600" channel="Prowlers">
+    <title>Pelham Prowlers vs. Carolina Rage</title>
+    <desc>Live broadcast of Pelham Prowlers vs. Carolina Rage</desc>
+    <key>29968</key>
+    <link>https://www.nahltv.com/watch/29968</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
