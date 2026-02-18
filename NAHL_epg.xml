@@ -10676,4 +10676,60 @@
     <link>https://www.nahltv.com/watch/30829</link>
     <category>NAHL</category>
     </programme>
+  <programme start="20260220184500 -0600" stop="20260220191500 -0600" channel="Wilderness">
+    <title>Pregame: Minnesota Wilderness vs. Kenai River Brown Bears</title>
+    <desc>Pre-game coverage for Minnesota Wilderness vs. Kenai River Brown Bears</desc>
+    <key>pregame(30830)</key>
+    <link>https://www.nahltv.com/watch/30830</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260220191500 -0600" stop="20260220221500 -0600" channel="Wilderness">
+    <title>Minnesota Wilderness vs. Kenai River Brown Bears</title>
+    <desc>Live broadcast of Minnesota Wilderness vs. Kenai River Brown Bears</desc>
+    <key>30830</key>
+    <link>https://www.nahltv.com/watch/30830</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260220190500 -0600" stop="20260220193500 -0600" channel="Windigo">
+    <title>Pregame: Wisconsin Windigo vs. Anchorage Wolverines</title>
+    <desc>Pre-game coverage for Wisconsin Windigo vs. Anchorage Wolverines</desc>
+    <key>pregame(30826)</key>
+    <link>https://www.nahltv.com/watch/30826</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260220193500 -0600" stop="20260220223500 -0600" channel="Windigo">
+    <title>Wisconsin Windigo vs. Anchorage Wolverines</title>
+    <desc>Live broadcast of Wisconsin Windigo vs. Anchorage Wolverines</desc>
+    <key>30826</key>
+    <link>https://www.nahltv.com/watch/30826</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260220190500 -0600" stop="20260220193500 -0600" channel="Minotauros">
+    <title>Pregame: Minot Minotauros vs. Watertown Shamrocks</title>
+    <desc>Pre-game coverage for Minot Minotauros vs. Watertown Shamrocks</desc>
+    <key>pregame(30831)</key>
+    <link>https://www.nahltv.com/watch/30831</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260220193500 -0600" stop="20260220223500 -0600" channel="Minotauros">
+    <title>Minot Minotauros vs. Watertown Shamrocks</title>
+    <desc>Live broadcast of Minot Minotauros vs. Watertown Shamrocks</desc>
+    <key>30831</key>
+    <link>https://www.nahltv.com/watch/30831</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260220193000 -0600" stop="20260220200000 -0600" channel="Rhinos">
+    <title>Pregame: El Paso Rhinos vs. Lone Star Brahmas</title>
+    <desc>Pre-game coverage for El Paso Rhinos vs. Lone Star Brahmas</desc>
+    <key>pregame(30832)</key>
+    <link>https://www.nahltv.com/watch/30832</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260220200000 -0600" stop="20260220230000 -0600" channel="Rhinos">
+    <title>El Paso Rhinos vs. Lone Star Brahmas</title>
+    <desc>Live broadcast of El Paso Rhinos vs. Lone Star Brahmas</desc>
+    <key>30832</key>
+    <link>https://www.nahltv.com/watch/30832</link>
+    <category>NAHL</category>
+    </programme>
   </tv>
