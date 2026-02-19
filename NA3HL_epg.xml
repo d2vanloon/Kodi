@@ -11124,4 +11124,32 @@
     <link>https://www.nahltv.com/watch/29968</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20260219120000 -0600" stop="20260219123000 -0600" channel="Buzz">
+    <title>Pregame: Buzz vs. Long Beach</title>
+    <desc>Pre-game coverage for Buzz vs. Long Beach</desc>
+    <key>pregame(29969)</key>
+    <link>https://www.nahltv.com/watch/29969</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260219123000 -0600" stop="20260219153000 -0600" channel="Buzz">
+    <title>Buzz vs. Long Beach</title>
+    <desc>Live broadcast of Buzz vs. Long Beach</desc>
+    <key>29969</key>
+    <link>https://www.nahltv.com/watch/29969</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260221140000 -0600" stop="20260221143000 -0600" channel="Sea_Captains">
+    <title>Pregame: Norwich Sea Captains vs. Maine Nordiques</title>
+    <desc>Pre-game coverage for Norwich Sea Captains vs. Maine Nordiques</desc>
+    <key>pregame(29970)</key>
+    <link>https://www.nahltv.com/watch/29970</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260221143000 -0600" stop="20260221173000 -0600" channel="Sea_Captains">
+    <title>Norwich Sea Captains vs. Maine Nordiques</title>
+    <desc>Live broadcast of Norwich Sea Captains vs. Maine Nordiques</desc>
+    <key>29970</key>
+    <link>https://www.nahltv.com/watch/29970</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
