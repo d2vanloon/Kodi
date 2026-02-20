@@ -11152,4 +11152,18 @@
     <link>https://www.nahltv.com/watch/29970</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20260221143000 -0600" stop="20260221150000 -0600" channel="Toros">
+    <title>Pregame: Mason City Toros vs. Minnesota Moose</title>
+    <desc>Pre-game coverage for Mason City Toros vs. Minnesota Moose</desc>
+    <key>pregame(29971)</key>
+    <link>https://www.nahltv.com/watch/29971</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260221150000 -0600" stop="20260221180000 -0600" channel="Toros">
+    <title>Mason City Toros vs. Minnesota Moose</title>
+    <desc>Live broadcast of Mason City Toros vs. Minnesota Moose</desc>
+    <key>29971</key>
+    <link>https://www.nahltv.com/watch/29971</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
