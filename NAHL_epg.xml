@@ -10732,4 +10732,18 @@
     <link>https://www.nahltv.com/watch/30832</link>
     <category>NAHL</category>
     </programme>
+  <programme start="20260221160000 -0600" stop="20260221163000 -0600" channel="Generals">
+    <title>Pregame: Northeast Generals vs. Johnstown Tomahawks</title>
+    <desc>Pre-game coverage for Northeast Generals vs. Johnstown Tomahawks</desc>
+    <key>pregame(30833)</key>
+    <link>https://www.nahltv.com/watch/30833</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260221163000 -0600" stop="20260221193000 -0600" channel="Generals">
+    <title>Northeast Generals vs. Johnstown Tomahawks</title>
+    <desc>Live broadcast of Northeast Generals vs. Johnstown Tomahawks</desc>
+    <key>30833</key>
+    <link>https://www.nahltv.com/watch/30833</link>
+    <category>NAHL</category>
+    </programme>
   </tv>
