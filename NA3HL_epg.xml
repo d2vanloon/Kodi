@@ -11544,4 +11544,60 @@
     <link>https://www.nahltv.com/watch/29995</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20260227184000 -0600" stop="20260227191000 -0600" channel="Toros">
+    <title>Pregame: Mason City Toros vs. Alexandria Blizzard</title>
+    <desc>Pre-game coverage for Mason City Toros vs. Alexandria Blizzard</desc>
+    <key>pregame(29996)</key>
+    <link>https://www.nahltv.com/watch/29996</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260227191000 -0600" stop="20260227221000 -0600" channel="Toros">
+    <title>Mason City Toros vs. Alexandria Blizzard</title>
+    <desc>Live broadcast of Mason City Toros vs. Alexandria Blizzard</desc>
+    <key>29996</key>
+    <link>https://www.nahltv.com/watch/29996</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260227190000 -0600" stop="20260227193000 -0600" channel="Ice_Bats">
+    <title>Pregame: Austin Ice Bats vs. Texas Brahmas</title>
+    <desc>Pre-game coverage for Austin Ice Bats vs. Texas Brahmas</desc>
+    <key>pregame(29997)</key>
+    <link>https://www.nahltv.com/watch/29997</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260227193000 -0600" stop="20260227223000 -0600" channel="Ice_Bats">
+    <title>Austin Ice Bats vs. Texas Brahmas</title>
+    <desc>Live broadcast of Austin Ice Bats vs. Texas Brahmas</desc>
+    <key>29997</key>
+    <link>https://www.nahltv.com/watch/29997</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260227190000 -0600" stop="20260227193000 -0600" channel="Lumberjacks">
+    <title>Pregame: Granite City Lumberjacks vs. Minnesota Moose</title>
+    <desc>Pre-game coverage for Granite City Lumberjacks vs. Minnesota Moose</desc>
+    <key>pregame(29998)</key>
+    <link>https://www.nahltv.com/watch/29998</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260227193000 -0600" stop="20260227223000 -0600" channel="Lumberjacks">
+    <title>Granite City Lumberjacks vs. Minnesota Moose</title>
+    <desc>Live broadcast of Granite City Lumberjacks vs. Minnesota Moose</desc>
+    <key>29998</key>
+    <link>https://www.nahltv.com/watch/29998</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260227190000 -0600" stop="20260227193000 -0600" channel="Ice_Wolves">
+    <title>Pregame: New Mexico Ice Wolves vs. West Texas Wranglers</title>
+    <desc>Pre-game coverage for New Mexico Ice Wolves vs. West Texas Wranglers</desc>
+    <key>pregame(29999)</key>
+    <link>https://www.nahltv.com/watch/29999</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260227193000 -0600" stop="20260227223000 -0600" channel="Ice_Wolves">
+    <title>New Mexico Ice Wolves vs. West Texas Wranglers</title>
+    <desc>Live broadcast of New Mexico Ice Wolves vs. West Texas Wranglers</desc>
+    <key>29999</key>
+    <link>https://www.nahltv.com/watch/29999</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
