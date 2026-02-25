@@ -11600,4 +11600,32 @@
     <link>https://www.nahltv.com/watch/29999</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20260227120000 -0600" stop="20260227123000 -0600" channel="Nordiques">
+    <title>Pregame: Maine Nordiques vs. Long Beach Sharks</title>
+    <desc>Pre-game coverage for Maine Nordiques vs. Long Beach Sharks</desc>
+    <key>pregame(30006)</key>
+    <link>https://www.nahltv.com/watch/30006</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260227123000 -0600" stop="20260227153000 -0600" channel="Nordiques">
+    <title>Maine Nordiques vs. Long Beach Sharks</title>
+    <desc>Live broadcast of Maine Nordiques vs. Long Beach Sharks</desc>
+    <key>30006</key>
+    <link>https://www.nahltv.com/watch/30006</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260227192000 -0600" stop="20260227195000 -0600" channel="Jr._Blues">
+    <title>Pregame: St. Louis Jr. Blues vs. Wisconsin Woodsmen</title>
+    <desc>Pre-game coverage for St. Louis Jr. Blues vs. Wisconsin Woodsmen</desc>
+    <key>pregame(30000)</key>
+    <link>https://www.nahltv.com/watch/30000</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260227195000 -0600" stop="20260227225000 -0600" channel="Jr._Blues">
+    <title>St. Louis Jr. Blues vs. Wisconsin Woodsmen</title>
+    <desc>Live broadcast of St. Louis Jr. Blues vs. Wisconsin Woodsmen</desc>
+    <key>30000</key>
+    <link>https://www.nahltv.com/watch/30000</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
