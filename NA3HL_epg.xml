@@ -11656,4 +11656,46 @@
     <link>https://www.nahltv.com/watch/30002</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20260227193000 -0600" stop="20260227200000 -0600" channel="Ice_Bats">
+    <title>Pregame: Austin Ice Bats vs. Texas Brahmas</title>
+    <desc>Pre-game coverage for Austin Ice Bats vs. Texas Brahmas</desc>
+    <key>pregame(29997)</key>
+    <link>https://www.nahltv.com/watch/29997</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260227200000 -0600" stop="20260227230000 -0600" channel="Ice_Bats">
+    <title>Austin Ice Bats vs. Texas Brahmas</title>
+    <desc>Live broadcast of Austin Ice Bats vs. Texas Brahmas</desc>
+    <key>29997</key>
+    <link>https://www.nahltv.com/watch/29997</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260227200000 -0600" stop="20260227203000 -0600" channel="Irish">
+    <title>Pregame: Butte Irish vs. Bozeman Icedogs</title>
+    <desc>Pre-game coverage for Butte Irish vs. Bozeman Icedogs</desc>
+    <key>pregame(30003)</key>
+    <link>https://www.nahltv.com/watch/30003</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260227203000 -0600" stop="20260227233000 -0600" channel="Irish">
+    <title>Butte Irish vs. Bozeman Icedogs</title>
+    <desc>Live broadcast of Butte Irish vs. Bozeman Icedogs</desc>
+    <key>30003</key>
+    <link>https://www.nahltv.com/watch/30003</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260228153500 -0600" stop="20260228160500 -0600" channel="Drillers">
+    <title>Pregame: Louisiana Drillers vs. Bayou State Rougarou</title>
+    <desc>Pre-game coverage for Louisiana Drillers vs. Bayou State Rougarou</desc>
+    <key>pregame(30004)</key>
+    <link>https://www.nahltv.com/watch/30004</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260228160500 -0600" stop="20260228190500 -0600" channel="Drillers">
+    <title>Louisiana Drillers vs. Bayou State Rougarou</title>
+    <desc>Live broadcast of Louisiana Drillers vs. Bayou State Rougarou</desc>
+    <key>30004</key>
+    <link>https://www.nahltv.com/watch/30004</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
