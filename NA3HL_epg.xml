@@ -12104,4 +12104,74 @@
     <link>https://www.nahltv.com/watch/30030</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20260306184000 -0600" stop="20260306191000 -0600" channel="Moose">
+    <title>Pregame: Minnesota Moose vs. Mason City Toros</title>
+    <desc>Pre-game coverage for Minnesota Moose vs. Mason City Toros</desc>
+    <key>pregame(30031)</key>
+    <link>https://www.nahltv.com/watch/30031</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260306191000 -0600" stop="20260306221000 -0600" channel="Moose">
+    <title>Minnesota Moose vs. Mason City Toros</title>
+    <desc>Live broadcast of Minnesota Moose vs. Mason City Toros</desc>
+    <key>30031</key>
+    <link>https://www.nahltv.com/watch/30031</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260306184000 -0600" stop="20260306191000 -0600" channel="Cyclones">
+    <title>Pregame: Wausau Cyclones vs. Peoria Mustangs</title>
+    <desc>Pre-game coverage for Wausau Cyclones vs. Peoria Mustangs</desc>
+    <key>pregame(30032)</key>
+    <link>https://www.nahltv.com/watch/30032</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260306191000 -0600" stop="20260306221000 -0600" channel="Cyclones">
+    <title>Wausau Cyclones vs. Peoria Mustangs</title>
+    <desc>Live broadcast of Wausau Cyclones vs. Peoria Mustangs</desc>
+    <key>30032</key>
+    <link>https://www.nahltv.com/watch/30032</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260306184000 -0600" stop="20260306191000 -0600" channel="WarHawks">
+    <title>Pregame: Willmar WarHawks vs. Granite City Lumberjacks</title>
+    <desc>Pre-game coverage for Willmar WarHawks vs. Granite City Lumberjacks</desc>
+    <key>pregame(30033)</key>
+    <link>https://www.nahltv.com/watch/30033</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260306191000 -0600" stop="20260306221000 -0600" channel="WarHawks">
+    <title>Willmar WarHawks vs. Granite City Lumberjacks</title>
+    <desc>Live broadcast of Willmar WarHawks vs. Granite City Lumberjacks</desc>
+    <key>30033</key>
+    <link>https://www.nahltv.com/watch/30033</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260306184400 -0600" stop="20260306191400 -0600" channel="Wranglers">
+    <title>Pregame: West Texas Wranglers vs. Austin Ice Bats</title>
+    <desc>Pre-game coverage for West Texas Wranglers vs. Austin Ice Bats</desc>
+    <key>pregame(30034)</key>
+    <link>https://www.nahltv.com/watch/30034</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260306191400 -0600" stop="20260306221400 -0600" channel="Wranglers">
+    <title>West Texas Wranglers vs. Austin Ice Bats</title>
+    <desc>Live broadcast of West Texas Wranglers vs. Austin Ice Bats</desc>
+    <key>30034</key>
+    <link>https://www.nahltv.com/watch/30034</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260306190000 -0600" stop="20260306193000 -0600" channel="Power">
+    <title>Pregame: West Bend Power vs. Wisconsin Woodsmen</title>
+    <desc>Pre-game coverage for West Bend Power vs. Wisconsin Woodsmen</desc>
+    <key>pregame(30035)</key>
+    <link>https://www.nahltv.com/watch/30035</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260306193000 -0600" stop="20260306223000 -0600" channel="Power">
+    <title>West Bend Power vs. Wisconsin Woodsmen</title>
+    <desc>Live broadcast of West Bend Power vs. Wisconsin Woodsmen</desc>
+    <key>30035</key>
+    <link>https://www.nahltv.com/watch/30035</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
