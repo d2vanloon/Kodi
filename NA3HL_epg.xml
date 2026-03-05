@@ -12188,4 +12188,32 @@
     <link>https://www.nahltv.com/watch/30036</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20260306193500 -0600" stop="20260306200500 -0600" channel="Sabres">
+    <title>Pregame: Badlands Sabres vs. Gillette Wild</title>
+    <desc>Pre-game coverage for Badlands Sabres vs. Gillette Wild</desc>
+    <key>pregame(30037)</key>
+    <link>https://www.nahltv.com/watch/30037</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260306200500 -0600" stop="20260306230500 -0600" channel="Sabres">
+    <title>Badlands Sabres vs. Gillette Wild</title>
+    <desc>Live broadcast of Badlands Sabres vs. Gillette Wild</desc>
+    <key>30037</key>
+    <link>https://www.nahltv.com/watch/30037</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260306200000 -0600" stop="20260306203000 -0600" channel="Irish">
+    <title>Pregame: Butte Irish vs. Great Falls Americans</title>
+    <desc>Pre-game coverage for Butte Irish vs. Great Falls Americans</desc>
+    <key>pregame(30038)</key>
+    <link>https://www.nahltv.com/watch/30038</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260306203000 -0600" stop="20260306233000 -0600" channel="Irish">
+    <title>Butte Irish vs. Great Falls Americans</title>
+    <desc>Live broadcast of Butte Irish vs. Great Falls Americans</desc>
+    <key>30038</key>
+    <link>https://www.nahltv.com/watch/30038</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
