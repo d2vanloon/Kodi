@@ -11684,4 +11684,32 @@
     <link>https://www.nahltv.com/watch/30896</link>
     <category>NAHL</category>
     </programme>
+  <programme start="20260306220000 -0600" stop="20260306223000 -0600" channel="Ice_Dogs">
+    <title>Pregame: Fairbanks Ice Dogs vs. Anchorage Wolverines</title>
+    <desc>Pre-game coverage for Fairbanks Ice Dogs vs. Anchorage Wolverines</desc>
+    <key>pregame(30897)</key>
+    <link>https://www.nahltv.com/watch/30897</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260306223000 -0600" stop="20260307013000 -0600" channel="Ice_Dogs">
+    <title>Fairbanks Ice Dogs vs. Anchorage Wolverines</title>
+    <desc>Live broadcast of Fairbanks Ice Dogs vs. Anchorage Wolverines</desc>
+    <key>30897</key>
+    <link>https://www.nahltv.com/watch/30897</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260306220000 -0600" stop="20260306223000 -0600" channel="Brown_Bears">
+    <title>Pregame: Kenai River Brown Bears vs. Chippewa Steel</title>
+    <desc>Pre-game coverage for Kenai River Brown Bears vs. Chippewa Steel</desc>
+    <key>pregame(30898)</key>
+    <link>https://www.nahltv.com/watch/30898</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260306223000 -0600" stop="20260307013000 -0600" channel="Brown_Bears">
+    <title>Kenai River Brown Bears vs. Chippewa Steel</title>
+    <desc>Live broadcast of Kenai River Brown Bears vs. Chippewa Steel</desc>
+    <key>30898</key>
+    <link>https://www.nahltv.com/watch/30898</link>
+    <category>NAHL</category>
+    </programme>
   </tv>
