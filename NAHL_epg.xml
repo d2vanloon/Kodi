@@ -12146,4 +12146,18 @@
     <link>https://www.nahltv.com/watch/30928</link>
     <category>NAHL</category>
     </programme>
+  <programme start="20260313220000 -0600" stop="20260313223000 -0600" channel="Brown_Bears">
+    <title>Pregame: Kenai River Brown Bears vs. Fairbanks Ice Dogs</title>
+    <desc>Pre-game coverage for Kenai River Brown Bears vs. Fairbanks Ice Dogs</desc>
+    <key>pregame(30929)</key>
+    <link>https://www.nahltv.com/watch/30929</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260313223000 -0600" stop="20260314013000 -0600" channel="Brown_Bears">
+    <title>Kenai River Brown Bears vs. Fairbanks Ice Dogs</title>
+    <desc>Live broadcast of Kenai River Brown Bears vs. Fairbanks Ice Dogs</desc>
+    <key>30929</key>
+    <link>https://www.nahltv.com/watch/30929</link>
+    <category>NAHL</category>
+    </programme>
   </tv>
