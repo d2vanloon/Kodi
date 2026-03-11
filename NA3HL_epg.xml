@@ -12734,4 +12734,18 @@
     <link>https://www.nahltv.com/watch/35933</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20260313173000 -0600" stop="20260313180000 -0600" channel="Jr._Mountain_Kings">
+    <title>Pregame: New Hampshire Jr. Mountain Kings vs. Buzz </title>
+    <desc>Pre-game coverage for New Hampshire Jr. Mountain Kings vs. Buzz </desc>
+    <key>pregame(35922)</key>
+    <link>https://www.nahltv.com/watch/35922</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260313180000 -0600" stop="20260313210000 -0600" channel="Jr._Mountain_Kings">
+    <title>New Hampshire Jr. Mountain Kings vs. Buzz </title>
+    <desc>Live broadcast of New Hampshire Jr. Mountain Kings vs. Buzz </desc>
+    <key>35922</key>
+    <link>https://www.nahltv.com/watch/35922</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
