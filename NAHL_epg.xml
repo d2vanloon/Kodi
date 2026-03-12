@@ -12160,4 +12160,18 @@
     <link>https://www.nahltv.com/watch/30929</link>
     <category>NAHL</category>
     </programme>
+  <programme start="20260313220000 -0600" stop="20260313223000 -0600" channel="Wolverines">
+    <title>Pregame: Anchorage Wolverines vs. Janesville Jets</title>
+    <desc>Pre-game coverage for Anchorage Wolverines vs. Janesville Jets</desc>
+    <key>pregame(30930)</key>
+    <link>https://www.nahltv.com/watch/30930</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260313223000 -0600" stop="20260314013000 -0600" channel="Wolverines">
+    <title>Anchorage Wolverines vs. Janesville Jets</title>
+    <desc>Live broadcast of Anchorage Wolverines vs. Janesville Jets</desc>
+    <key>30930</key>
+    <link>https://www.nahltv.com/watch/30930</link>
+    <category>NAHL</category>
+    </programme>
   </tv>
