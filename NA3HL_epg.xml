@@ -12776,4 +12776,32 @@
     <link>https://www.nahltv.com/watch/35934</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20260314183500 -0600" stop="20260314190500 -0600" channel="Brahmas">
+    <title>Pregame: Texas Brahmas vs. New Mexico Ice Wolves</title>
+    <desc>Pre-game coverage for Texas Brahmas vs. New Mexico Ice Wolves</desc>
+    <key>pregame(35935)</key>
+    <link>https://www.nahltv.com/watch/35935</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260314190500 -0600" stop="20260314220500 -0600" channel="Brahmas">
+    <title>Texas Brahmas vs. New Mexico Ice Wolves</title>
+    <desc>Live broadcast of Texas Brahmas vs. New Mexico Ice Wolves</desc>
+    <key>35935</key>
+    <link>https://www.nahltv.com/watch/35935</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260314184000 -0600" stop="20260314191000 -0600" channel="Cyclones">
+    <title>Pregame: Wausau Cyclones vs. Rochester Grizzlies</title>
+    <desc>Pre-game coverage for Wausau Cyclones vs. Rochester Grizzlies</desc>
+    <key>pregame(35936)</key>
+    <link>https://www.nahltv.com/watch/35936</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260314191000 -0600" stop="20260314221000 -0600" channel="Cyclones">
+    <title>Wausau Cyclones vs. Rochester Grizzlies</title>
+    <desc>Live broadcast of Wausau Cyclones vs. Rochester Grizzlies</desc>
+    <key>35936</key>
+    <link>https://www.nahltv.com/watch/35936</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
