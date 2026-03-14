@@ -2710,4 +2710,32 @@
     <link>http://nchchockey.com/watch?live=1489</link>
     <category>NCHC</category>
     </programme>
+  <programme start="20260314163700 -0600" stop="20260314170700 -0600" channel="North_Dakota">
+    <title>Pregame: North Dakota vs. Minnesota Duluth</title>
+    <desc>Pre-game coverage for North Dakota vs. Minnesota Duluth</desc>
+    <key>pregame(20430)</key>
+    <link>http://nchchockey.com/watch?live=1498</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20260314170700 -0600" stop="20260314200700 -0600" channel="North_Dakota">
+    <title>North Dakota vs. Minnesota Duluth</title>
+    <desc>Live broadcast of North Dakota vs. Minnesota Duluth</desc>
+    <key>20430</key>
+    <link>http://nchchockey.com/watch?live=1498</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20260314173700 -0600" stop="20260314180700 -0600" channel="Denver">
+    <title>Pregame: Denver vs. Western Michigan </title>
+    <desc>Pre-game coverage for Denver vs. Western Michigan </desc>
+    <key>pregame(20433)</key>
+    <link>http://nchchockey.com/watch?live=1497</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20260314180700 -0600" stop="20260314210700 -0600" channel="Denver">
+    <title>Denver vs. Western Michigan </title>
+    <desc>Live broadcast of Denver vs. Western Michigan </desc>
+    <key>20433</key>
+    <link>http://nchchockey.com/watch?live=1497</link>
+    <category>NCHC</category>
+    </programme>
   </tv>
