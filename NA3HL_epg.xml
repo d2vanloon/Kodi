@@ -12958,4 +12958,60 @@
     <link>https://www.nahltv.com/watch/35947</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20260315143500 -0600" stop="20260315150500 -0600" channel="Americans">
+    <title>Pregame: Great Falls Americans vs. Helena Bighorns</title>
+    <desc>Pre-game coverage for Great Falls Americans vs. Helena Bighorns</desc>
+    <key>pregame(35941)</key>
+    <link>https://www.nahltv.com/watch/35941</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260315150500 -0600" stop="20260315180500 -0600" channel="Americans">
+    <title>Great Falls Americans vs. Helena Bighorns</title>
+    <desc>Live broadcast of Great Falls Americans vs. Helena Bighorns</desc>
+    <key>35941</key>
+    <link>https://www.nahltv.com/watch/35941</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260315153500 -0600" stop="20260315160500 -0600" channel="Brahmas">
+    <title>Pregame: Texas Brahmas vs. New Mexico Ice Wolves</title>
+    <desc>Pre-game coverage for Texas Brahmas vs. New Mexico Ice Wolves</desc>
+    <key>pregame(35949)</key>
+    <link>https://www.nahltv.com/watch/35949</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260315160500 -0600" stop="20260315190500 -0600" channel="Brahmas">
+    <title>Texas Brahmas vs. New Mexico Ice Wolves</title>
+    <desc>Live broadcast of Texas Brahmas vs. New Mexico Ice Wolves</desc>
+    <key>35949</key>
+    <link>https://www.nahltv.com/watch/35949</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260316133000 -0600" stop="20260316140000 -0600" channel="Moose">
+    <title>Pregame: Minnesota Moose vs. Alexandria Blizzard</title>
+    <desc>Pre-game coverage for Minnesota Moose vs. Alexandria Blizzard</desc>
+    <key>pregame(35950)</key>
+    <link>https://www.nahltv.com/watch/35950</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260316140000 -0600" stop="20260316170000 -0600" channel="Moose">
+    <title>Minnesota Moose vs. Alexandria Blizzard</title>
+    <desc>Live broadcast of Minnesota Moose vs. Alexandria Blizzard</desc>
+    <key>35950</key>
+    <link>https://www.nahltv.com/watch/35950</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260316193500 -0600" stop="20260316200500 -0600" channel="Bighorns">
+    <title>Pregame: Helena Bighorns vs. Great Falls Americans</title>
+    <desc>Pre-game coverage for Helena Bighorns vs. Great Falls Americans</desc>
+    <key>pregame(35952)</key>
+    <link>https://www.nahltv.com/watch/35952</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260316200500 -0600" stop="20260316230500 -0600" channel="Bighorns">
+    <title>Helena Bighorns vs. Great Falls Americans</title>
+    <desc>Live broadcast of Helena Bighorns vs. Great Falls Americans</desc>
+    <key>35952</key>
+    <link>https://www.nahltv.com/watch/35952</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
