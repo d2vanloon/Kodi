@@ -12622,4 +12622,18 @@
     <link>https://www.nahltv.com/watch/30961</link>
     <category>NAHL</category>
     </programme>
+  <programme start="20260320184500 -0600" stop="20260320191500 -0600" channel="Jackalopes">
+    <title>Pregame: Odessa Jackalopes vs. Shreveport Mudbugs</title>
+    <desc>Pre-game coverage for Odessa Jackalopes vs. Shreveport Mudbugs</desc>
+    <key>pregame(30962)</key>
+    <link>https://www.nahltv.com/watch/30962</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260320191500 -0600" stop="20260320221500 -0600" channel="Jackalopes">
+    <title>Odessa Jackalopes vs. Shreveport Mudbugs</title>
+    <desc>Live broadcast of Odessa Jackalopes vs. Shreveport Mudbugs</desc>
+    <key>30962</key>
+    <link>https://www.nahltv.com/watch/30962</link>
+    <category>NAHL</category>
+    </programme>
   </tv>
