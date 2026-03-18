@@ -13014,4 +13014,88 @@
     <link>https://www.nahltv.com/watch/35952</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20260318183500 -0600" stop="20260318190500 -0600" channel="Brahmas">
+    <title>Pregame: Texas Brahmas vs. Austin Ice Bats</title>
+    <desc>Pre-game coverage for Texas Brahmas vs. Austin Ice Bats</desc>
+    <key>pregame(36917)</key>
+    <link>https://www.nahltv.com/watch/36917</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260318190500 -0600" stop="20260318220500 -0600" channel="Brahmas">
+    <title>Texas Brahmas vs. Austin Ice Bats</title>
+    <desc>Live broadcast of Texas Brahmas vs. Austin Ice Bats</desc>
+    <key>36917</key>
+    <link>https://www.nahltv.com/watch/36917</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260318193500 -0600" stop="20260318200500 -0600" channel="Bighorns">
+    <title>Pregame: Helena Bighorns vs. Sheridan Hawks</title>
+    <desc>Pre-game coverage for Helena Bighorns vs. Sheridan Hawks</desc>
+    <key>pregame(36918)</key>
+    <link>https://www.nahltv.com/watch/36918</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260318200500 -0600" stop="20260318230500 -0600" channel="Bighorns">
+    <title>Helena Bighorns vs. Sheridan Hawks</title>
+    <desc>Live broadcast of Helena Bighorns vs. Sheridan Hawks</desc>
+    <key>36918</key>
+    <link>https://www.nahltv.com/watch/36918</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260319140000 -0600" stop="20260319143000 -0600" channel="Sharks">
+    <title>Pregame: Long Beach Sharks vs. New Hampshire Jr. Mountain Kings</title>
+    <desc>Pre-game coverage for Long Beach Sharks vs. New Hampshire Jr. Mountain Kings</desc>
+    <key>pregame(36919)</key>
+    <link>https://www.nahltv.com/watch/36919</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260319143000 -0600" stop="20260319173000 -0600" channel="Sharks">
+    <title>Long Beach Sharks vs. New Hampshire Jr. Mountain Kings</title>
+    <desc>Live broadcast of Long Beach Sharks vs. New Hampshire Jr. Mountain Kings</desc>
+    <key>36919</key>
+    <link>https://www.nahltv.com/watch/36919</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260319183000 -0600" stop="20260319190000 -0600" channel="Power">
+    <title>Pregame: West Bend Power vs. Rochester Grizzlies</title>
+    <desc>Pre-game coverage for West Bend Power vs. Rochester Grizzlies</desc>
+    <key>pregame(36920)</key>
+    <link>https://www.nahltv.com/watch/36920</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260319190000 -0600" stop="20260319220000 -0600" channel="Power">
+    <title>West Bend Power vs. Rochester Grizzlies</title>
+    <desc>Live broadcast of West Bend Power vs. Rochester Grizzlies</desc>
+    <key>36920</key>
+    <link>https://www.nahltv.com/watch/36920</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260319183500 -0600" stop="20260319190500 -0600" channel="Brahmas">
+    <title>Pregame: Texas Brahmas vs. Austin Ice Bats</title>
+    <desc>Pre-game coverage for Texas Brahmas vs. Austin Ice Bats</desc>
+    <key>pregame(36921)</key>
+    <link>https://www.nahltv.com/watch/36921</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260319190500 -0600" stop="20260319220500 -0600" channel="Brahmas">
+    <title>Texas Brahmas vs. Austin Ice Bats</title>
+    <desc>Live broadcast of Texas Brahmas vs. Austin Ice Bats</desc>
+    <key>36921</key>
+    <link>https://www.nahltv.com/watch/36921</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260320090000 -0600" stop="20260320093000 -0600" channel="Sharks">
+    <title>Pregame: Long Beach Sharks vs. New Hampshire Jr. Mountain Kings</title>
+    <desc>Pre-game coverage for Long Beach Sharks vs. New Hampshire Jr. Mountain Kings</desc>
+    <key>pregame(36922)</key>
+    <link>https://www.nahltv.com/watch/36922</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260320093000 -0600" stop="20260320123000 -0600" channel="Sharks">
+    <title>Long Beach Sharks vs. New Hampshire Jr. Mountain Kings</title>
+    <desc>Live broadcast of Long Beach Sharks vs. New Hampshire Jr. Mountain Kings</desc>
+    <key>36922</key>
+    <link>https://www.nahltv.com/watch/36922</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
