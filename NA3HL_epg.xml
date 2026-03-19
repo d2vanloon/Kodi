@@ -13098,4 +13098,172 @@
     <link>https://www.nahltv.com/watch/36922</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20260320133500 -0600" stop="20260320140500 -0600" channel="Brahmas">
+    <title>Pregame: Texas Brahmas vs. Austin Ice Bats</title>
+    <desc>Pre-game coverage for Texas Brahmas vs. Austin Ice Bats</desc>
+    <key>pregame(36923)</key>
+    <link>https://www.nahltv.com/watch/36923</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260320140500 -0600" stop="20260320170500 -0600" channel="Brahmas">
+    <title>Texas Brahmas vs. Austin Ice Bats</title>
+    <desc>Live broadcast of Texas Brahmas vs. Austin Ice Bats</desc>
+    <key>36923</key>
+    <link>https://www.nahltv.com/watch/36923</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260320153000 -0600" stop="20260320160000 -0600" channel="Drillers">
+    <title>Pregame: Louisiana Drillers vs. Texas RoadRunners</title>
+    <desc>Pre-game coverage for Louisiana Drillers vs. Texas RoadRunners</desc>
+    <key>pregame(36924)</key>
+    <link>https://www.nahltv.com/watch/36924</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260320160000 -0600" stop="20260320190000 -0600" channel="Drillers">
+    <title>Louisiana Drillers vs. Texas RoadRunners</title>
+    <desc>Live broadcast of Louisiana Drillers vs. Texas RoadRunners</desc>
+    <key>36924</key>
+    <link>https://www.nahltv.com/watch/36924</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260320183000 -0600" stop="20260320190000 -0600" channel="Grizzlies">
+    <title>Pregame: Rochester Grizzlies vs. West Bend Power</title>
+    <desc>Pre-game coverage for Rochester Grizzlies vs. West Bend Power</desc>
+    <key>pregame(36925)</key>
+    <link>https://www.nahltv.com/watch/36925</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260320190000 -0600" stop="20260320220000 -0600" channel="Grizzlies">
+    <title>Rochester Grizzlies vs. West Bend Power</title>
+    <desc>Live broadcast of Rochester Grizzlies vs. West Bend Power</desc>
+    <key>36925</key>
+    <link>https://www.nahltv.com/watch/36925</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260320190000 -0600" stop="20260320193000 -0600" channel="Lumberjacks">
+    <title>Pregame: Granite City Lumberjacks vs. Alexandria Blizzard</title>
+    <desc>Pre-game coverage for Granite City Lumberjacks vs. Alexandria Blizzard</desc>
+    <key>pregame(36926)</key>
+    <link>https://www.nahltv.com/watch/36926</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260320193000 -0600" stop="20260320223000 -0600" channel="Lumberjacks">
+    <title>Granite City Lumberjacks vs. Alexandria Blizzard</title>
+    <desc>Live broadcast of Granite City Lumberjacks vs. Alexandria Blizzard</desc>
+    <key>36926</key>
+    <link>https://www.nahltv.com/watch/36926</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260320200000 -0600" stop="20260320203000 -0600" channel="Hawks">
+    <title>Pregame: Sheridan Hawks vs. Helena Bighorns</title>
+    <desc>Pre-game coverage for Sheridan Hawks vs. Helena Bighorns</desc>
+    <key>pregame(36927)</key>
+    <link>https://www.nahltv.com/watch/36927</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260320203000 -0600" stop="20260320233000 -0600" channel="Hawks">
+    <title>Sheridan Hawks vs. Helena Bighorns</title>
+    <desc>Live broadcast of Sheridan Hawks vs. Helena Bighorns</desc>
+    <key>36927</key>
+    <link>https://www.nahltv.com/watch/36927</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260321153000 -0600" stop="20260321160000 -0600" channel="Drillers">
+    <title>Pregame: Louisiana Drillers vs. Texas RoadRunners</title>
+    <desc>Pre-game coverage for Louisiana Drillers vs. Texas RoadRunners</desc>
+    <key>pregame(36928)</key>
+    <link>https://www.nahltv.com/watch/36928</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260321160000 -0600" stop="20260321190000 -0600" channel="Drillers">
+    <title>Louisiana Drillers vs. Texas RoadRunners</title>
+    <desc>Live broadcast of Louisiana Drillers vs. Texas RoadRunners</desc>
+    <key>36928</key>
+    <link>https://www.nahltv.com/watch/36928</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260321173000 -0600" stop="20260321180000 -0600" channel="Jr._Mountain_Kings">
+    <title>Pregame: New Hampshire Jr. Mountain Kings vs. Long Beach Sharks</title>
+    <desc>Pre-game coverage for New Hampshire Jr. Mountain Kings vs. Long Beach Sharks</desc>
+    <key>pregame(36930)</key>
+    <link>https://www.nahltv.com/watch/36930</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260321180000 -0600" stop="20260321210000 -0600" channel="Jr._Mountain_Kings">
+    <title>New Hampshire Jr. Mountain Kings vs. Long Beach Sharks</title>
+    <desc>Live broadcast of New Hampshire Jr. Mountain Kings vs. Long Beach Sharks</desc>
+    <key>36930</key>
+    <link>https://www.nahltv.com/watch/36930</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260321183000 -0600" stop="20260321190000 -0600" channel="Power">
+    <title>Pregame: West Bend Power vs. Rochester Grizzlies</title>
+    <desc>Pre-game coverage for West Bend Power vs. Rochester Grizzlies</desc>
+    <key>pregame(36929)</key>
+    <link>https://www.nahltv.com/watch/36929</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260321190000 -0600" stop="20260321220000 -0600" channel="Power">
+    <title>West Bend Power vs. Rochester Grizzlies</title>
+    <desc>Live broadcast of West Bend Power vs. Rochester Grizzlies</desc>
+    <key>36929</key>
+    <link>https://www.nahltv.com/watch/36929</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260321184000 -0600" stop="20260321191000 -0600" channel="Blizzard">
+    <title>Pregame: Alexandria Blizzard vs. Granite City Lumberjacks</title>
+    <desc>Pre-game coverage for Alexandria Blizzard vs. Granite City Lumberjacks</desc>
+    <key>pregame(36931)</key>
+    <link>https://www.nahltv.com/watch/36931</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260321191000 -0600" stop="20260321221000 -0600" channel="Blizzard">
+    <title>Alexandria Blizzard vs. Granite City Lumberjacks</title>
+    <desc>Live broadcast of Alexandria Blizzard vs. Granite City Lumberjacks</desc>
+    <key>36931</key>
+    <link>https://www.nahltv.com/watch/36931</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260321200000 -0600" stop="20260321203000 -0600" channel="Hawks">
+    <title>Pregame: Sheridan Hawks vs. Helena Bighorns</title>
+    <desc>Pre-game coverage for Sheridan Hawks vs. Helena Bighorns</desc>
+    <key>pregame(36932)</key>
+    <link>https://www.nahltv.com/watch/36932</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260321203000 -0600" stop="20260321233000 -0600" channel="Hawks">
+    <title>Sheridan Hawks vs. Helena Bighorns</title>
+    <desc>Live broadcast of Sheridan Hawks vs. Helena Bighorns</desc>
+    <key>36932</key>
+    <link>https://www.nahltv.com/watch/36932</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260322153000 -0600" stop="20260322160000 -0600" channel="Drillers">
+    <title>Pregame: Louisiana Drillers vs. Texas RoadRunners</title>
+    <desc>Pre-game coverage for Louisiana Drillers vs. Texas RoadRunners</desc>
+    <key>pregame(36933)</key>
+    <link>https://www.nahltv.com/watch/36933</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260322160000 -0600" stop="20260322190000 -0600" channel="Drillers">
+    <title>Louisiana Drillers vs. Texas RoadRunners</title>
+    <desc>Live broadcast of Louisiana Drillers vs. Texas RoadRunners</desc>
+    <key>36933</key>
+    <link>https://www.nahltv.com/watch/36933</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260322173000 -0600" stop="20260322180000 -0600" channel="Lumberjacks">
+    <title>Pregame: Granite City Lumberjacks vs. Alexandria Blizzard</title>
+    <desc>Pre-game coverage for Granite City Lumberjacks vs. Alexandria Blizzard</desc>
+    <key>pregame(36934)</key>
+    <link>https://www.nahltv.com/watch/36934</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260322180000 -0600" stop="20260322210000 -0600" channel="Lumberjacks">
+    <title>Granite City Lumberjacks vs. Alexandria Blizzard</title>
+    <desc>Live broadcast of Granite City Lumberjacks vs. Alexandria Blizzard</desc>
+    <key>36934</key>
+    <link>https://www.nahltv.com/watch/36934</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
