@@ -12692,4 +12692,18 @@
     <link>https://www.nahltv.com/watch/30966</link>
     <category>NAHL</category>
     </programme>
+  <programme start="20260320220000 -0600" stop="20260320223000 -0600" channel="Ice_Dogs">
+    <title>Pregame: Fairbanks Ice Dogs vs. Janesville Jets</title>
+    <desc>Pre-game coverage for Fairbanks Ice Dogs vs. Janesville Jets</desc>
+    <key>pregame(30967)</key>
+    <link>https://www.nahltv.com/watch/30967</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260320223000 -0600" stop="20260321013000 -0600" channel="Ice_Dogs">
+    <title>Fairbanks Ice Dogs vs. Janesville Jets</title>
+    <desc>Live broadcast of Fairbanks Ice Dogs vs. Janesville Jets</desc>
+    <key>30967</key>
+    <link>https://www.nahltv.com/watch/30967</link>
+    <category>NAHL</category>
+    </programme>
   </tv>
