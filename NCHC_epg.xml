@@ -2738,4 +2738,18 @@
     <link>http://nchchockey.com/watch?live=1497</link>
     <category>NCHC</category>
     </programme>
+  <programme start="20260321173700 -0600" stop="20260321180700 -0600" channel="Denver">
+    <title>Pregame: Denver vs. Minnesota Duluth</title>
+    <desc>Pre-game coverage for Denver vs. Minnesota Duluth</desc>
+    <key>pregame(20436)</key>
+    <link>http://nchchockey.com/watch?live=1501</link>
+    <category>NCHC</category>
+    </programme>
+  <programme start="20260321180700 -0600" stop="20260321210700 -0600" channel="Denver">
+    <title>Denver vs. Minnesota Duluth</title>
+    <desc>Live broadcast of Denver vs. Minnesota Duluth</desc>
+    <key>20436</key>
+    <link>http://nchchockey.com/watch?live=1501</link>
+    <category>NCHC</category>
+    </programme>
   </tv>
