@@ -13154,4 +13154,32 @@
     <link>https://www.nahltv.com/watch/31000</link>
     <category>NAHL</category>
     </programme>
+  <programme start="20260327184500 -0600" stop="20260327191500 -0600" channel="Bobcats">
+    <title>Pregame: Bismarck Bobcats vs. Minnesota Mallards</title>
+    <desc>Pre-game coverage for Bismarck Bobcats vs. Minnesota Mallards</desc>
+    <key>pregame(31001)</key>
+    <link>https://www.nahltv.com/watch/31001</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260327191500 -0600" stop="20260327221500 -0600" channel="Bobcats">
+    <title>Bismarck Bobcats vs. Minnesota Mallards</title>
+    <desc>Live broadcast of Bismarck Bobcats vs. Minnesota Mallards</desc>
+    <key>31001</key>
+    <link>https://www.nahltv.com/watch/31001</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260327184500 -0600" stop="20260327191500 -0600" channel="Wings">
+    <title>Pregame: Aberdeen Wings vs. St. Cloud Norsemen</title>
+    <desc>Pre-game coverage for Aberdeen Wings vs. St. Cloud Norsemen</desc>
+    <key>pregame(31002)</key>
+    <link>https://www.nahltv.com/watch/31002</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260327191500 -0600" stop="20260327221500 -0600" channel="Wings">
+    <title>Aberdeen Wings vs. St. Cloud Norsemen</title>
+    <desc>Live broadcast of Aberdeen Wings vs. St. Cloud Norsemen</desc>
+    <key>31002</key>
+    <link>https://www.nahltv.com/watch/31002</link>
+    <category>NAHL</category>
+    </programme>
   </tv>
