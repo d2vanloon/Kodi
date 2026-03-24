@@ -13266,4 +13266,88 @@
     <link>https://www.nahltv.com/watch/36934</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20260325153000 -0600" stop="20260325160000 -0600" channel="Grizzlies">
+    <title>Pregame: Rochester Grizzlies vs. Helena Bighorns</title>
+    <desc>Pre-game coverage for Rochester Grizzlies vs. Helena Bighorns</desc>
+    <key>pregame(37129)</key>
+    <link>https://www.nahltv.com/watch/37129</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260325160000 -0600" stop="20260325190000 -0600" channel="Grizzlies">
+    <title>Rochester Grizzlies vs. Helena Bighorns</title>
+    <desc>Live broadcast of Rochester Grizzlies vs. Helena Bighorns</desc>
+    <key>37129</key>
+    <link>https://www.nahltv.com/watch/37129</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260325190000 -0600" stop="20260325193000 -0600" channel="Lumberjacks">
+    <title>Pregame: Granite City Lumberjacks vs. Texas Brahmas</title>
+    <desc>Pre-game coverage for Granite City Lumberjacks vs. Texas Brahmas</desc>
+    <key>pregame(37130)</key>
+    <link>https://www.nahltv.com/watch/37130</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260325193000 -0600" stop="20260325223000 -0600" channel="Lumberjacks">
+    <title>Granite City Lumberjacks vs. Texas Brahmas</title>
+    <desc>Live broadcast of Granite City Lumberjacks vs. Texas Brahmas</desc>
+    <key>37130</key>
+    <link>https://www.nahltv.com/watch/37130</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260326153000 -0600" stop="20260326160000 -0600" channel="Grizzlies">
+    <title>Pregame: Rochester Grizzlies vs. Louisiana Drillers</title>
+    <desc>Pre-game coverage for Rochester Grizzlies vs. Louisiana Drillers</desc>
+    <key>pregame(37131)</key>
+    <link>https://www.nahltv.com/watch/37131</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260326160000 -0600" stop="20260326190000 -0600" channel="Grizzlies">
+    <title>Rochester Grizzlies vs. Louisiana Drillers</title>
+    <desc>Live broadcast of Rochester Grizzlies vs. Louisiana Drillers</desc>
+    <key>37131</key>
+    <link>https://www.nahltv.com/watch/37131</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260327153000 -0600" stop="20260327160000 -0600" channel="Bighorns">
+    <title>Pregame: Helena Bighorns vs. Louisiana Drillers</title>
+    <desc>Pre-game coverage for Helena Bighorns vs. Louisiana Drillers</desc>
+    <key>pregame(37133)</key>
+    <link>https://www.nahltv.com/watch/37133</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260327160000 -0600" stop="20260327190000 -0600" channel="Bighorns">
+    <title>Helena Bighorns vs. Louisiana Drillers</title>
+    <desc>Live broadcast of Helena Bighorns vs. Louisiana Drillers</desc>
+    <key>37133</key>
+    <link>https://www.nahltv.com/watch/37133</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260327190000 -0600" stop="20260327193000 -0600" channel="Brahmas">
+    <title>Pregame: Texas Brahmas vs. Long Beach Sharks</title>
+    <desc>Pre-game coverage for Texas Brahmas vs. Long Beach Sharks</desc>
+    <key>pregame(37134)</key>
+    <link>https://www.nahltv.com/watch/37134</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260327193000 -0600" stop="20260327223000 -0600" channel="Brahmas">
+    <title>Texas Brahmas vs. Long Beach Sharks</title>
+    <desc>Live broadcast of Texas Brahmas vs. Long Beach Sharks</desc>
+    <key>37134</key>
+    <link>https://www.nahltv.com/watch/37134</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260331190000 -0600" stop="20260331193000 -0600" channel="Lumberjacks">
+    <title>Pregame: Granite City Lumberjacks vs. Long Beach Sharks</title>
+    <desc>Pre-game coverage for Granite City Lumberjacks vs. Long Beach Sharks</desc>
+    <key>pregame(37132)</key>
+    <link>https://www.nahltv.com/watch/37132</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260331193000 -0600" stop="20260331223000 -0600" channel="Lumberjacks">
+    <title>Granite City Lumberjacks vs. Long Beach Sharks</title>
+    <desc>Live broadcast of Granite City Lumberjacks vs. Long Beach Sharks</desc>
+    <key>37132</key>
+    <link>https://www.nahltv.com/watch/37132</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
