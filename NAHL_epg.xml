@@ -13182,4 +13182,18 @@
     <link>https://www.nahltv.com/watch/31002</link>
     <category>NAHL</category>
     </programme>
+  <programme start="20260327190000 -0600" stop="20260327193000 -0600" channel="Ice_Wolves">
+    <title>Pregame: New Mexico Ice Wolves vs. Oklahoma Warriors</title>
+    <desc>Pre-game coverage for New Mexico Ice Wolves vs. Oklahoma Warriors</desc>
+    <key>pregame(31003)</key>
+    <link>https://www.nahltv.com/watch/31003</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260327193000 -0600" stop="20260327223000 -0600" channel="Ice_Wolves">
+    <title>New Mexico Ice Wolves vs. Oklahoma Warriors</title>
+    <desc>Live broadcast of New Mexico Ice Wolves vs. Oklahoma Warriors</desc>
+    <key>31003</key>
+    <link>https://www.nahltv.com/watch/31003</link>
+    <category>NAHL</category>
+    </programme>
   </tv>
