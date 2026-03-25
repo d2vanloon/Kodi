@@ -13350,4 +13350,18 @@
     <link>https://www.nahltv.com/watch/37132</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20260326190000 -0600" stop="20260326193000 -0600" channel="Lumberjacks">
+    <title>Pregame: Granite City Lumberjacks vs. Long Beach Sharks</title>
+    <desc>Pre-game coverage for Granite City Lumberjacks vs. Long Beach Sharks</desc>
+    <key>pregame(37132)</key>
+    <link>https://www.nahltv.com/watch/37132</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260326193000 -0600" stop="20260326223000 -0600" channel="Lumberjacks">
+    <title>Granite City Lumberjacks vs. Long Beach Sharks</title>
+    <desc>Live broadcast of Granite City Lumberjacks vs. Long Beach Sharks</desc>
+    <key>37132</key>
+    <link>https://www.nahltv.com/watch/37132</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
