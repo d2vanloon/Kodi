@@ -13196,4 +13196,18 @@
     <link>https://www.nahltv.com/watch/31003</link>
     <category>NAHL</category>
     </programme>
+  <programme start="20260327220000 -0600" stop="20260327223000 -0600" channel="Brown_Bears">
+    <title>Pregame: Kenai River Brown Bears vs. Wisconsin Windigo</title>
+    <desc>Pre-game coverage for Kenai River Brown Bears vs. Wisconsin Windigo</desc>
+    <key>pregame(31004)</key>
+    <link>https://www.nahltv.com/watch/31004</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260327223000 -0600" stop="20260328013000 -0600" channel="Brown_Bears">
+    <title>Kenai River Brown Bears vs. Wisconsin Windigo</title>
+    <desc>Live broadcast of Kenai River Brown Bears vs. Wisconsin Windigo</desc>
+    <key>31004</key>
+    <link>https://www.nahltv.com/watch/31004</link>
+    <category>NAHL</category>
+    </programme>
   </tv>
