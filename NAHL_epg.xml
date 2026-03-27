@@ -13210,4 +13210,18 @@
     <link>https://www.nahltv.com/watch/31004</link>
     <category>NAHL</category>
     </programme>
+  <programme start="20260328163000 -0600" stop="20260328170000 -0600" channel="Mountain_Kings">
+    <title>Pregame: New Hampshire Mountain Kings vs. Johnstown Tomahawks</title>
+    <desc>Pre-game coverage for New Hampshire Mountain Kings vs. Johnstown Tomahawks</desc>
+    <key>pregame(31005)</key>
+    <link>https://www.nahltv.com/watch/31005</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260328170000 -0600" stop="20260328200000 -0600" channel="Mountain_Kings">
+    <title>New Hampshire Mountain Kings vs. Johnstown Tomahawks</title>
+    <desc>Live broadcast of New Hampshire Mountain Kings vs. Johnstown Tomahawks</desc>
+    <key>31005</key>
+    <link>https://www.nahltv.com/watch/31005</link>
+    <category>NAHL</category>
+    </programme>
   </tv>
