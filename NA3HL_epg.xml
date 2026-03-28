@@ -13364,4 +13364,32 @@
     <link>https://www.nahltv.com/watch/37132</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20260328153000 -0600" stop="20260328160000 -0600" channel="Grizzlies">
+    <title>Pregame: Rochester Grizzlies vs. Granite City Lumberjacks</title>
+    <desc>Pre-game coverage for Rochester Grizzlies vs. Granite City Lumberjacks</desc>
+    <key>pregame(37212)</key>
+    <link>https://www.nahltv.com/watch/37212</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260328160000 -0600" stop="20260328190000 -0600" channel="Grizzlies">
+    <title>Rochester Grizzlies vs. Granite City Lumberjacks</title>
+    <desc>Live broadcast of Rochester Grizzlies vs. Granite City Lumberjacks</desc>
+    <key>37212</key>
+    <link>https://www.nahltv.com/watch/37212</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260328190000 -0600" stop="20260328193000 -0600" channel="Brahmas">
+    <title>Pregame: Texas Brahmas vs. Louisiana Drillers</title>
+    <desc>Pre-game coverage for Texas Brahmas vs. Louisiana Drillers</desc>
+    <key>pregame(37213)</key>
+    <link>https://www.nahltv.com/watch/37213</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260328193000 -0600" stop="20260328223000 -0600" channel="Brahmas">
+    <title>Texas Brahmas vs. Louisiana Drillers</title>
+    <desc>Live broadcast of Texas Brahmas vs. Louisiana Drillers</desc>
+    <key>37213</key>
+    <link>https://www.nahltv.com/watch/37213</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
