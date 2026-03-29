@@ -13392,4 +13392,18 @@
     <link>https://www.nahltv.com/watch/37213</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20260329153000 -0600" stop="20260329160000 -0600" channel="Lumberjacks">
+    <title>Pregame: Granite City Lumberjacks vs. Louisiana Drillers</title>
+    <desc>Pre-game coverage for Granite City Lumberjacks vs. Louisiana Drillers</desc>
+    <key>pregame(37216)</key>
+    <link>https://www.nahltv.com/watch/37216</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260329160000 -0600" stop="20260329190000 -0600" channel="Lumberjacks">
+    <title>Granite City Lumberjacks vs. Louisiana Drillers</title>
+    <desc>Live broadcast of Granite City Lumberjacks vs. Louisiana Drillers</desc>
+    <key>37216</key>
+    <link>https://www.nahltv.com/watch/37216</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
