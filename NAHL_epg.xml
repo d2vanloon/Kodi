@@ -13644,4 +13644,18 @@
     <link>https://www.nahltv.com/watch/31034</link>
     <category>NAHL</category>
     </programme>
+  <programme start="20260403190000 -0600" stop="20260403193000 -0600" channel="Brahmas">
+    <title>Pregame: Lone Star Brahmas vs. Amarillo Wranglers</title>
+    <desc>Pre-game coverage for Lone Star Brahmas vs. Amarillo Wranglers</desc>
+    <key>pregame(31035)</key>
+    <link>https://www.nahltv.com/watch/31035</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260403193000 -0600" stop="20260403223000 -0600" channel="Brahmas">
+    <title>Lone Star Brahmas vs. Amarillo Wranglers</title>
+    <desc>Live broadcast of Lone Star Brahmas vs. Amarillo Wranglers</desc>
+    <key>31035</key>
+    <link>https://www.nahltv.com/watch/31035</link>
+    <category>NAHL</category>
+    </programme>
   </tv>
