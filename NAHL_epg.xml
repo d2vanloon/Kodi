@@ -13658,4 +13658,32 @@
     <link>https://www.nahltv.com/watch/31035</link>
     <category>NAHL</category>
     </programme>
+  <programme start="20260403175000 -0600" stop="20260403182000 -0600" channel="Hat_Tricks">
+    <title>Pregame: Danbury Hat Tricks vs. Maryland Black Bears</title>
+    <desc>Pre-game coverage for Danbury Hat Tricks vs. Maryland Black Bears</desc>
+    <key>pregame(31025)</key>
+    <link>https://www.nahltv.com/watch/31025</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260403182000 -0600" stop="20260403212000 -0600" channel="Hat_Tricks">
+    <title>Danbury Hat Tricks vs. Maryland Black Bears</title>
+    <desc>Live broadcast of Danbury Hat Tricks vs. Maryland Black Bears</desc>
+    <key>31025</key>
+    <link>https://www.nahltv.com/watch/31025</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260403190500 -0600" stop="20260403193500 -0600" channel="Minotauros">
+    <title>Pregame: Minot Minotauros vs. Aberdeen Wings</title>
+    <desc>Pre-game coverage for Minot Minotauros vs. Aberdeen Wings</desc>
+    <key>pregame(31036)</key>
+    <link>https://www.nahltv.com/watch/31036</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260403193500 -0600" stop="20260403223500 -0600" channel="Minotauros">
+    <title>Minot Minotauros vs. Aberdeen Wings</title>
+    <desc>Live broadcast of Minot Minotauros vs. Aberdeen Wings</desc>
+    <key>31036</key>
+    <link>https://www.nahltv.com/watch/31036</link>
+    <category>NAHL</category>
+    </programme>
   </tv>
