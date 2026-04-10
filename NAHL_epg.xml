@@ -14232,4 +14232,18 @@
     <link>https://www.nahltv.com/watch/37393</link>
     <category>NAHL</category>
     </programme>
+  <programme start="20260410184000 -0600" stop="20260410191000 -0600" channel="Norsemen">
+    <title>Pregame: St. Cloud Norsemen vs. North Iowa Bulls</title>
+    <desc>Pre-game coverage for St. Cloud Norsemen vs. North Iowa Bulls</desc>
+    <key>pregame(31060)</key>
+    <link>https://www.nahltv.com/watch/31060</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260410191000 -0600" stop="20260410221000 -0600" channel="Norsemen">
+    <title>St. Cloud Norsemen vs. North Iowa Bulls</title>
+    <desc>Live broadcast of St. Cloud Norsemen vs. North Iowa Bulls</desc>
+    <key>31060</key>
+    <link>https://www.nahltv.com/watch/31060</link>
+    <category>NAHL</category>
+    </programme>
   </tv>
