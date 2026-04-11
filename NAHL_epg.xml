@@ -14246,4 +14246,88 @@
     <link>https://www.nahltv.com/watch/31060</link>
     <category>NAHL</category>
     </programme>
+  <programme start="20260411184100 -0600" stop="20260411191100 -0600" channel="IceRays">
+    <title>Pregame: Corpus Christi IceRays vs. Shreveport Mudbugs</title>
+    <desc>Pre-game coverage for Corpus Christi IceRays vs. Shreveport Mudbugs</desc>
+    <key>pregame(37395)</key>
+    <link>https://www.nahltv.com/watch/37395</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260411191100 -0600" stop="20260411221100 -0600" channel="IceRays">
+    <title>Corpus Christi IceRays vs. Shreveport Mudbugs</title>
+    <desc>Live broadcast of Corpus Christi IceRays vs. Shreveport Mudbugs</desc>
+    <key>37395</key>
+    <link>https://www.nahltv.com/watch/37395</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260411193000 -0600" stop="20260411200000 -0600" channel="Rhinos">
+    <title>Pregame: El Paso Rhinos vs. Oklahoma Warriors</title>
+    <desc>Pre-game coverage for El Paso Rhinos vs. Oklahoma Warriors</desc>
+    <key>pregame(37394)</key>
+    <link>https://www.nahltv.com/watch/37394</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260411200000 -0600" stop="20260411230000 -0600" channel="Rhinos">
+    <title>El Paso Rhinos vs. Oklahoma Warriors</title>
+    <desc>Live broadcast of El Paso Rhinos vs. Oklahoma Warriors</desc>
+    <key>37394</key>
+    <link>https://www.nahltv.com/watch/37394</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260412133000 -0600" stop="20260412140000 -0600" channel="Generals">
+    <title>Pregame: Northeast Generals vs. Maine Nordiques</title>
+    <desc>Pre-game coverage for Northeast Generals vs. Maine Nordiques</desc>
+    <key>pregame(37396)</key>
+    <link>https://www.nahltv.com/watch/37396</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260412140000 -0600" stop="20260412170000 -0600" channel="Generals">
+    <title>Northeast Generals vs. Maine Nordiques</title>
+    <desc>Live broadcast of Northeast Generals vs. Maine Nordiques</desc>
+    <key>37396</key>
+    <link>https://www.nahltv.com/watch/37396</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260412143000 -0600" stop="20260412150000 -0600" channel="Titans">
+    <title>Pregame: New Jersey Titans vs. Danbury Hat Tricks</title>
+    <desc>Pre-game coverage for New Jersey Titans vs. Danbury Hat Tricks</desc>
+    <key>pregame(37397)</key>
+    <link>https://www.nahltv.com/watch/37397</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260412150000 -0600" stop="20260412180000 -0600" channel="Titans">
+    <title>New Jersey Titans vs. Danbury Hat Tricks</title>
+    <desc>Live broadcast of New Jersey Titans vs. Danbury Hat Tricks</desc>
+    <key>37397</key>
+    <link>https://www.nahltv.com/watch/37397</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260412170000 -0600" stop="20260412173000 -0600" channel="Rhinos">
+    <title>Pregame: El Paso Rhinos vs. Oklahoma Warriors</title>
+    <desc>Pre-game coverage for El Paso Rhinos vs. Oklahoma Warriors</desc>
+    <key>pregame(37398)</key>
+    <link>https://www.nahltv.com/watch/37398</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260412173000 -0600" stop="20260412203000 -0600" channel="Rhinos">
+    <title>El Paso Rhinos vs. Oklahoma Warriors</title>
+    <desc>Live broadcast of El Paso Rhinos vs. Oklahoma Warriors</desc>
+    <key>37398</key>
+    <link>https://www.nahltv.com/watch/37398</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260412184100 -0600" stop="20260412191100 -0600" channel="IceRays">
+    <title>Pregame: Corpus Christi IceRays vs. Shreveport Mudbugs</title>
+    <desc>Pre-game coverage for Corpus Christi IceRays vs. Shreveport Mudbugs</desc>
+    <key>pregame(37399)</key>
+    <link>https://www.nahltv.com/watch/37399</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260412191100 -0600" stop="20260412221100 -0600" channel="IceRays">
+    <title>Corpus Christi IceRays vs. Shreveport Mudbugs</title>
+    <desc>Live broadcast of Corpus Christi IceRays vs. Shreveport Mudbugs</desc>
+    <key>37399</key>
+    <link>https://www.nahltv.com/watch/37399</link>
+    <category>NAHL</category>
+    </programme>
   </tv>
