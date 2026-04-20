@@ -14778,4 +14778,32 @@
     <link>https://www.nahltv.com/watch/37512</link>
     <category>NAHL</category>
     </programme>
+  <programme start="20260426173000 -0600" stop="20260426180000 -0600" channel="Jr._Americans">
+    <title>Pregame: Rochester Jr. Americans vs. Northeast Generals</title>
+    <desc>Pre-game coverage for Rochester Jr. Americans vs. Northeast Generals</desc>
+    <key>pregame(37514)</key>
+    <link>https://www.nahltv.com/watch/37514</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260426180000 -0600" stop="20260426210000 -0600" channel="Jr._Americans">
+    <title>Rochester Jr. Americans vs. Northeast Generals</title>
+    <desc>Live broadcast of Rochester Jr. Americans vs. Northeast Generals</desc>
+    <key>37514</key>
+    <link>https://www.nahltv.com/watch/37514</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260427183500 -0600" stop="20260427190500 -0600" channel="Bruins">
+    <title>Pregame: Austin Bruins vs. Watertown Shamrocks</title>
+    <desc>Pre-game coverage for Austin Bruins vs. Watertown Shamrocks</desc>
+    <key>pregame(37515)</key>
+    <link>https://www.nahltv.com/watch/37515</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260427190500 -0600" stop="20260427220500 -0600" channel="Bruins">
+    <title>Austin Bruins vs. Watertown Shamrocks</title>
+    <desc>Live broadcast of Austin Bruins vs. Watertown Shamrocks</desc>
+    <key>37515</key>
+    <link>https://www.nahltv.com/watch/37515</link>
+    <category>NAHL</category>
+    </programme>
   </tv>
