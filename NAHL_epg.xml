@@ -14806,4 +14806,60 @@
     <link>https://www.nahltv.com/watch/37515</link>
     <category>NAHL</category>
     </programme>
+  <programme start="20260424180500 -0600" stop="20260424183500 -0600" channel="Windigo">
+    <title>Pregame: Wisconsin Windigo vs. Fairbanks Ice Dogs</title>
+    <desc>Pre-game coverage for Wisconsin Windigo vs. Fairbanks Ice Dogs</desc>
+    <key>pregame(37739)</key>
+    <link>https://www.nahltv.com/watch/37739</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260424183500 -0600" stop="20260424213500 -0600" channel="Windigo">
+    <title>Wisconsin Windigo vs. Fairbanks Ice Dogs</title>
+    <desc>Live broadcast of Wisconsin Windigo vs. Fairbanks Ice Dogs</desc>
+    <key>37739</key>
+    <link>https://www.nahltv.com/watch/37739</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260424220000 -0600" stop="20260424223000 -0600" channel="Wolverines">
+    <title>Pregame: Anchorage Wolverines vs. Minnesota Wilderness</title>
+    <desc>Pre-game coverage for Anchorage Wolverines vs. Minnesota Wilderness</desc>
+    <key>pregame(37740)</key>
+    <link>https://www.nahltv.com/watch/37740</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260424223000 -0600" stop="20260425013000 -0600" channel="Wolverines">
+    <title>Anchorage Wolverines vs. Minnesota Wilderness</title>
+    <desc>Live broadcast of Anchorage Wolverines vs. Minnesota Wilderness</desc>
+    <key>37740</key>
+    <link>https://www.nahltv.com/watch/37740</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260425180500 -0600" stop="20260425183500 -0600" channel="Windigo">
+    <title>Pregame: Wisconsin Windigo vs. Fairbanks Ice Dogs</title>
+    <desc>Pre-game coverage for Wisconsin Windigo vs. Fairbanks Ice Dogs</desc>
+    <key>pregame(37741)</key>
+    <link>https://www.nahltv.com/watch/37741</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260425183500 -0600" stop="20260425213500 -0600" channel="Windigo">
+    <title>Wisconsin Windigo vs. Fairbanks Ice Dogs</title>
+    <desc>Live broadcast of Wisconsin Windigo vs. Fairbanks Ice Dogs</desc>
+    <key>37741</key>
+    <link>https://www.nahltv.com/watch/37741</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260425220000 -0600" stop="20260425223000 -0600" channel="Wolverines">
+    <title>Pregame: Anchorage Wolverines vs. Minnesota Wilderness</title>
+    <desc>Pre-game coverage for Anchorage Wolverines vs. Minnesota Wilderness</desc>
+    <key>pregame(37742)</key>
+    <link>https://www.nahltv.com/watch/37742</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260425223000 -0600" stop="20260426013000 -0600" channel="Wolverines">
+    <title>Anchorage Wolverines vs. Minnesota Wilderness</title>
+    <desc>Live broadcast of Anchorage Wolverines vs. Minnesota Wilderness</desc>
+    <key>37742</key>
+    <link>https://www.nahltv.com/watch/37742</link>
+    <category>NAHL</category>
+    </programme>
   </tv>
