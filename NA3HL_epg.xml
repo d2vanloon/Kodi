@@ -13406,4 +13406,18 @@
     <link>https://www.nahltv.com/watch/37216</link>
     <category>NA3HL</category>
     </programme>
+  <programme start="20260429123000 -0600" stop="20260429130000 -0600" channel="Draft">
+    <title>Pregame: Draft vs. NA3HL</title>
+    <desc>Pre-game coverage for Draft vs. NA3HL</desc>
+    <key>pregame(37771)</key>
+    <link>https://www.nahltv.com/watch/37771</link>
+    <category>NA3HL</category>
+    </programme>
+  <programme start="20260429130000 -0600" stop="20260429160000 -0600" channel="Draft">
+    <title>Draft vs. NA3HL</title>
+    <desc>Live broadcast of Draft vs. NA3HL</desc>
+    <key>37771</key>
+    <link>https://www.nahltv.com/watch/37771</link>
+    <category>NA3HL</category>
+    </programme>
   </tv>
