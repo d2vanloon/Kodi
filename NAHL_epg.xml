@@ -14862,4 +14862,18 @@
     <link>https://www.nahltv.com/watch/37742</link>
     <category>NAHL</category>
     </programme>
+  <programme start="20260427183000 -0600" stop="20260427190000 -0600" channel="Brahmas">
+    <title>Pregame: Lone Star Brahmas vs. Shreveport Mudbugs</title>
+    <desc>Pre-game coverage for Lone Star Brahmas vs. Shreveport Mudbugs</desc>
+    <key>pregame(37517)</key>
+    <link>https://www.nahltv.com/watch/37517</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260427190000 -0600" stop="20260427220000 -0600" channel="Brahmas">
+    <title>Lone Star Brahmas vs. Shreveport Mudbugs</title>
+    <desc>Live broadcast of Lone Star Brahmas vs. Shreveport Mudbugs</desc>
+    <key>37517</key>
+    <link>https://www.nahltv.com/watch/37517</link>
+    <category>NAHL</category>
+    </programme>
   </tv>
