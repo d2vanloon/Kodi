@@ -14876,4 +14876,18 @@
     <link>https://www.nahltv.com/watch/37517</link>
     <category>NAHL</category>
     </programme>
+  <programme start="20260427184500 -0600" stop="20260427191500 -0600" channel="Bobcats">
+    <title>Pregame: Bismarck Bobcats vs. Aberdeen Wings</title>
+    <desc>Pre-game coverage for Bismarck Bobcats vs. Aberdeen Wings</desc>
+    <key>pregame(37516)</key>
+    <link>https://www.nahltv.com/watch/37516</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260427191500 -0600" stop="20260427221500 -0600" channel="Bobcats">
+    <title>Bismarck Bobcats vs. Aberdeen Wings</title>
+    <desc>Live broadcast of Bismarck Bobcats vs. Aberdeen Wings</desc>
+    <key>37516</key>
+    <link>https://www.nahltv.com/watch/37516</link>
+    <category>NAHL</category>
+    </programme>
   </tv>
