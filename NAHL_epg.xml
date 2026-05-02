@@ -15114,4 +15114,60 @@
     <link>https://www.nahltv.com/watch/38172</link>
     <category>NAHL</category>
     </programme>
+  <programme start="20260510163000 -0600" stop="20260510170000 -0600" channel="Black_Bears">
+    <title>Pregame: Maryland Black Bears vs. Rochester Jr. Americans</title>
+    <desc>Pre-game coverage for Maryland Black Bears vs. Rochester Jr. Americans</desc>
+    <key>pregame(38174)</key>
+    <link>https://www.nahltv.com/watch/38174</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260510170000 -0600" stop="20260510200000 -0600" channel="Black_Bears">
+    <title>Maryland Black Bears vs. Rochester Jr. Americans</title>
+    <desc>Live broadcast of Maryland Black Bears vs. Rochester Jr. Americans</desc>
+    <key>38174</key>
+    <link>https://www.nahltv.com/watch/38174</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260510173000 -0600" stop="20260510180000 -0600" channel="Brahmas">
+    <title>Pregame: Lone Star Brahmas vs. El Paso Rhinos</title>
+    <desc>Pre-game coverage for Lone Star Brahmas vs. El Paso Rhinos</desc>
+    <key>pregame(38173)</key>
+    <link>https://www.nahltv.com/watch/38173</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260510180000 -0600" stop="20260510210000 -0600" channel="Brahmas">
+    <title>Lone Star Brahmas vs. El Paso Rhinos</title>
+    <desc>Live broadcast of Lone Star Brahmas vs. El Paso Rhinos</desc>
+    <key>38173</key>
+    <link>https://www.nahltv.com/watch/38173</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260511174500 -0600" stop="20260511181500 -0600" channel="Wilderness">
+    <title>Pregame: Minnesota Wilderness vs. Wisconsin Windigo</title>
+    <desc>Pre-game coverage for Minnesota Wilderness vs. Wisconsin Windigo</desc>
+    <key>pregame(38175)</key>
+    <link>https://www.nahltv.com/watch/38175</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260511181500 -0600" stop="20260511211500 -0600" channel="Wilderness">
+    <title>Minnesota Wilderness vs. Wisconsin Windigo</title>
+    <desc>Live broadcast of Minnesota Wilderness vs. Wisconsin Windigo</desc>
+    <key>38175</key>
+    <link>https://www.nahltv.com/watch/38175</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260511183500 -0600" stop="20260511190500 -0600" channel="Bruins">
+    <title>Pregame: Austin Bruins vs. Aberdeen Wings</title>
+    <desc>Pre-game coverage for Austin Bruins vs. Aberdeen Wings</desc>
+    <key>pregame(38176)</key>
+    <link>https://www.nahltv.com/watch/38176</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260511190500 -0600" stop="20260511220500 -0600" channel="Bruins">
+    <title>Austin Bruins vs. Aberdeen Wings</title>
+    <desc>Live broadcast of Austin Bruins vs. Aberdeen Wings</desc>
+    <key>38176</key>
+    <link>https://www.nahltv.com/watch/38176</link>
+    <category>NAHL</category>
+    </programme>
   </tv>
