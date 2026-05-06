@@ -15170,4 +15170,18 @@
     <link>https://www.nahltv.com/watch/38176</link>
     <category>NAHL</category>
     </programme>
+  <programme start="20260507123000 -0600" stop="20260507130000 -0600" channel="Awards">
+    <title>Pregame: NAHL Awards vs. NAHL Awards</title>
+    <desc>Pre-game coverage for NAHL Awards vs. NAHL Awards</desc>
+    <key>pregame(38200)</key>
+    <link>https://www.nahltv.com/watch/38200</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260507130000 -0600" stop="20260507160000 -0600" channel="Awards">
+    <title>NAHL Awards vs. NAHL Awards</title>
+    <desc>Live broadcast of NAHL Awards vs. NAHL Awards</desc>
+    <key>38200</key>
+    <link>https://www.nahltv.com/watch/38200</link>
+    <category>NAHL</category>
+    </programme>
   </tv>
