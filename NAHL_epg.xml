@@ -15184,4 +15184,88 @@
     <link>https://www.nahltv.com/watch/38200</link>
     <category>NAHL</category>
     </programme>
+  <programme start="20260515153000 -0600" stop="20260515160000 -0600" channel="Black_Bears">
+    <title>Pregame: Maryland Black Bears vs. Lone Star Brahmas</title>
+    <desc>Pre-game coverage for Maryland Black Bears vs. Lone Star Brahmas</desc>
+    <key>pregame(38405)</key>
+    <link>https://www.nahltv.com/watch/38405</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260515160000 -0600" stop="20260515190000 -0600" channel="Black_Bears">
+    <title>Maryland Black Bears vs. Lone Star Brahmas</title>
+    <desc>Live broadcast of Maryland Black Bears vs. Lone Star Brahmas</desc>
+    <key>38405</key>
+    <link>https://www.nahltv.com/watch/38405</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260515190000 -0600" stop="20260515193000 -0600" channel="Bruins">
+    <title>Pregame: Austin Bruins vs. Minnesota Wilderness</title>
+    <desc>Pre-game coverage for Austin Bruins vs. Minnesota Wilderness</desc>
+    <key>pregame(38406)</key>
+    <link>https://www.nahltv.com/watch/38406</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260515193000 -0600" stop="20260515223000 -0600" channel="Bruins">
+    <title>Austin Bruins vs. Minnesota Wilderness</title>
+    <desc>Live broadcast of Austin Bruins vs. Minnesota Wilderness</desc>
+    <key>38406</key>
+    <link>https://www.nahltv.com/watch/38406</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260516153000 -0600" stop="20260516160000 -0600" channel="Brahmas">
+    <title>Pregame: Lone Star Brahmas vs. Maryland Black Bears</title>
+    <desc>Pre-game coverage for Lone Star Brahmas vs. Maryland Black Bears</desc>
+    <key>pregame(38407)</key>
+    <link>https://www.nahltv.com/watch/38407</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260516160000 -0600" stop="20260516190000 -0600" channel="Brahmas">
+    <title>Lone Star Brahmas vs. Maryland Black Bears</title>
+    <desc>Live broadcast of Lone Star Brahmas vs. Maryland Black Bears</desc>
+    <key>38407</key>
+    <link>https://www.nahltv.com/watch/38407</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260516190000 -0600" stop="20260516193000 -0600" channel="Wilderness">
+    <title>Pregame: Minnesota Wilderness vs. Austin Bruins</title>
+    <desc>Pre-game coverage for Minnesota Wilderness vs. Austin Bruins</desc>
+    <key>pregame(38408)</key>
+    <link>https://www.nahltv.com/watch/38408</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260516193000 -0600" stop="20260516223000 -0600" channel="Wilderness">
+    <title>Minnesota Wilderness vs. Austin Bruins</title>
+    <desc>Live broadcast of Minnesota Wilderness vs. Austin Bruins</desc>
+    <key>38408</key>
+    <link>https://www.nahltv.com/watch/38408</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260517143000 -0600" stop="20260517150000 -0600" channel="Black_Bears">
+    <title>Pregame: Maryland Black Bears vs. Lone Star Brahmas</title>
+    <desc>Pre-game coverage for Maryland Black Bears vs. Lone Star Brahmas</desc>
+    <key>pregame(38409)</key>
+    <link>https://www.nahltv.com/watch/38409</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260517150000 -0600" stop="20260517180000 -0600" channel="Black_Bears">
+    <title>Maryland Black Bears vs. Lone Star Brahmas</title>
+    <desc>Live broadcast of Maryland Black Bears vs. Lone Star Brahmas</desc>
+    <key>38409</key>
+    <link>https://www.nahltv.com/watch/38409</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260517180000 -0600" stop="20260517183000 -0600" channel="Bruins">
+    <title>Pregame: Austin Bruins vs. Minnesota Wilderness</title>
+    <desc>Pre-game coverage for Austin Bruins vs. Minnesota Wilderness</desc>
+    <key>pregame(38410)</key>
+    <link>https://www.nahltv.com/watch/38410</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260517183000 -0600" stop="20260517213000 -0600" channel="Bruins">
+    <title>Austin Bruins vs. Minnesota Wilderness</title>
+    <desc>Live broadcast of Austin Bruins vs. Minnesota Wilderness</desc>
+    <key>38410</key>
+    <link>https://www.nahltv.com/watch/38410</link>
+    <category>NAHL</category>
+    </programme>
   </tv>
