@@ -15268,4 +15268,18 @@
     <link>https://www.nahltv.com/watch/38410</link>
     <category>NAHL</category>
     </programme>
+  <programme start="20260519183000 -0600" stop="20260519190000 -0600" channel="Black_Bears">
+    <title>Pregame: Maryland Black Bears vs. Minnesota Wilderness</title>
+    <desc>Pre-game coverage for Maryland Black Bears vs. Minnesota Wilderness</desc>
+    <key>pregame(38569)</key>
+    <link>https://www.nahltv.com/watch/38569</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260519190000 -0600" stop="20260519220000 -0600" channel="Black_Bears">
+    <title>Maryland Black Bears vs. Minnesota Wilderness</title>
+    <desc>Live broadcast of Maryland Black Bears vs. Minnesota Wilderness</desc>
+    <key>38569</key>
+    <link>https://www.nahltv.com/watch/38569</link>
+    <category>NAHL</category>
+    </programme>
   </tv>
