@@ -15282,4 +15282,32 @@
     <link>https://www.nahltv.com/watch/38569</link>
     <category>NAHL</category>
     </programme>
+  <programme start="20260609123000 -0600" stop="20260609130000 -0600" channel="Draft">
+    <title>Pregame: Draft vs. 2026</title>
+    <desc>Pre-game coverage for Draft vs. 2026</desc>
+    <key>pregame(38796)</key>
+    <link>https://www.nahltv.com/watch/38796</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260609130000 -0600" stop="20260609160000 -0600" channel="Draft">
+    <title>Draft vs. 2026</title>
+    <desc>Live broadcast of Draft vs. 2026</desc>
+    <key>38796</key>
+    <link>https://www.nahltv.com/watch/38796</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260610123000 -0600" stop="20260610130000 -0600" channel="Draft">
+    <title>Pregame: Draft vs. 2026</title>
+    <desc>Pre-game coverage for Draft vs. 2026</desc>
+    <key>pregame(38797)</key>
+    <link>https://www.nahltv.com/watch/38797</link>
+    <category>NAHL</category>
+    </programme>
+  <programme start="20260610130000 -0600" stop="20260610160000 -0600" channel="Draft">
+    <title>Draft vs. 2026</title>
+    <desc>Live broadcast of Draft vs. 2026</desc>
+    <key>38797</key>
+    <link>https://www.nahltv.com/watch/38797</link>
+    <category>NAHL</category>
+    </programme>
   </tv>
